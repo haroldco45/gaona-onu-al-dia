@@ -1,0 +1,15 @@
+{
+  "name": "Gaona en la ONU al Día — Vibras Positivas HM",
+  "short_name": "Gaona ONU",
+  "description": "Seguimiento día a día al embajador de Colombia ante la ONU, Mauricio Gaona. / Daily tracker of Colombia's UN ambassador.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06132b",
+  "theme_color": "#06132b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Gaona en la ONU al Día — Vibras Positivas HM</title>
+<meta name="description" content="Seguimiento día a día al embajador de Colombia ante la ONU, Mauricio Gaona: Consejo de Seguridad, Misión de Verificación, discursos y noticias reales.">
+<meta name="theme-color" content="#06132b">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta property="og:title" content="Gaona en la ONU al Día">
+<meta property="og:description" content="Lo que hace y dice el embajador de Colombia ante la ONU, día a día.">
+<meta property="og:image" content="foto-gaona.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --noche:#06132b; --azul:#0b2a5c; --onu:#1d9bf0; --onu2:#5bc0ff;
+  --oro:#ffd23f; --rojo:#ff3d5a; --blanco:#f5f8ff; --gris:#9fb1cf; --tarjeta:#0e2148;
+  --radio:18px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;background:var(--noche);color:var(--blanco);line-height:1.5;overflow-x:hidden}
+a{color:inherit}
+img{max-width:100%;display:block}
+.envoltura{max-width:1180px;margin:0 auto;padding:0 18px}
+
+/* Barra superior */
+.barra{position:sticky;top:0;z-index:50;background:rgba(6,19,43,.82);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,.08)}
+.barra .envoltura{display:flex;align-items:center;gap:12px;height:60px}
+.marca{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:1.05rem;letter-spacing:.3px;white-space:nowrap}
+.marca b{color:var(--oro)}
+.barra .espacio{flex:1}
+.btn{border:0;cursor:pointer;font:600 .85rem Inter,sans-serif;border-radius:999px;padding:9px 16px;transition:transform .15s,background .2s}
+.btn:active{transform:scale(.95)}
+.btn-oro{background:var(--oro);color:#1a1300}
+.btn-oro.girando{animation:latido .8s infinite}
+.idiomas{display:flex;background:rgba(255,255,255,.08);border-radius:999px;padding:3px}
+.idiomas button{background:transparent;color:var(--gris);border:0;font:700 .78rem Inter;padding:6px 11px;border-radius:999px;cursor:pointer}
+.idiomas button.activo{background:var(--blanco);color:var(--noche)}
+@keyframes latido{50%{transform:scale(1.07);box-shadow:0 0 0 8px rgba(255,210,63,.18)}}
+
+/* Cinta de titulares */
+.cinta{background:var(--rojo);color:#fff;font-weight:600;font-size:.88rem;overflow:hidden;white-space:nowrap;display:flex}
+.cinta .rotulo{background:#c4142f;padding:8px 14px;font-weight:800;letter-spacing:1px;flex:none;position:relative;z-index:2}
+.cinta .pista{display:inline-flex;gap:48px;padding:8px 0;animation:correr 60s linear infinite}
+.cinta:hover .pista{animation-play-state:paused}
+.cinta a{text-decoration:none}
+.cinta a::before{content:"";display:inline-block;width:7px;height:7px;background:#fff;border-radius:50%;margin-right:12px;vertical-align:middle}
+@keyframes correr{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* Portada */
+.portada{position:relative;min-height:88vh;display:flex;align-items:flex-end;overflow:hidden}
+.portada .foto{position:absolute;inset:0;background:url(foto-gaona.jpg) center 25%/cover;animation:kenburns 22s ease-in-out infinite alternate}
+.portada::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,19,43,.15) 0%,rgba(6,19,43,.55) 50%,var(--noche) 96%),linear-gradient(90deg,rgba(6,19,43,.85),transparent 70%)}
+@keyframes kenburns{from{transform:scale(1.05) translate(0,0)}to{transform:scale(1.2) translate(-3%,-2%)}}
+.portada .envoltura{position:relative;z-index:2;padding-bottom:56px;width:100%}
+.envivo{animation:vivo 1.8s infinite;display:inline-flex;align-items:center;gap:8px;background:rgba(255,61,90,.16);border:1px solid rgba(255,61,90,.5);color:#ffd0d7;padding:6px 12px;border-radius:999px;font:800 .75rem Inter;letter-spacing:1.5px}
+.punto{width:9px;height:9px;border-radius:50%;background:var(--rojo);box-shadow:0 0 0 0 rgba(255,61,90,.7);animation:pulso 1.6s infinite}
+.x{}@keyframes vivo{50%{background:rgba(255,61,90,.45);color:#fff}}
+@keyframes pulso{70%{box-shadow:0 0 0 12px rgba(255,61,90,0)}100%{box-shadow:0 0 0 0 rgba(255,61,90,0)}}
+.portada h1{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:clamp(2.2rem,6.5vw,4.6rem);line-height:1.02;margin:18px 0 14px;max-width:880px;text-shadow:0 4px 30px rgba(0,0,0,.4)}
+.portada h1 span{color:var(--oro)}
+.portada p.sub{font-size:clamp(1rem,2.2vw,1.2rem);color:#d9e4ff;max-width:640px}
+.frase{margin-top:26px;border-left:4px solid var(--oro);padding:6px 0 6px 16px;font-size:clamp(1.05rem,2.6vw,1.45rem);font-weight:600;max-width:720px}
+.frase small{display:block;color:var(--gris);font-weight:500;font-size:.8rem;margin-top:6px}
+.estado{margin-top:22px;color:var(--gris);font-size:.85rem}
+.estado b{color:var(--blanco)}
+
+/* Secciones */
+section{padding:64px 0}
+.titulo-sec{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:22px;flex-wrap:wrap}
+.titulo-sec h2{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:clamp(1.6rem,4vw,2.4rem);line-height:1.05}
+.titulo-sec h2 em{font-style:normal;color:var(--onu2)}
+.titulo-sec p{color:var(--gris);max-width:520px}
+.aparecer{opacity:0;transform:translateY(28px);transition:opacity .7s,transform .7s}
+.aparecer.visto{opacity:1;transform:none}
+
+/* Hoy */
+.hoy{background:linear-gradient(135deg,#0b2a5c,#06132b 60%);border-radius:28px;padding:30px;position:relative;overflow:hidden;border:1px solid rgba(91,192,255,.25)}
+.hoy::before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;background:radial-gradient(circle,rgba(29,155,240,.35),transparent 70%);top:-160px;right:-120px;animation:flotar 9s ease-in-out infinite alternate}
+@keyframes flotar{to{transform:translate(-60px,60px)}}
+.hoy-cab{display:flex;gap:16px;align-items:center;flex-wrap:wrap;position:relative}
+.hoy-fecha{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:clamp(1.4rem,3.5vw,2rem)}
+.contador-hoy{background:var(--oro);color:#1a1300;font-weight:800;border-radius:999px;padding:5px 14px;font-size:.85rem}
+.hoy-lista{position:relative;margin-top:20px;display:grid;gap:12px}
+.hoy-item{display:flex;gap:14px;background:rgba(255,255,255,.06);border-radius:14px;padding:12px;text-decoration:none;transition:background .2s,transform .2s;animation:entrar .5s both}
+.hoy-item:hover{background:rgba(255,255,255,.12);transform:translateX(4px)}
+.hoy-item img{width:110px;height:72px;object-fit:cover;border-radius:10px;flex:none}
+.hoy-item .hora{color:var(--oro);font-weight:800;font-size:.8rem}
+.hoy-item h3{font-size:1rem;line-height:1.3}
+.hoy-item .medio{color:var(--gris);font-size:.8rem}
+.vacio{color:var(--gris);position:relative;margin-top:16px}
+@keyframes entrar{from{opacity:0;transform:translateY(12px)}}
+
+/* Buscador */
+.buscador{display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+.buscador input{flex:1;min-width:220px;background:var(--tarjeta);border:1px solid rgba(255,255,255,.12);color:var(--blanco);border-radius:999px;padding:14px 20px;font:500 1rem Inter;outline:none;transition:border .2s,box-shadow .2s}
+.buscador input:focus{border-color:var(--onu);box-shadow:0 0 0 4px rgba(29,155,240,.2)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px}
+.chip{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.1);color:var(--blanco);border-radius:999px;padding:7px 14px;font:600 .82rem Inter;cursor:pointer;transition:all .2s}
+.chip:hover,.chip.activo{background:var(--onu);border-color:var(--onu)}
+.info-busqueda{color:var(--gris);font-size:.85rem;margin-bottom:14px;min-height:1.2em}
+
+/* Rejilla de noticias */
+.rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:18px}
+.nota{background:var(--tarjeta);border-radius:var(--radio);overflow:hidden;text-decoration:none;display:flex;flex-direction:column;transition:transform .25s,box-shadow .25s;animation:entrar .5s both}
+.nota:hover{transform:translateY(-6px);box-shadow:0 18px 40px rgba(0,0,0,.4)}
+.nota .img{aspect-ratio:16/9;background-size:cover;background-position:center;position:relative;overflow:hidden}
+.nota .img.sin{background:url(foto-gaona.jpg) center 30%/cover}
+.nota .img.sin::after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(11,42,92,.82),rgba(29,155,240,.55));mix-blend-mode:multiply}
+.nota .img .medio-grande{position:absolute;left:14px;bottom:12px;z-index:2;font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:1.25rem;text-shadow:0 2px 12px rgba(0,0,0,.5)}
+.nota .nueva{position:absolute;top:12px;left:12px;z-index:3;background:var(--rojo);color:#fff;font:800 .7rem Inter;letter-spacing:1px;padding:4px 9px;border-radius:6px}
+.nota .cuerpo{padding:16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.nota .meta{display:flex;justify-content:space-between;color:var(--gris);font-size:.78rem;font-weight:600}
+.nota .meta .m{color:var(--onu2)}
+.nota h3{font-size:1.02rem;line-height:1.32}
+.nota p{color:#c2cfe8;font-size:.88rem}
+.mas{margin:26px auto 0;display:block}
+
+/* Momento clave + cifras */
+.momento{display:grid;grid-template-columns:1.1fr 1fr;gap:26px;align-items:center}
+.momento .video-falso{position:relative;border-radius:22px;overflow:hidden;aspect-ratio:4/3;background:url(foto-gaona.jpg) center 20%/cover;box-shadow:0 30px 60px rgba(0,0,0,.45)}
+.momento .video-falso::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(6,19,43,.9),transparent 55%)}
+.momento .subtitulo{position:absolute;left:18px;right:18px;bottom:18px;z-index:2;font:800 clamp(1rem,2.4vw,1.35rem) Inter;color:#fff}
+.momento .subtitulo span{background:#000a;padding:2px 6px;box-decoration-break:clone;-webkit-box-decoration-break:clone;line-height:1.6}
+.momento .credito{position:absolute;top:14px;left:16px;z-index:2;font-size:.75rem;color:#fff;opacity:.85}
+.momento h3{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:clamp(1.4rem,3vw,2rem);line-height:1.1;margin-bottom:12px}
+.momento ul{list-style:none;display:grid;gap:10px;margin-top:14px}
+.momento li{padding-left:18px;position:relative;color:#d6e1f7}
+.momento li::before{content:"";position:absolute;left:0;top:.6em;width:8px;height:8px;background:var(--oro);border-radius:2px}
+.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-top:34px}
+.cifra{background:linear-gradient(160deg,#10285a,#0a1a3d);border-radius:var(--radio);padding:22px;border-top:4px solid var(--onu)}
+.cifra:nth-child(2){border-color:var(--oro)}.cifra:nth-child(3){border-color:var(--rojo)}.cifra:nth-child(4){border-color:#7cf2b5}
+.cifra .num{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:clamp(2rem,5vw,2.8rem);line-height:1}
+.cifra .de{color:var(--gris);font-size:.85rem;margin-top:4px}
+.cifra .que{font-weight:600;margin-top:10px}
+.cifra .src{color:var(--gris);font-size:.72rem;margin-top:8px}
+.barra-cifra{height:8px;background:rgba(255,255,255,.08);border-radius:9px;margin-top:12px;overflow:hidden}
+.barra-cifra i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--onu),var(--oro));border-radius:9px;transition:width 1.8s cubic-bezier(.2,.8,.2,1)}
+
+/* Cronología */
+.linea{position:relative;margin-left:10px;padding-left:30px;border-left:3px solid rgba(91,192,255,.3)}
+.hito{position:relative;margin-bottom:26px}
+.hito::before{content:"";position:absolute;left:-39px;top:6px;width:15px;height:15px;border-radius:50%;background:var(--noche);border:3px solid var(--onu)}
+.hito.clave::before{background:var(--oro);border-color:var(--oro);box-shadow:0 0 0 6px rgba(255,210,63,.2)}
+.hito .f{color:var(--oro);font-weight:800;font-size:.82rem;letter-spacing:.5px;text-transform:uppercase}
+.hito h3{font-size:1.1rem;margin:2px 0 4px}
+.hito p{color:#c2cfe8;font-size:.92rem}
+.hito a{color:var(--onu2);font-size:.8rem;font-weight:600}
+
+/* Videos */
+.videos{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.video{background:var(--tarjeta);border-radius:var(--radio);overflow:hidden}
+.video .marco{aspect-ratio:16/9;position:relative;background:#000 center/cover;cursor:pointer}
+.video .marco::after{content:attr(data-label);position:absolute;left:14px;bottom:14px;background:var(--oro);color:#1a1300;font:800 .75rem Inter;letter-spacing:1px;padding:6px 12px;border-radius:999px}
+.video .marco.reproduciendo::after{display:none}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.video .t{padding:14px;font-weight:600;font-size:.95rem}
+.video .t small{display:block;color:var(--gris);font-weight:500;margin-top:4px}
+
+/* Redes */
+.redes-perfiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-bottom:26px}
+.perfil{background:linear-gradient(140deg,#123170,#0a1a3d);border-radius:var(--radio);padding:18px;text-decoration:none;border:1px solid rgba(91,192,255,.2);transition:transform .2s,border-color .2s;display:block}
+.perfil:hover{transform:translateY(-4px);border-color:var(--oro)}
+.perfil .red{font:800 .72rem Inter;letter-spacing:1.5px;color:var(--oro)}
+.perfil .usuario{font-family:'Archivo Black',Inter,system-ui,sans-serif;font-weight:800;font-size:1.25rem;margin:4px 0}
+.perfil .desc{color:var(--gris);font-size:.85rem}
+.perfil .ir{display:inline-block;margin-top:10px;background:rgba(255,255,255,.1);border-radius:999px;padding:5px 12px;font:700 .78rem Inter}
+.posts{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.post{background:var(--tarjeta);border-radius:var(--radio);padding:18px;text-decoration:none;border-left:4px solid var(--onu);transition:transform .2s;display:flex;flex-direction:column;gap:8px;animation:entrar .5s both}
+.post:hover{transform:translateY(-4px)}
+.post .quien{display:flex;gap:10px;align-items:center}
+.post .quien img{width:40px;height:40px;border-radius:50%;object-fit:cover}
+.post .quien b{display:block;font-size:.9rem}.post .quien small{color:var(--gris);font-size:.78rem}
+.post p{color:#dbe5fa;font-size:.93rem}
+.post .f{color:var(--oro);font:700 .78rem Inter}
+
+/* Misión explicada */
+.mision{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.caja{background:var(--tarjeta);border-radius:var(--radio);padding:22px;border:1px solid rgba(255,255,255,.06)}
+.caja h3{font-size:1.05rem;margin-bottom:8px}
+.caja p{color:#c2cfe8;font-size:.92rem}
+.caja.si{border-color:rgba(124,242,181,.4)}.caja.si h3{color:#7cf2b5}
+.caja.no{border-color:rgba(255,61,90,.45)}.caja.no h3{color:#ff8ea0}
+
+/* Pie */
+footer{background:#040d1f;padding:44px 0 90px;color:var(--gris);font-size:.88rem;border-top:1px solid rgba(255,255,255,.06)}
+footer .marca{color:var(--blanco);font-size:1.2rem;margin-bottom:8px}
+footer a{color:var(--onu2)}
+footer .fuentes{margin-top:16px;display:grid;gap:4px}
+.aviso{background:rgba(255,210,63,.1);border:1px solid rgba(255,210,63,.35);color:#ffe9a6;border-radius:14px;padding:12px 16px;font-size:.85rem;margin-top:18px}
+
+.toast{visibility:hidden;position:fixed;left:50%;bottom:22px;transform:translate(-50%,120px);background:var(--blanco);color:var(--noche);font-weight:700;padding:12px 20px;border-radius:999px;box-shadow:0 10px 30px rgba(0,0,0,.4);transition:transform .35s;z-index:99}
+.toast.ver{visibility:visible;transform:translate(-50%,0)}
+
+@media (min-width:821px){.portada .foto{left:38%}}
+@media (max-width:820px){
+  .momento{grid-template-columns:1fr}
+  .marca{font-size:.92rem}
+  .hoy{padding:20px}
+  .hoy-item img{width:84px;height:60px}
+  .portada{min-height:82vh}
+}
+@media (max-width:420px){.marca small{display:none}.btn{padding:8px 12px}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="barra">
+  <div class="envoltura">
+    <div class="marca">Gaona <b data-i18n="en_la_onu">en la ONU</b> <small data-i18n="al_dia">al Día</small></div>
+    <div class="espacio"></div>
+    <div class="idiomas" role="group" aria-label="Idioma / Language">
+      <button data-lang="es" class="activo">ES</button>
+      <button data-lang="en">EN</button>
+    </div>
+    <button class="btn btn-oro" id="btnActualizar" data-i18n="actualizar">Actualizar</button>
+  </div>
+</header>
+
+<div class="cinta" aria-label="Últimos titulares">
+  <div class="rotulo" data-i18n="ultimo">ÚLTIMO</div>
+  <div class="pista" id="cinta"></div>
+</div>
+
+<section class="portada">
+  <div class="foto" role="img" aria-label="Mauricio Gaona interviniendo en el Consejo de Seguridad de la ONU"></div>
+  <div class="envoltura">
+    <span class="envivo"><span data-i18n="seguimiento_vivo">SEGUIMIENTO EN VIVO</span></span>
+    <h1 data-i18n-html="h1">El embajador de Colombia <span>ante la ONU</span>, día a día</h1>
+    <p class="sub" data-i18n="sub">Mauricio Gaona, representante permanente de Colombia en Nueva York: lo que dice en el Consejo de Seguridad, lo que decide y lo que cambia para el país.</p>
+    <div class="frase" id="frase"></div>
+    <p class="estado" id="estado"></p>
+  </div>
+</section>
+
+<section id="hoy">
+  <div class="envoltura">
+    <div class="hoy aparecer">
+      <div class="hoy-cab">
+        <span class="envivo"><span data-i18n="hoy">HOY</span></span>
+        <div class="hoy-fecha" id="hoyFecha"></div>
+        <span class="contador-hoy" id="hoyCuenta">0</span>
+      </div>
+      <div class="hoy-lista" id="hoyLista"></div>
+    </div>
+  </div>
+</section>
+
+<section id="redes">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="redes_t">Sus <em>redes</em></h2>
+      <p data-i18n="redes_p">Cuentas oficiales verificadas y lo último que ha publicado como embajador.</p>
+    </div>
+    <div class="redes-perfiles" id="perfiles"></div>
+    <div class="posts" id="posts"></div>
+  </div>
+</section>
+
+<section id="momento">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="momento_t">El momento <em>clave</em></h2>
+      <p data-i18n="momento_p">30 de octubre de 2026 · Consejo de Seguridad, Nueva York</p>
+    </div>
+    <div class="momento aparecer">
+      <div class="video-falso">
+        <span class="credito" data-i18n="credito">Imagen: Naciones Unidas (vía @estapasandocol)</span>
+        <div class="subtitulo"><span data-i18n="subtitulo">"La paz no la hacen quienes firman y aparecen en las fotos"</span></div>
+      </div>
+      <div>
+        <h3 data-i18n="momento_h">La ONU renovó la Misión hasta 2027, pero sin la reforma rural</h3>
+        <p data-i18n="momento_txt">El Consejo de Seguridad aprobó por unanimidad prorrogar la Misión de Verificación en Colombia hasta el 31 de octubre de 2027. Fue lo que pidió el Gobierno De la Espriella: dejar de verificar la Reforma Rural Integral.</p>
+        <ul>
+          <li data-i18n="m1">La misión se concentrará en la reincorporación de exintegrantes de las Farc y en las garantías de seguridad.</li>
+          <li data-i18n="m2">Gaona dijo que el acuerdo de 2016 "no ha sido final, no ha sido estable y no ha sido duradero".</li>
+          <li data-i18n="m3">Afirmó que el verdadero sacrificio lo hacen las víctimas, no los victimarios, y celebró la votación 15 de 15 como un logro de Colombia.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="cifras" id="cifras"></div>
+    <p class="aviso" data-i18n="aviso_cifras">Ojo: son las cifras que presentó el embajador en su discurso, reportadas por la prensa. Distintos medios citan grupos distintos (disidencias de las Farc vs. todos los grupos armados ilegales).</p>
+  </div>
+</section>
+
+<section id="noticias">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="noticias_t">Noticias <em>reales</em></h2>
+      <p data-i18n="noticias_p">Las más nuevas de primero. Un robot las trae cada 30 minutos y la app busca en vivo cada vez que la abres.</p>
+    </div>
+    <div class="buscador">
+      <input id="q" type="search" autocomplete="off" data-i18n-ph="buscar_ph" placeholder="Busca: Consejo de Seguridad, Irán, Misión de Verificación…">
+      <button class="btn btn-oro" id="btnBuscar" data-i18n="buscar">Buscar en vivo</button>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="info-busqueda" id="infoBusqueda"></div>
+    <div class="rejilla" id="rejilla"></div>
+    <button class="btn btn-oro mas" id="btnMas" data-i18n="ver_mas">Ver más</button>
+  </div>
+</section>
+
+<section id="videos">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="videos_t">Videos <em>de la ONU</em></h2>
+      <p data-i18n="videos_p">Sesiones y declaraciones sobre Colombia en Naciones Unidas.</p>
+    </div>
+    <div class="videos" id="listaVideos"></div>
+  </div>
+</section>
+
+<section id="cronologia">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="crono_t">Su camino <em>en la ONU</em></h2>
+      <p data-i18n="crono_p">De la designación al primer gran debate sobre la paz de Colombia.</p>
+    </div>
+    <div class="linea" id="linea"></div>
+  </div>
+</section>
+
+<section id="mision">
+  <div class="envoltura">
+    <div class="titulo-sec aparecer">
+      <h2 data-i18n-html="mision_t">¿Qué verifica <em>ahora</em> la ONU?</h2>
+      <p data-i18n="mision_p">La Misión de Verificación nació en 2017 para acompañar el acuerdo de paz de 2016. Su mandato se ha ido recortando.</p>
+    </div>
+    <div class="mision aparecer" id="cajasMision"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="envoltura">
+    <div class="marca">Vibras Positivas HM</div>
+    <p data-i18n="pie">App ciudadana de seguimiento. No es un canal oficial de la Cancillería ni de la ONU: reúne información pública de medios y de Naciones Unidas.</p>
+    <p style="margin-top:8px"><a href="https://vibraspositivashm.com" target="_blank" rel="noopener">vibraspositivashm.com</a> · Caucasia, Antioquia</p>
+    <div class="fuentes" id="fuentes"></div>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* ===================== Configuración ===================== */
+const ZONA = 'America/Bogota';
+const BUSQUEDA_BASE = '"Mauricio Gaona" ONU';
+const PROXIES = [
+  u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  u => 'https://corsproxy.io/?url=' + encodeURIComponent(u)
+];
+
+/* ===================== Textos ES / EN ===================== */
+const T = {
+  es:{
+    en_la_onu:'en la ONU', al_dia:'al Día', actualizar:'Actualizar', ultimo:'ÚLTIMO', seguimiento_vivo:'SEGUIMIENTO EN VIVO',
+    h1:'El embajador de Colombia <span>ante la ONU</span>, día a día',
+    sub:'Mauricio Gaona, representante permanente de Colombia en Nueva York: lo que dice en el Consejo de Seguridad, lo que decide y lo que cambia para el país.',
+    hoy:'HOY', momento_t:'El momento <em>clave</em>', momento_p:'30 de octubre de 2026 · Consejo de Seguridad, Nueva York',
+    credito:'Imagen: Naciones Unidas (vía @estapasandocol)', subtitulo:'"La paz no la hacen quienes firman y aparecen en las fotos"',
+    momento_h:'La ONU renovó la Misión hasta 2027, pero sin la reforma rural',
+    momento_txt:'El Consejo de Seguridad aprobó por unanimidad prorrogar la Misión de Verificación en Colombia hasta el 31 de octubre de 2027. Fue lo que pidió el Gobierno De la Espriella: dejar de verificar la Reforma Rural Integral.',
+    m1:'La misión se concentrará en la reincorporación de exintegrantes de las Farc y en las garantías de seguridad.',
+    m2:'Gaona dijo que el acuerdo de 2016 "no ha sido final, no ha sido estable y no ha sido duradero".',
+    m3:'Afirmó que el verdadero sacrificio lo hacen las víctimas, no los victimarios, y celebró la votación 15 de 15 como un logro de Colombia.',
+    aviso_cifras:'Ojo: son las cifras que presentó el embajador en su discurso, reportadas por la prensa. Distintos medios citan grupos distintos (disidencias de las Farc vs. todos los grupos armados ilegales).',
+    noticias_t:'Noticias <em>reales</em>', noticias_p:'Las más nuevas de primero. Un robot las trae cada 30 minutos y la app busca en vivo cada vez que la abres.',
+    buscar_ph:'Busca: Consejo de Seguridad, Irán, Misión de Verificación…', buscar:'Buscar en vivo', ver_mas:'Ver más',
+    videos_t:'Videos <em>de la ONU</em>', videos_p:'Sesiones y declaraciones sobre Colombia en Naciones Unidas.',
+    crono_t:'Su camino <em>en la ONU</em>', crono_p:'De la designación al primer gran debate sobre la paz de Colombia.',
+    mision_t:'¿Qué verifica <em>ahora</em> la ONU?', mision_p:'La Misión de Verificación nació en 2017 para acompañar el acuerdo de paz de 2016. Su mandato se ha ido recortando.',
+    pie:'App ciudadana de seguimiento. No es un canal oficial de la Cancillería ni de la ONU: reúne información pública de medios y de Naciones Unidas.',
+    nueva:'NUEVA', hoy_vacio:'Hoy todavía no hay movimientos nuevos del embajador. Lo último que pasó:',
+    noticias_hoy:n=>n===1?'1 noticia':n+' noticias',
+    estado:(h,n)=>`Actualizado: <b>${h}</b> (hora Colombia) · ${n} noticias en la app`,
+    buscando:'Buscando en vivo…', en_vivo_ok:n=>`Búsqueda en vivo: ${n} resultados nuevos sumados.`, en_vivo_falla:'No se pudo buscar en vivo ahora; se muestran las noticias del robot.',
+    filtro:(n,q)=>`${n} noticias con "${q}"`, sin_resultados:'Sin resultados. Prueba "Buscar en vivo".',
+    actualizado_ok:'Listo, noticias al día', hace_min:m=>m<1?'hace un momento':m<60?`hace ${m} min`:m<1440?`hace ${Math.floor(m/60)} h`:`hace ${Math.floor(m/1440)} d`,
+    ver_sesiones:'Ver sesiones del Consejo de Seguridad en UN Web TV', ver_sesiones_s:'Transmisiones oficiales de Naciones Unidas',
+    ver_reel:'Ver el reel del discurso (30 oct 2026)', ver_reel_s:'@estapasandocol en Instagram',
+    fuente:'Fuente', fuentes:'Fuentes principales:', ver_video:'VER VIDEO', ver_en:'Ver en',
+    redes_t:'Sus <em>redes</em>', redes_p:'Cuentas oficiales verificadas y lo último que ha publicado como embajador.'
+  },
+  en:{
+    en_la_onu:'at the UN', al_dia:'Daily', actualizar:'Refresh', ultimo:'LATEST', seguimiento_vivo:'LIVE TRACKER',
+    h1:'Colombia\'s ambassador <span>to the UN</span>, day by day',
+    sub:'Mauricio Gaona, Colombia\'s Permanent Representative in New York: what he says at the Security Council, what gets decided and what changes for the country.',
+    hoy:'TODAY', momento_t:'The <em>key</em> moment', momento_p:'October 30, 2026 · Security Council, New York',
+    credito:'Image: United Nations (via @estapasandocol)', subtitulo:'"Peace is not made by those who sign and appear in the photos"',
+    momento_h:'The UN renewed the Mission until 2027, but without rural reform',
+    momento_txt:'The Security Council unanimously extended the Verification Mission in Colombia until October 31, 2027. It is what the De la Espriella government asked for: to stop verifying the Comprehensive Rural Reform.',
+    m1:'The mission will focus on the reintegration of former FARC members and on security guarantees.',
+    m2:'Gaona said the 2016 agreement "has not been final, has not been stable and has not been lasting".',
+    m3:'He said the real sacrifice is made by victims, not perpetrators, and hailed the 15-0 vote as a win for Colombia.',
+    aviso_cifras:'Note: these are the figures the ambassador gave in his speech, as reported by the press. Outlets cite different groups (FARC dissidents vs. all illegal armed groups).',
+    noticias_t:'Real <em>news</em>', noticias_p:'Newest first. A robot fetches them every 30 minutes and the app searches live every time you open it.',
+    buscar_ph:'Search: Security Council, Iran, Verification Mission…', buscar:'Live search', ver_mas:'Show more',
+    videos_t:'UN <em>videos</em>', videos_p:'Sessions and statements about Colombia at the United Nations.',
+    crono_t:'His path <em>at the UN</em>', crono_p:'From his appointment to the first big debate on Colombia\'s peace.',
+    mision_t:'What does the UN verify <em>now</em>?', mision_p:'The Verification Mission was created in 2017 to accompany the 2016 peace agreement. Its mandate has been trimmed.',
+    pie:'Citizen tracking app. Not an official channel of Colombia\'s Foreign Ministry or the UN: it gathers public information from media and the United Nations.',
+    nueva:'NEW', hoy_vacio:'No new moves from the ambassador yet today. The latest:',
+    noticias_hoy:n=>n===1?'1 story':n+' stories',
+    estado:(h,n)=>`Updated: <b>${h}</b> (Colombia time) · ${n} stories in the app`,
+    buscando:'Searching live…', en_vivo_ok:n=>`Live search: ${n} new results added.`, en_vivo_falla:'Live search unavailable right now; showing robot news.',
+    filtro:(n,q)=>`${n} stories matching "${q}"`, sin_resultados:'No results. Try "Live search".',
+    actualizado_ok:'Done, news up to date', hace_min:m=>m<1?'just now':m<60?`${m} min ago`:m<1440?`${Math.floor(m/60)} h ago`:`${Math.floor(m/1440)} d ago`,
+    ver_sesiones:'Watch Security Council sessions on UN Web TV', ver_sesiones_s:'Official United Nations broadcasts',
+    ver_reel:'Watch the speech reel (Oct 30, 2026)', ver_reel_s:'@estapasandocol on Instagram',
+    fuente:'Source', fuentes:'Main sources:', ver_video:'WATCH', ver_en:'Open on',
+    redes_t:'His <em>social media</em>', redes_p:'Verified official accounts and his latest posts as ambassador.'
+  }
+};
+
+/* ===================== Contenido verificado ===================== */
+const FRASES = [
+  {es:'"La paz no la hacen quienes firman y aparecen en las fotos."', en:'"Peace is not made by those who sign and appear in the photos."', c:{es:'Consejo de Seguridad, 30 oct 2026',en:'Security Council, Oct 30, 2026'}},
+  {es:'"El verdadero sacrificio en cualquier proceso de paz lo hacen las víctimas, no los victimarios."', en:'"The real sacrifice in any peace process is made by the victims, not the perpetrators."', c:{es:'Consejo de Seguridad, 30 oct 2026',en:'Security Council, Oct 30, 2026'}},
+  {es:'"Sin reglas no hay seguridad."', en:'"Without rules there is no security."', c:{es:'Consejo de Seguridad, 10 sep 2026',en:'Security Council, Sep 10, 2026'}},
+  {es:'"El hambre no se puede posponer."',en:'"Hunger cannot be postponed."',c:{es:'Sobre Yemen, 12 oct 2026',en:'On Yemen, Oct 12, 2026'}},
+  {es:'"Salirse de Naciones Unidas es salirse del cuarto donde se decide el destino de la humanidad."', en:'"Leaving the United Nations is leaving the room where humanity\'s fate is decided."', c:{es:'Entrevista con El Tiempo, sep 2026',en:'Interview with El Tiempo, Sep 2026'}}
+];
+
+const CIFRAS = [
+  {a:1050,b:10517,es:'Integrantes de disidencias',en:'Dissident members',de:{es:'en 2016 → en 2026',en:'in 2016 → in 2026'},src:'Discurso de Gaona / reel @estapasandocol'},
+  {a:20420,b:29004,es:'Integrantes de grupos armados ilegales',en:'Illegal armed group members',de:{es:'en 2016 → en 2026',en:'in 2016 → in 2026'},src:'Infobae, 30 oct 2026'},
+  {b:452,es:'Masacres (1.579 víctimas)',en:'Massacres (1,579 victims)',de:{es:'entre 2022 y 2026',en:'between 2022 and 2026'},src:'Discurso de Gaona'},
+  {b:2852,es:'Secuestros',en:'Kidnappings',de:{es:'entre 2022 y 2026',en:'between 2022 and 2026'},src:'Infobae, 30 oct 2026'}
+];
+
+const HITOS = [
+  {f:'2026-07-27',es:['Lo designan embajador','El presidente electo Abelardo de la Espriella anuncia al jurista J. Mauricio Gaona Bejarano como representante permanente ante la ONU en Nueva York.'],en:['Appointed ambassador','President-elect Abelardo de la Espriella names jurist J. Mauricio Gaona Bejarano as permanent representative to the UN in New York.'],u:'https://www.elpais.com.co/politica/abelardo-de-la-espriella-nombra-a-nuevo-embajador-ante-la-onu-2724.html'},
+  {f:'2026-09-04',es:['Se posesiona','El canciller Omar Bula lo posesiona en el Palacio de San Carlos. Gaona recuerda que Colombia está en el Consejo de Seguridad y que volverá a presidirlo.'],en:['Sworn in','Foreign Minister Omar Bula swears him in at San Carlos Palace. Gaona notes Colombia sits on the Security Council and will chair it again.'],u:'https://www.cancilleria.gov.co/sala-de-prensa/noticias/canciller-omar-bula-posesiono-los-nuevos-embajadores-de-colombia-en-estados-unidos-y-naciones-unidas'},
+  {f:'2026-09-09',es:['Cartas credenciales ante Guterres','Presenta credenciales al secretario general António Guterres y prepara a Colombia para la Semana de Alto Nivel (UNGA81).'],en:['Credentials to Guterres','He presents credentials to Secretary-General António Guterres and prepares Colombia for High-Level Week (UNGA81).'],u:'https://www.semana.com/confidenciales/articulo/mauricio-gaona-presento-credenciales-ante-el-secretario-general-de-la-onu/202624/'},
+  {f:'2026-09-10',es:['Debut en el Consejo: Irán','Primera intervención: defiende que el mecanismo "snapback" de sanciones a Irán sigue operativo. "Sin reglas no hay seguridad".'],en:['Council debut: Iran','First speech: he argues the "snapback" sanctions mechanism on Iran remains operative. "Without rules there is no security".'],u:'https://www.eltiempo.com/mundo/eeuu-y-canada/claves-del-discurso-del-embajador-de-colombia-ante-la-onu-mauricio-gaona-en-el-consejo-de-seguridad-asi-fue-el-debate-sobre-las-sanciones-a-iran-3585472'},
+  {f:'2026-09-16',es:['Sesión de emergencia: Ormuz y Bab el-Mandeb','Fija la posición de Colombia ante la escalada en los estrechos y advierte por las consecuencias humanitarias y el precio del petróleo. Habló en francés e inglés.'],en:['Emergency session: Hormuz and Bab el-Mandeb','He sets Colombia\'s position on the escalation in the straits, warning of humanitarian fallout and oil prices. He spoke in French and English.'],u:'https://www.semana.com/mundo/noticias-estados-unidos/articulo/el-embajador-de-colombia-ante-la-onu-expuso-detalles-de-un-conflicto-que-se-escala-a-nivel-internacional/202600/'},
+  {f:'2026-09-18',es:['Polémica por foto retocada con IA','Anunció una reunión en la ONU con una imagen retocada con inteligencia artificial; el encuentro sí existió, con el embajador de Singapur.'],en:['AI-retouched photo controversy','He announced a UN meeting with an AI-retouched image; the meeting did happen, with Singapore\'s ambassador.'],u:'https://www.lasillavacia.com/tag/organizacion-de-las-naciones-unidas/'},
+  {f:'2026-09-28',es:['"Colombia no se sale de la ONU"','Descarta que el país abandone Naciones Unidas, pese a las críticas del Gobierno al organismo.'],en:['"Colombia is not leaving the UN"','He rules out the country leaving the United Nations, despite the government\'s criticism of the body.'],u:'https://www.lasillavacia.com/?p=451683'},
+  {f:'2026-10-05',es:['Reunión con el presidente','Reunión de trabajo con Abelardo De La Espriella para articular la agenda internacional de Colombia en la ONU.'],en:['Meeting with the president','Working meeting with Abelardo De La Espriella to align Colombia\'s international agenda at the UN.'],u:'https://x.com/JMauricioGaona'},
+  {f:'2026-10-12',es:['Yemen y la propuesta sobre la Misión','En el Consejo habla de Yemen ("el hambre no se puede posponer"). Ese día la Cancillería pide sacar la Reforma Rural de la Misión de Verificación.'],en:['Yemen and the Mission proposal','At the Council he speaks on Yemen ("hunger cannot be postponed"). That day the Foreign Ministry asks to drop Rural Reform from the Verification Mission.'],u:'https://www.portafolio.co/economia/gobierno/colombia-pide-sacar-la-reforma-rural-del-mandato-de-la-onu-y-mantener-verificacion-a-ex-farc-504329'},
+  {f:'2026-10-23',es:['Grupo de expertos en IA y tecnología cuántica','Colombia, Dinamarca, Grecia, Bahréin y otros miembros del Consejo crean un grupo para combatir terrorismo y ciberdelitos con IA y tecnología cuántica.'],en:['AI and quantum expert group','Colombia, Denmark, Greece, Bahrain and other Council members set up a group to fight terrorism and cybercrime using AI and quantum technology.'],u:'https://x.com/JMauricioGaona'},
+  {f:'2026-10-30',clave:true,es:['Renovación unánime hasta 2027','El Consejo prorroga la Misión hasta el 31 de octubre de 2027, sin la reforma rural. Gaona: el acuerdo "no ha sido final, no ha sido estable y no ha sido duradero".'],en:['Unanimous renewal until 2027','The Council extends the Mission until Oct 31, 2027, without rural reform. Gaona: the agreement "has not been final, stable or lasting".'],u:'https://www.infobae.com/colombia/2026/10/30/onu-renovo-hasta-2027-la-mision-de-verificacion-en-colombia-y-el-embajador-mauricio-gaona-afirmo-la-paz-no-la-hacen-quienes-firman-y-aparecen-en-las-fotos/'}
+];
+
+const PERFILES = [
+  {red:'X (TWITTER)',u:'@JMauricioGaona',es:'Su cuenta personal y oficial. Aquí publica cada intervención.',en:'His personal and official account. He posts every speech here.',url:'https://x.com/JMauricioGaona'},
+  {red:'X (TWITTER)',u:'@ColombiaONU',es:'Misión Permanente de Colombia ante la ONU: videos de sus discursos.',en:'Colombia\'s Permanent Mission to the UN: videos of his speeches.',url:'https://x.com/ColombiaONU'},
+  {red:'LINKEDIN',u:'J. Mauricio Gaona',es:'Perfil profesional, enlazado desde su cuenta de X.',en:'Professional profile, linked from his X account.',url:'https://www.linkedin.com/search/results/all/?keywords=J.%20Mauricio%20Gaona'},
+  {red:'SITIO OFICIAL',u:'Misión en Nueva York',es:'Página oficial de la Misión Permanente de Colombia ante Naciones Unidas.',en:'Official page of Colombia\'s Permanent Mission to the United Nations.',url:'https://nuevayork-onu.mision.gov.co/'}
+];
+
+const POSTS = [
+  {f:'2026-10-30',es:'Publicó su intervención en el Consejo de Seguridad el día de la renovación de la Misión de Verificación hasta 2027.',en:'He posted his Security Council speech on the day the Verification Mission was renewed until 2027.'},
+  {f:'2026-10-23',es:'Colombia, Dinamarca, Grecia, Reino de Bahrain y otros miembros del Consejo de Seguridad crean grupo de expertos en Inteligencia Artificial y Tecnología Cuántica para combatir terrorismo y ciberdelitos.',en:'Colombia, Denmark, Greece, Bahrain and other Security Council members create an expert group on AI and Quantum Technology to fight terrorism and cybercrime.'},
+  {f:'2026-10-12',es:'Consejo de Seguridad de la ONU. YEMEN: la crisis humanitaria del siglo 21. De los últimos 175.000 desplazados, 62% son niños. El hambre no se puede posponer.',en:'UN Security Council. YEMEN: the humanitarian crisis of the 21st century. Of the latest 175,000 displaced, 62% are children. Hunger cannot be postponed.'},
+  {f:'2026-10-05',es:'Reunión de trabajo con el Presidente de la República, Abelardo De La Espriella. Seguimos articulando la agenda internacional de Colombia.',en:'Working meeting with President Abelardo De La Espriella. We keep aligning Colombia\'s international agenda.'},
+  {f:'2026-09-16',es:'Colombia fija su posición ante la convocatoria de emergencia del Consejo de Seguridad por la escalada del conflicto en los estrechos de Ormuz y Bab el-Mandeb.',en:'Colombia sets its position at the Security Council emergency session on the escalation in the Hormuz and Bab el-Mandeb straits.'},
+  {f:'2026-09-11',es:'Hoy reafirmamos nuestro compromiso ante el Consejo de Seguridad frente a la no proliferación nuclear y el régimen de verificación en Irán. Sin reglas no hay seguridad.',en:'Today we reaffirmed our commitment at the Security Council to nuclear non-proliferation and the verification regime in Iran. Without rules there is no security.'}
+];
+
+const CAJAS = [
+  {k:'si',es:['Sigue: reincorporación','Acompañar a los exintegrantes de las Farc que dejaron las armas en su paso a la vida civil.'],en:['Continues: reintegration','Accompanying former FARC members who laid down arms in their transition to civilian life.']},
+  {k:'si',es:['Sigue: garantías de seguridad','Seguimiento a la protección de firmantes de paz, sus familias, líderes y comunidades.'],en:['Continues: security guarantees','Monitoring protection for peace signatories, their families, leaders and communities.']},
+  {k:'no',es:['Sale (2026): reforma rural','Desde el nuevo mandato la ONU deja de verificar el punto 1 del acuerdo: tierras, PDET y planes rurales.'],en:['Dropped (2026): rural reform','Under the new mandate the UN stops verifying point 1 of the agreement: land, PDET and rural plans.']},
+  {k:'no',es:['Salió (2025): JEP y capítulo étnico','En 2025 el Consejo ya había retirado la verificación de las sanciones de la JEP y del capítulo étnico.'],en:['Dropped (2025): JEP and ethnic chapter','In 2025 the Council had already removed verification of JEP sanctions and the ethnic chapter.']}
+];
+
+const FUENTES = [
+  ['Infobae — ONU renovó hasta 2027 la Misión','https://www.infobae.com/colombia/2026/10/30/onu-renovo-hasta-2027-la-mision-de-verificacion-en-colombia-y-el-embajador-mauricio-gaona-afirmo-la-paz-no-la-hacen-quienes-firman-y-aparecen-en-las-fotos/'],
+  ['Diario del Huila — ONU renueva misión, Gaona cuestionó el acuerdo','https://diariodelhuila.com/onu-renueva-mision-de-verificacion-en-colombia-pero-excluye-la-reforma-rural-gaona-cuestiono-el-acuerdo-de-paz/'],
+  ['El Tiempo — Claves del discurso de Gaona sobre Irán','https://www.eltiempo.com/mundo/eeuu-y-canada/claves-del-discurso-del-embajador-de-colombia-ante-la-onu-mauricio-gaona-en-el-consejo-de-seguridad-asi-fue-el-debate-sobre-las-sanciones-a-iran-3585472'],
+  ['Semana — Sesión de emergencia por Ormuz y Bab el-Mandeb','https://www.semana.com/mundo/noticias-estados-unidos/articulo/el-embajador-de-colombia-ante-la-onu-expuso-detalles-de-un-conflicto-que-se-escala-a-nivel-internacional/202600/'],
+  ['Cuenta de X de Mauricio Gaona','https://x.com/JMauricioGaona'],
+  ['La Silla Vacía — etiqueta ONU','https://www.lasillavacia.com/tag/organizacion-de-las-naciones-unidas/'],
+  ['Misión de Verificación de la ONU en Colombia','https://colombia.unmissions.org/']
+];
+
+/* ===================== Estado ===================== */
+let idioma = (()=>{try{return localStorage.getItem('idioma')||'es'}catch{return 'es'}})();
+let datos = {actualizado:null,noticias:[],videos:[]};
+let filtro = '';
+let mostrar = 12;
+const $ = s => document.querySelector(s);
+const t = k => T[idioma][k];
+
+/* ===================== Utilidades de fecha (hora Colombia) ===================== */
+const diaBogota = d => new Intl.DateTimeFormat('en-CA',{timeZone:ZONA,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(d));
+const fmtFecha = (d,op) => new Intl.DateTimeFormat(idioma==='es'?'es-CO':'en-US',{timeZone:ZONA,...op}).format(new Date(d));
+const fmtHora = d => fmtFecha(d,{hour:'numeric',minute:'2-digit'});
+const hace = d => t('hace_min')(Math.max(0,Math.round((Date.now()-new Date(d))/60000)));
+const esc = s => String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const normal = s => String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+
+function toast(msg){const el=$('#toast');el.textContent=msg;el.classList.add('ver');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('ver'),2600)}
+
+/* ===================== Carga de datos ===================== */
+async function cargarRobot(){
+  const r = await fetch('noticias.json?t='+Date.now(),{cache:'no-store'});
+  if(!r.ok) throw new Error('noticias.json');
+  return r.json();
+}
+
+async function porProxy(url){
+  for(const p of PROXIES){
+    try{
+      const r = await fetch(p(url),{signal:AbortSignal.timeout(9000)});
+      if(r.ok){const txt=await r.text(); if(txt.includes('<item')) return txt;}
+    }catch{}
+  }
+  throw new Error('proxy');
+}
+
+async function buscarEnVivo(q){
+  const url = 'https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=es-419&gl=CO&ceid=CO:es-419';
+  const xml = new DOMParser().parseFromString(await porProxy(url),'text/xml');
+  return [...xml.querySelectorAll('item')].map(it=>{
+    const medio = it.querySelector('source')?.textContent?.trim()||'';
+    let titulo = it.querySelector('title')?.textContent?.trim()||'';
+    if(medio && titulo.endsWith(' - '+medio)) titulo = titulo.slice(0,-(medio.length+3));
+    const f = new Date(it.querySelector('pubDate')?.textContent||'');
+    return {titulo,url:it.querySelector('link')?.textContent?.trim(),medio,fecha:isNaN(f)?null:f.toISOString(),resumen:'',imagen:''};
+  }).filter(n=>n.titulo&&n.url&&n.fecha);
+}
+
+function juntar(lista){
+  const clave = n => normal(n.titulo).replace(/[^a-z0-9 ]/g,'').replace(/\s+/g,' ').slice(0,70);
+  const mapa = new Map(datos.noticias.map(n=>[clave(n),n]));
+  let nuevas = 0;
+  for(const n of lista){const k=clave(n); if(!mapa.has(k)){mapa.set(k,{...n,vivo:true});nuevas++}}
+  datos.noticias = [...mapa.values()].filter(n=>new Date(n.fecha)<=Date.now()+3600e3).sort((a,b)=>new Date(b.fecha)-new Date(a.fecha));
+  return nuevas;
+}
+
+async function actualizarTodo(manual){
+  const b = $('#btnActualizar'); b.classList.add('girando');
+  try{
+    const robot = await cargarRobot();
+    const vivas = datos.noticias.filter(n=>n.vivo);
+    datos = {...robot,noticias:robot.noticias||[],videos:robot.videos||[]};
+    juntar(vivas);
+  }catch(e){console.warn(e)}
+  pintar();
+  // Búsqueda en vivo al abrir y al actualizar
+  try{
+    const vivas = await buscarEnVivo(BUSQUEDA_BASE+' when:7d');
+    const n = juntar(vivas);
+    if(n) $('#infoBusqueda').textContent = t('en_vivo_ok')(n);
+    pintar();
+  }catch{ /* silencioso: quedan las del robot */ }
+  b.classList.remove('girando');
+  if(manual) toast(t('actualizado_ok'));
+}
+
+/* ===================== Pintar ===================== */
+function pintarTextos(){
+  document.documentElement.lang = idioma;
+  document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T[idioma][el.dataset.i18n]; if(typeof v==='string') el.textContent=v});
+  document.querySelectorAll('[data-i18n-html]').forEach(el=>el.innerHTML=T[idioma][el.dataset.i18nHtml]);
+  document.querySelectorAll('[data-i18n-ph]').forEach(el=>el.placeholder=T[idioma][el.dataset.i18nPh]);
+  document.querySelectorAll('.idiomas button').forEach(b=>b.classList.toggle('activo',b.dataset.lang===idioma));
+}
+
+function pintarEstado(){
+  const ref = datos.actualizado || new Date().toISOString();
+  $('#estado').innerHTML = t('estado')(fmtFecha(ref,{day:'numeric',month:'short',hour:'numeric',minute:'2-digit'}), datos.noticias.length);
+}
+
+function pintarCinta(){
+  const top = datos.noticias.slice(0,10);
+  const html = top.map(n=>`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>`).join('');
+  $('#cinta').innerHTML = html + html; // doble para bucle continuo
+}
+
+function pintarHoy(){
+  const hoy = diaBogota(Date.now());
+  const fh = fmtFecha(Date.now(),{weekday:'long',day:'numeric',month:'long'}); $('#hoyFecha').textContent = fh.charAt(0).toUpperCase()+fh.slice(1);
+  const deHoy = datos.noticias.filter(n=>diaBogota(n.fecha)===hoy);
+  $('#hoyCuenta').textContent = t('noticias_hoy')(deHoy.length);
+  const item = (n,i) => `<a class="hoy-item" style="animation-delay:${i*70}ms" href="${esc(n.url)}" target="_blank" rel="noopener">
+      ${n.imagen?`<img src="${esc(n.imagen)}" alt="" loading="lazy" onerror="this.remove()">`:''}
+      <div><div class="hora">${fmtHora(n.fecha)} · ${hace(n.fecha)}</div><h3>${esc(n.titulo)}</h3><div class="medio">${esc(n.medio)}</div></div></a>`;
+  if(deHoy.length){
+    $('#hoyLista').innerHTML = deHoy.map(item).join('');
+  }else{
+    const ult = datos.noticias.slice(0,1);
+    $('#hoyLista').innerHTML = `<p class="vacio">${t('hoy_vacio')}</p>` + ult.map(item).join('');
+  }
+}
+
+function pintarNoticias(){
+  const q = normal(filtro.trim());
+  const palabras = q.split(/\s+/).filter(Boolean);
+  const lista = palabras.length ? datos.noticias.filter(n=>{const h=normal(n.titulo+' '+n.resumen+' '+n.medio);return palabras.every(p=>h.includes(p))}) : datos.noticias;
+  if(palabras.length) $('#infoBusqueda').textContent = lista.length ? t('filtro')(lista.length,filtro.trim()) : t('sin_resultados');
+  const hoy = diaBogota(Date.now());
+  $('#rejilla').innerHTML = lista.slice(0,mostrar).map((n,i)=>`
+    <a class="nota" style="animation-delay:${(i%12)*50}ms" href="${esc(n.url)}" target="_blank" rel="noopener">
+      <div class="img ${n.imagen?'':'sin'}" ${n.imagen?`style="background-image:url('${esc(n.imagen)}')"`:''}>
+        ${diaBogota(n.fecha)===hoy?`<span class="nueva">${t('nueva')}</span>`:''}
+        ${n.imagen?'':`<span class="medio-grande">${esc(n.medio||'ONU')}</span>`}
+      </div>
+      <div class="cuerpo">
+        <div class="meta"><span class="m">${esc(n.medio)}</span><span>${fmtFecha(n.fecha,{day:'numeric',month:'short',year:'numeric'})}</span></div>
+        <h3>${esc(n.titulo)}</h3>
+        ${n.resumen?`<p>${esc(n.resumen)}</p>`:''}
+      </div>
+    </a>`).join('');
+  $('#btnMas').style.display = lista.length>mostrar ? 'block':'none';
+}
+
+function pintarChips(){
+  const temas = idioma==='es'
+    ? ['Consejo de Seguridad','Misión de Verificación','reforma rural','Irán','víctimas','Cancillería']
+    : ['Consejo de Seguridad','Misión de Verificación','reforma rural','Irán','víctimas','Cancillería'];
+  $('#chips').innerHTML = temas.map(x=>`<button class="chip ${normal(filtro)===normal(x)?'activo':''}">${x}</button>`).join('');
+  $('#chips').querySelectorAll('.chip').forEach(c=>c.onclick=()=>{filtro = normal(filtro)===normal(c.textContent)?'':c.textContent;$('#q').value=filtro;mostrar=12;if(!filtro)$('#infoBusqueda').textContent='';pintarChips();pintarNoticias()});
+}
+
+function pintarVideos(){
+  const v = (datos.videos||[]).map(x=>`
+    <div class="video"><div class="marco" data-label="${t('ver_video')}" data-id="${esc(x.id)}" style="background-image:url('https://i.ytimg.com/vi/${esc(x.id)}/hqdefault.jpg')"></div>
+    <div class="t">${esc(x.titulo)}<small>${esc(x.canal||'Naciones Unidas')} · ${fmtFecha(x.fecha,{day:'numeric',month:'short',year:'numeric'})}</small></div></div>`).join('');
+  const fijos = `
+    <a class="video" href="https://webtv.un.org/en/search/categories/meetings-events/security-council" target="_blank" rel="noopener" style="text-decoration:none">
+      <div class="marco" data-label="UN WEB TV" style="background-image:url(foto-gaona.jpg);background-position:center 25%"></div>
+      <div class="t">${t('ver_sesiones')}<small>${t('ver_sesiones_s')}</small></div></a>
+    <a class="video" href="https://www.instagram.com/estapasandocol/" target="_blank" rel="noopener" style="text-decoration:none">
+      <div class="marco" data-label="REEL" style="background-image:url(foto-gaona.jpg);background-position:center 60%;filter:saturate(1.2)"></div>
+      <div class="t">${t('ver_reel')}<small>${t('ver_reel_s')}</small></div></a>`;
+  $('#listaVideos').innerHTML = v + fijos;
+  $('#listaVideos').querySelectorAll('.marco[data-id]').forEach(m=>m.onclick=()=>{
+    m.classList.add('reproduciendo');
+    m.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${m.dataset.id}?autoplay=1" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Video"></iframe>`;
+  });
+}
+
+function pintarCronologia(){
+  $('#linea').innerHTML = [...HITOS].reverse().map(h=>`
+    <div class="hito aparecer ${h.clave?'clave':''}">
+      <div class="f">${h.mes?fmtFecha(h.f+'T12:00:00-05:00',{month:'long',year:'numeric'}):fmtFecha(h.f+'T12:00:00-05:00',{day:'numeric',month:'long',year:'numeric'})}</div>
+      <h3>${esc(h[idioma][0])}</h3><p>${esc(h[idioma][1])}</p>
+      <a href="${esc(h.u)}" target="_blank" rel="noopener">${t('fuente')}</a>
+    </div>`).join('');
+}
+
+function pintarCifras(){
+  const nf = new Intl.NumberFormat(idioma==='es'?'es-CO':'en-US');
+  $('#cifras').innerHTML = CIFRAS.map(c=>`
+    <div class="cifra aparecer">
+      <div class="num" data-fin="${c.b}">0</div>
+      <div class="de">${c.a?(([x,y])=>`${nf.format(c.a)} ${x.trim()} → ${nf.format(c.b)} ${y.trim()}`)(c.de[idioma].split('→')):c.de[idioma]}</div>
+      <div class="que">${c[idioma]}</div>
+      ${c.a?`<div class="barra-cifra"><i data-ancho="${Math.round(c.a/c.b*100)}"></i></div><div class="barra-cifra"><i data-ancho="100"></i></div>`:''}
+      <div class="src">${esc(c.src)}</div>
+    </div>`).join('');
+}
+
+function pintarRedes(){
+  $('#perfiles').innerHTML = PERFILES.map(p=>`<a class="perfil" href="${p.url}" target="_blank" rel="noopener">
+    <div class="red">${p.red}</div><div class="usuario">${esc(p.u)}</div><div class="desc">${esc(p[idioma])}</div><span class="ir">${t('ver_en')} ${p.red==='SITIO OFICIAL'?'web':p.red==='LINKEDIN'?'LinkedIn':'X'}</span></a>`).join('');
+  $('#posts').innerHTML = POSTS.map((x,i)=>`<a class="post" style="animation-delay:${i*60}ms" href="https://x.com/JMauricioGaona" target="_blank" rel="noopener">
+    <div class="quien"><img src="icon-192.png" alt=""><div><b>J. Mauricio Gaona</b><small>@JMauricioGaona</small></div></div>
+    <p>${esc(x[idioma])}</p><div class="f">${fmtFecha(x.f+'T12:00:00-05:00',{day:'numeric',month:'long',year:'numeric'})}</div></a>`).join('');
+}
+
+function pintarMision(){
+  $('#cajasMision').innerHTML = CAJAS.map(c=>`<div class="caja ${c.k}"><h3>${c[idioma][0]}</h3><p>${c[idioma][1]}</p></div>`).join('');
+  $('#fuentes').innerHTML = `<strong>${t('fuentes')}</strong>` + FUENTES.map(f=>`<a href="${f[1]}" target="_blank" rel="noopener">${f[0]}</a>`).join('');
+}
+
+let fraseI = 0;
+function pintarFrase(){
+  const f = FRASES[fraseI % FRASES.length];
+  const el = $('#frase');
+  el.style.opacity = 0;
+  setTimeout(()=>{el.innerHTML = `${esc(f[idioma])}<small>Mauricio Gaona · ${esc(f.c[idioma])}</small>`;el.style.transition='opacity .6s';el.style.opacity=1},250);
+}
+
+function pintar(){
+  pintarTextos(); pintarEstado(); pintarCinta(); pintarHoy(); pintarNoticias(); pintarChips();
+  pintarVideos(); pintarRedes(); pintarCronologia(); pintarCifras(); pintarMision(); observar();
+}
+
+/* ===================== Animaciones al hacer scroll ===================== */
+let obs;
+function observar(){
+  obs?.disconnect();
+  obs = new IntersectionObserver(es=>es.forEach(e=>{
+    if(!e.isIntersecting) return;
+    const el = e.target; el.classList.add('visto');
+    el.querySelectorAll?.('.num[data-fin]').forEach(animarNumero);
+    if(el.matches('.cifra')){el.querySelectorAll('.num[data-fin]').forEach(animarNumero);el.querySelectorAll('i[data-ancho]').forEach(i=>i.style.width=i.dataset.ancho+'%')}
+    obs.unobserve(el);
+  }),{threshold:.15});
+  document.querySelectorAll('.aparecer:not(.visto)').forEach(el=>obs.observe(el));
+}
+function animarNumero(el){
+  if(el.dataset.hecho) return; el.dataset.hecho=1;
+  const fin = +el.dataset.fin, nf = new Intl.NumberFormat(idioma==='es'?'es-CO':'en-US'), t0 = performance.now();
+  const paso = ahora => {const p=Math.min(1,(ahora-t0)/1600);el.textContent=nf.format(Math.round(fin*(1-Math.pow(1-p,3))));if(p<1)requestAnimationFrame(paso)};
+  requestAnimationFrame(paso);
+}
+
+/* ===================== Eventos ===================== */
+$('#btnActualizar').onclick = ()=>actualizarTodo(true);
+document.querySelectorAll('.idiomas button').forEach(b=>b.onclick=()=>{idioma=b.dataset.lang;try{localStorage.setItem('idioma',idioma)}catch{};pintar();pintarFrase()});
+$('#q').addEventListener('input',e=>{filtro=e.target.value;mostrar=12;if(!filtro.trim())$('#infoBusqueda').textContent='';pintarChips();pintarNoticias()});
+$('#btnMas').onclick = ()=>{mostrar+=12;pintarNoticias()};
+async function busquedaManual(){
+  const q = $('#q').value.trim();
+  $('#infoBusqueda').textContent = t('buscando');
+  try{
+    const n = juntar(await buscarEnVivo(q ? `Gaona ONU ${q}` : BUSQUEDA_BASE));
+    $('#infoBusqueda').textContent = t('en_vivo_ok')(n);
+    pintarNoticias(); pintarHoy(); pintarCinta(); pintarEstado();
+  }catch{ $('#infoBusqueda').textContent = t('en_vivo_falla') }
+}
+$('#btnBuscar').onclick = busquedaManual;
+$('#q').addEventListener('keydown',e=>{if(e.key==='Enter')busquedaManual()});
+// "Hoy" se refresca cada vez que vuelves a la app
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')actualizarTodo(false)});
+setInterval(()=>{fraseI++;pintarFrase()},7000);
+setInterval(()=>{pintarHoy();pintarEstado()},60000);
+
+/* ===================== Arranque ===================== */
+pintarTextos(); pintarFrase(); actualizarTodo(false);
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body>
+</html>
