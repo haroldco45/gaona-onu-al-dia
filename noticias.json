@@ -1,12 +1,28 @@
 {
-  "actualizado": "2026-11-03T02:34:04.370Z",
+  "actualizado": "2026-11-03T10:40:52.003Z",
   "fuente": "robot",
   "noticias": [
+    {
+      "titulo": "Nuestra respuesta al embajador Mauricio Gaona",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2l2NVI0Q2JjUmI2NUhvTFFSWUUyc25iZkJFZHQxLVAyNVVSWmFONzhXVUFvR2dycHg4SVFRRElGV0FwODVieEdRbTlvQ1RxV1AwOFlPY01jMlNCT1gyY29NVzNwNFFRWlZvenlqVXF1T2t2c3QzR1JReGJXajV5QUk0dVBTOC1XZ0lnaFZZeXZrdUxtdjc2U3o5bl9ZNjZoQXdXOUQzT25xamJZYnoyUUNvZnTSAbQBQVVfeXFMUFNpdjVSNENiY1JiNjVIb0xRUllFMnNuYmZCRWR0MS1QMjVVUlphTjc4V1VBb0dncnB4OElRUURJRldBcDg1YnhHUW05b0NUcVdQMDhZT2NNYzJTQk9YMmNvTVczcDRRUVpWb3p5alVxdU9rdnN0M0dSUXhiV2o1eUFJNHVQUzgtV2dJZ2hWWXl2a3VMbXY3NlN6OW5fWTY2aEF3VzlEM09ucWpiWWJ6MlFDb2Z0?oc=5",
+      "medio": "El Espectador",
+      "fecha": "2026-11-03T05:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
     {
       "titulo": "¿Qué cambiará en el Acuerdo de Paz tras la decisión de la ONU que destacó De La Espriella?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlF1ekV3X2RqMzF2QUdER0IwUVJFamxxTVhNZHBFYTEyOExUempqdllpU052NHpFNkpxZFIxYXNCVnFkM1dVYXQtSlJrTlNyZjJ5RU5Wdk0tZllINm9FZmZBYmM1MkFKMEpuMzh1OFJwNnd1TzhRalFUNGZ2Z1hKTWJxd0pCWXpRdTU2dkJsMWJUeV9HOWJvbkROcTNoOUlkUl9fVFRyRmdmSmZpclRVTQ?oc=5",
       "medio": "Colombia.com",
       "fecha": "2026-11-02T23:16:53.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "ONU aprueba cambios en la misión de verificación del Acuerdo de Paz en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3pwMHlIM2JqOFg1NkRiZHpMSllhb1ZFd1JNV2x0Qm5OMjRIT0s3TUh6WWROVFhPaXlXMUlhYUdaSzcxcndsRHVMZ1B3ODJGUERlMnhqWlZuWTRNSTN2WVAzbTZhalN6XzlQZTFSZVZrQTlsTlllN0dBSDdWV21USmxZOUs2YzlRUzY5bEJUOEhVRkxYZnpfWWZTZkRyNU1BelBKVl9jckZRYjBoTmhpcmpKLXdEREx1dVgzaERVTQ?oc=5",
+      "medio": "El Meridiano",
+      "fecha": "2026-11-02T22:52:15.000Z",
       "resumen": "",
       "imagen": ""
     },
@@ -35,7 +51,7 @@
       "imagen": "http://www.bing.com/th?id=ONUT.V1NLBOtkVbG5bIJvoTFMgg&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Presidente De la Espriella se pronuncia tras renovación del mandato de la Misión de la ONU sin reforma rural integral: 'Reafirma la soberanía'",
+      "titulo": "Presidente De La Espriella se pronuncia tras renovación del mandato de Misión de Verificación de ONU sin reforma rural integral: 'Reafirma soberanía'",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTDcwR1FoN05uUmZ4dkdXRFpmSW5kemJmczVoYS1kd1I2cE53VkRTRzh5WkZpbnFGMTFoZkVOYkxhNVJJSEliLTZEYTNGbl9YQ0ZpMHFNa0YtTWUtU2tyMzZkM0FaRTE4RUxFeC12b1JUMzBOdGhReVJJNmlQMG1tNkVYNUc2UUdyOTN2VFNJWG5oOGo0Z1FPUTA1enoyWlhjTW1KMGpOdmcwd1F2azZMREE5WFNieWwzLW54YVYtcVR6YzNHc0E4SHhBM3hxR29GLXlPVndRclZ4a3U3Wm5KYjVhV29yRU1PRUlNNnZJaTVEbXpCX3lvbGhkQXR2dUxnRnlqX3lEQjNHWUpnWUVkOXBEWGhIMXJVbFg0Z0NmbVh3UGZSMm42YVgza3hPLUnSAbQCQVVfeXFMTXB4ZmszcjFlLXQ0MU1rWng2RlVCNDltWnFNTWl4Ukk4YV9iTEZzNU5rVFJaUWNhWVNzamJ3M0hfdzY5VTllQnF5elpNRmNMQ0NmdEtHYlNGa3lVeXVlRzdBeUNSOUFNamxXWjA0ZEgyWklpbGltUWREOXAwdXFKamxXbWlZTHhEcXJwRENKQXlXODRZZ2JjV01WSUJOMnNpdHljalRXMmQzR1NrSXZ2QlZMbW4zbE8tSmwtdmI2S1QzMU5LX0pYVnNoOXJqbVNSZS1XM1R3REN4Q055bl9IQ1V4UE5vUlZTTWhXVGtsaDlKemVpSGNYdF9RbGRFaHZQQ3NVUU5sVldWV1BaUTN1cFpUV0JXTnFabFJnZTZIcV9XRmIyTllCM1NZVWZQSi1Fd2VXXy0?oc=5",
       "medio": "El Tiempo",
       "fecha": "2026-11-02T15:45:14.000Z",
@@ -43,16 +59,24 @@
       "imagen": ""
     },
     {
-      "titulo": "Abelardo De La Espriella envió mensaje al Consejo de Seguridad de la ONU por decisión que se tomó sobre la Misión de Verificación",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOM0pNZ0dzQmozWUdOTE44N0dBSXMxeUJrS2dvUzRBb2lJR3g3bEVDTV9UZ0s4X1lHZFpfdDZHMElqcUVad0JYTGRwTWIyc0hDQlU3X2VoZjZtNFcxNHB3Z0ViQVI3WXNGcWtKUllhUUFERUtncGkwWnpOcENwWlRhR21qdkNEQ1h6MGZZRkY4a200TTNhU2RfZ3I5MDhPNnM2WkVZbVJKOWE1MlIxSkZqd2RpVDE2YXVYSUNkYkYydFV0YmZOYU1PMXV6cUp2VzhmUHFPdE9qTmtObnowSnF6RUt0cFRRZzg1S0FlMlllNlFVaWxqUVlpbFhxakRqREgzekktSDB4dTY1VHNKOWtR0gGPAkFVX3lxTE4zSk1nR3NCajNZR05MTjg3R0FJczF5QmtLZ29TNEFvaUlHeDdsRUNNX1RnSzhfWUdkWl90NkcwSWpxRVp3QlhMZHBNYjJzSENCVTdfZWhmNm00VzE0cHdnRWJBUjdZc0Zxa0pSWWFRQURFS2dwaTBaek5wQ3BaVGFHbWp2Q0RDWHowZllGRjhrbTRNM2FTZF9ncjkwOE82czZaRVltUko5YTUyUjFKRmp3ZGlUMTZhdVhJQ2RiRjJ0VXRiZk5hTU8xdXpxSnZXOGZQcU90T2pOa05uejBKcXpFS3RwVFFnODVLQWUyWWU2UVVpbGpRWWlsWHFqRGpESDN6SS1IMHh1NjVUc0o5a1E?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-02T15:18:34.000Z",
-      "resumen": "El presidente Abelardo De La Espriella le envió un mensaje al Consejo de Seguridad de las Naciones Unidas (ONU) por la decisión de respaldar la propuesta de su Gobierno para que se modifique el mandat ...",
+      "titulo": "De la Espriella le mandó mensaje a la ONU tras decisión que cambia tareas de misión en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDJRdTRKbTdLS2JDMDJOaDdLQjUtcDlhV1ZIY2wtZ3ZfTEVTbUp2cXJFNkNjVS1hTGZWNTY2YU9vOU1GeEJ6V0ktZnhjZHZETFdaWkUzN1VPb3YwbHhmVENoVjRxZkRjWWRTQzM5Zkh2MnNTZWx4Y2hKWGlDcm5YOTZpa3pEM2YzYWlKWHkySFJJR1hXNWsyUUpzdVlQd9IBowFBVV95cUxNS2dKQUZaS0NqQ3hGNnJtTmZvLVd3Rjhpd2ZzY2ktLTVXZW9kWmc3TndSTG01bUNuVGpleFFENzZoNFVaR0pyUEN2Zmo0bHdhOWxSOG9rNlFQc003NjMweEFiWkVVMXc1VUdjWDFNYklqanBzM01tcnZqMmhiN1d1SXNEWjBibnJBQUZYa0pEV0N3TTRoUHJmanM5cndROC1EcXBv?oc=5",
+      "medio": "Pulzo",
+      "fecha": "2026-11-02T15:35:00.000Z",
+      "resumen": "belardo De La Espriella agradeció al Consejo de Seguridad de la ONU por modificar el mandato de la Misión de Verificación del Acuerdo de Paz.",
       "imagen": ""
     },
     {
+      "titulo": "Abelardo De La Espriella envió mensaje al Consejo de Seguridad de la ONU por decisión que se tomó sobre la Misión de Verificación",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS3I4cDFkWGdyaTBTanpyUGhxdW1TR3hzUnZxd3ZNVVJYOUlHc0F6WTVVQTRQR1NaeS1Kd1dXYVFBMG96Tm1lMXNCTG9NRmhRVjFBYnhCV0Jzb2xtUk9OZGRkR28tRWFTdUw4M0JzeS1lRC1BWDlIU2RzdWdLb1kyLXlsSlZ3M0hycUtVMk1yd0gzS3ZSMmpsbzJjajFldjlLQnJ3UEpGMnlhcnIxeVpVdm91N2RPMWZYQTQtN1BVRlZ2Nk9sWWlYT3NOLVBLQ21jb1FCTWVRay1WaFVVaVRhNnBjVnZBQUFycHhfZkxvRDVvZkVxOUd4ZkNGYVFUbTNOazNiQW1ja2dNUdIBjwJBVV95cUxOM0pNZ0dzQmozWUdOTE44N0dBSXMxeUJrS2dvUzRBb2lJR3g3bEVDTV9UZ0s4X1lHZFpfdDZHMElqcUVad0JYTGRwTWIyc0hDQlU3X2VoZjZtNFcxNHB3Z0ViQVI3WXNGcWtKUllhUUFERUtncGkwWnpOcENwWlRhR21qdkNEQ1h6MGZZRkY4a200TTNhU2RfZ3I5MDhPNnM2WkVZbVJKOWE1MlIxSkZqd2RpVDE2YXVYSUNkYkYydFV0YmZOYU1PMXV6cUp2VzhmUHFPdE9qTmtObnowSnF6RUt0cFRRZzg1S0FlMlllNlFVaWxqUVlpbFhxakRqREgzekktSDB4dTY1VHNKOWtR?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-02T15:18:00.000Z",
+      "resumen": "El presidente Abelardo De La Espriella le envió un mensaje al Consejo de Seguridad de las Naciones Unidas (ONU) por la decisión de respaldar la propuesta de su Gobierno para que se modifique el mandat ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.brny4R6xhFNON3orA6BVXA&pid=News&w=640&h=360&c=7"
+    },
+    {
       "titulo": "Consejo de Seguridad de la ONU prorroga por un año el mandato de la Misión de Verificación en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaWpPajRwOGtpSi1QN0NvekJXbFljby1Ea0hJNUpWOEpBWkpXZWp0eTJGNnpOQzNtSDhvMkFocjRfUFgyNmxFMjI1a3hWZFdjTkpmQkJ2VVgyUElwYzR4OVZCWGJyLUdPUHlOMDR6bS1GNlZkckQzRUxwUTkxNENmUEJpVFVGc2dTbVdibUgxdGxCVWo4TG5QYjQyWGlFX1R3ZnVQYzdVM2N6d3VFSnJ6SWFBX3dxOUpVRXZMeVB5a3c1SWpZS2VLOGUxLTJmQS0tMS1FdHoxMEx4NWFZVmFDeWk5NFRtRXcxRTdGT3U4YURaUXVobndqcWVVQzU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFJwRU1BeDlpS3lpX2ExeHpmY3FRbDVITVFzdE1vUXpGekttU1kzQy1INWtZOE5xenE2WlhJbUdmTTFNME1weHo1T2FEbUxaN2paV1duLTRaLWNyX2FnY0IybXRQbXVHbnBnamxsYTlQTnZuTWVqWVMxRWlUQlJUbzE0MmdHdFJ4OFlmcU5SV1dSMmtTYzd4WjVBM2xzT21GZ0thMUJMWTdNRDFDTVhzc0YtdlNpclg3RjB6YlEyV0w5TXRJam5xekh2V0hOalJuX0pBSHl2SzZoc3VXTzJ0UTJB?oc=5",
       "medio": "ELHERALDO.CO",
       "fecha": "2026-11-02T15:05:00.000Z",
       "resumen": "A través de la Resolución 2833 (2026), aprobada de manera unánime con 15 votos a favor, el organismo internacional extendió el acompañamiento al Acuerdo Final de Paz de 2016.",
@@ -71,7 +95,7 @@
       "url": "https://www.pulzo.com/nacion/colombia-retira-reforma-rural-de-verificacion-de-la-onu-postura-de-abelardo-de-la-espriella-PP5346757A",
       "medio": "Pulzo",
       "fecha": "2026-11-02T12:51:00.000Z",
-      "resumen": "El presidente Abelardo de la Espriella fijó la dirección de su gobierno respecto al Acuerdo de Paz de 2016 al respaldar públicamente el argumento expuesto por Mauricio Gaona, embajador de Colombia ...",
+      "resumen": "El gobierno colombiano limita la verificación de la ONU al proceso de reincorporación y seguridad, excluyendo la reforma rural integral.",
       "imagen": ""
     },
     {
@@ -108,8 +132,8 @@
     },
     {
       "titulo": "Gaona tiene razón: el Acuerdo de Paz no es un modelo para el mundo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajA0YzhXOGYzVTZ3bDhzM1I0c0NpV21HdkNlNHBwMXdqVFFsWEVvRk44c2xBRkVfNWpHc1duUnJteEFpMTQ3akJoS3B5Xy1CeTVMbXN6enZ3TDFQdXVvR3p1RG1iQ014VEh3dmlROVVOU3NWQktHNUo4TlF3d2Rjemw2SU1RZUZCdTQ1Q0p1YTlsZXFjdGt1TDZXVEo?oc=5",
-      "medio": "La Opinión Cúcuta",
+      "url": "https://laopinion.co/editorial/gaona-tiene-razon-el-acuerdo-de-paz-no-es-un-modelo-para-el-mundo",
+      "medio": "La Opinión",
       "fecha": "2026-11-01T16:01:00.000Z",
       "resumen": "Los datos que presentó el embajador deberían avergonzar a quienes durante una década vendieron el acuerdo como un éxito sin matices.",
       "imagen": ""
@@ -264,7 +288,7 @@
       "medio": "El Espectador",
       "fecha": "2026-10-30T19:07:44.000Z",
       "resumen": "\"El Acuerdo de Paz no es un modelo para el mundo”: las palabras del embajador Gaona en Naciones Unidas.",
-      "imagen": "http://www.bing.com/th?id=ONUT.ZXDlP7qkTEUKXRWM1VryiA&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.VWB5H8_upC6d1tjSMA80ZA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Consejo de Seguridad de la ONU extendió mandato de la Misión de Verificación en Colombia hasta 2027",
@@ -339,14 +363,6 @@
       "imagen": "http://www.bing.com/th?id=ORMS.1202489a91cf52c1c79596389b6a8294&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Colombia celebra la renovación de mandato de la Misión de la ONU con su \"enfoque original\"",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0REZzQ5WG1HX2o4QVoyV1RGNWMyM0hhNnprRTdTb3NZY0Zyc0ljamY4VGswbmt4TEJGblVEekJ5ci1HT0p3alJqMF9tdkxLUTk2eFBMRWxaVEJRd0FkT3J1NUhyVllRT0NPU3lkZ1pOc1BfanU4X3l5QjdVZU80eVJGV015RThIcDJGVEVvOFhCVnRUV3gweGtadHZZbkdhU0piU29KODRuOXNNX3I1cDU0SkM1Y3BneE5rT1FhUDZ6MGtaZmE1Z1RCQTZfNzFPa2laTFdfZklLM3lVN0ZjcnFrTzF2WTBlNnc?oc=5",
-      "medio": "www.abc.com.py",
-      "fecha": "2026-10-30T14:06:00.000Z",
-      "resumen": "Los 15 miembros del Consejo de Seguridad de Naciones Unidas, entre los que se encuentra Colombia, votaron a favor de la resolución, que recoge el compromiso del Gobierno de Abelardo de la Espriella pa ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.RO-2iY9wxVi4XBcC1tDcqw&pid=News&w=640&h=360&c=7"
-    },
-    {
       "titulo": "ONU renueva misión de verificación en Colombia hasta 2027",
       "url": "https://larazon.pe/onu-renueva-mision-de-verificacion-en-colombia-hasta-2027/",
       "medio": "La Razón",
@@ -383,8 +399,8 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFJrckRJRmVTcUdVMHpNaDJ1S1Y2SWdDaWRXS2w0MDlNNHRXcWdHUVhmZmhNdWU5cWdwM1BwU0FydkN4SXJhOEFKUkxZM2hHZVd5aGFNQnk4ZFpfWS0xc3U5ZGV1d0ppX3hYTlFSMTdzbnVPTEwzbXpvdURNR0VQUXRmU2NJa1FCTjA4dGxsSzhMUE5CSjdsZWlSUmxSTlJMbUdYeEJLRXFDbkVEeTllaTBsalc3QlRqOENiS1RB0gHDAUFVX3lxTFBxdGYySjg1Qm1qTG5PQTZhNUpObnByUlB5NWdpX19PYWs3UVRCcS10aWJlTWE0MUZiMFJGOE1HREJpQlR1bTluUjVDZjBuM1gzTlZUeldqcVk2VnBzQTBpQkxjX3RQWGRzZ19sVWp5dDNnV19CMTY5eTZVRjhLc05pcXR6bnBuempwRW4tanhNcWZHR2dQQjQ3NUlsOTh3RE1nTHZSNkx4QlZrUE5jcTM5Q3FUT0tWcjVCbVMxTEhEWExCdw?oc=5",
       "medio": "El Colombiano",
       "fecha": "2026-10-30T11:57:04.000Z",
-      "resumen": "El Consejo de Seguridad de la ONU aprobó por unanimidad la prórroga por un año de la Misión de Verificación en Colombia. La decisión mantiene el acompañamiento internacional al proceso de paz y el Gob ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.pvhKJ5cg1UT_eOAA4GRFDg&pid=News&w=640&h=360&c=7"
+      "resumen": "El Consejo de Seguridad de la ONU aprobó por unanimidad la prórroga por un año de la Misión de Verificación en Colombia. La decisión mantiene el ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.LC_DhDyK-rMjXbpOqVPocQ&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "“No somos un país que goce de los beneficios de un proceso de paz”: Colombia ante la ONU",
@@ -407,8 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzV0Q1ZTTzBOUldMZGJETFFFLXRQOGR4TWo1TFZnSlh1X0dodlhyYXI0MmRqLWRwbTJIYncyaG9rR1dzWEZjY2Q3alhYNGhJTERWMFVLYm1WNC1NMFJuQ19RMnByQ2tObmZyRC05eUFWYkN6dGI2enFIeGdIMkJISGV5TEEwQ1R4UlFHRGtaMDZfeXcwWnFjTGM2dXpPZkRYNlZJalVwUkFJcEFmQ0hUSVllMWt3OG9IX1IyTnNiRGlVU1dfUnpnRmpBNFXSAdIBQVVfeXFMUDZGYU1ZWDJYZ0tUSDdDYnJsODItMkY1Zlh1V0QtZDQ5MEsxMGJ6dmlLTHFxSE16NENtaXROZXFpZ0xDTElzck85b18xV0o3RUpGWUhxM3JDNkZ4cElsRUhWdEVVem10dkRMUHIxdFV1WjF5NEpHd3R6bUJPRkRReHBPYjljdnJ6S3AzdGx0WUtieUQzbTlseVFOVC1RWWgyVWZDVmhJYzJBbXpGeXlRMTZicGpHaDJmX1FISlM2a2RIbzVFVVJ0cGNJLUZwREhYckJ3?oc=5",
       "medio": "Revista Semana",
       "fecha": "2026-10-30T10:13:25.000Z",
-      "resumen": "El embajador ante las Naciones Unidas, Mauricio Gaona, celebró la decisión en un discurso desde Nueva York.",
-      "imagen": "http://www.bing.com/th?id=ONUT.QrTE7AYj3CBeZDulrLjZCg&pid=News&w=640&h=360&c=7"
+      "resumen": "El Consejo de Seguridad de las Naciones Unidas aprobó por unanimidad este viernes, 30 de octubre, la renovación del mandato de la Misión de Verificación de la ONU en Colombia hasta el 31 de octubre de ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.OamdtnosA8r3oN68N6TXYw&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Consejo de Seguridad de la ONU renovó la misión de verificación en Colombia hasta 2027",
+      "url": "https://www.msn.com/es-co/noticias/other/consejo-de-seguridad-de-la-onu-renov%C3%B3-la-misi%C3%B3n-de-verificaci%C3%B3n-en-colombia-hasta-2027/ar-AA2gqreF",
+      "medio": "Semana on MSN",
+      "fecha": "2026-10-30T10:13:25.000Z",
+      "resumen": "El Consejo de Seguridad de las Naciones Unidas aprobó por unanimidad este viernes, 30 de octubre, la renovación del mandato de la Misión de Verificación de la ONU en Colombia hasta el 31 de octubre de ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.OamdtnosA8r3oN68N6TXYw&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Gustavo Petro lamenta que el Consejo de Seguridad de la ONU haya retirado vigilancia al punto uno del Acuerdo de Paz.",
@@ -499,12 +523,20 @@
       "imagen": "http://www.bing.com/th?id=ONUT.Nxwl6lbY7VFKSv2vsuQ3yA&pid=News&w=640&h=360&c=7"
     },
     {
+      "titulo": "Colombia celebra la renovación de mandato de la Misión de la ONU con su \"enfoque original\"",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0REZzQ5WG1HX2o4QVoyV1RGNWMyM0hhNnprRTdTb3NZY0Zyc0ljamY4VGswbmt4TEJGblVEekJ5ci1HT0p3alJqMF9tdkxLUTk2eFBMRWxaVEJRd0FkT3J1NUhyVllRT0NPU3lkZ1pOc1BfanU4X3l5QjdVZU80eVJGV015RThIcDJGVEVvOFhCVnRUV3gweGtadHZZbkdhU0piU29KODRuOXNNX3I1cDU0SkM1Y3BneE5rT1FhUDZ6MGtaZmE1Z1RCQTZfNzFPa2laTFdfZklLM3lVN0ZjcnFrTzF2WTBlNnc?oc=5",
+      "medio": "www.abc.com.py",
+      "fecha": "2026-10-30T02:16:00.000Z",
+      "resumen": "Bogotá, 30 oct (EFE).- El Gobierno colombiano celebró este viernes la renovación del mandato de la Misión de Verificación de la ONU en el país hasta el próximo 31 de octubre de 2027 y destacó el ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.RO-2iY9wxVi4XBcC1tDcqw&pid=News&w=640&h=360&c=7"
+    },
+    {
       "titulo": "ONU renueva por un año misión de verificación del Acuerdo de Paz en Colombia",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzRRazFMQ1FxR1IxZXp5d1E0SF9MQXcxR245UUhTcWdLR1VSdU12XzhlY3Z6S0VSZE83QU9JM3p5VjZ1aUhGMEVENl81UkdQNFJaQmpjRjNQdm9lcE9pX2JVbFkwUTc3aTJYcXFqSWpnLUM1cHBVaGVyRW5IN3lJZnJrSkNfcE55TGJIdGRSUXBqMGtqbV8yUkNab0dUNHFwcXROT1BRVFhkeXgzUVlPT3ZpbnVkZjVYWWdINXdB0gG-AUFVX3lxTE1yR2N5Zm9iT1ZsaFNEeHdPR3o0OWRaa3dPSUJxUC1oTHpWN2hWVV9yYUhTYTJ1cjFQdkRXbmxDMlZZM19FQU5yeWtKVVFJY3pPWld1SXZzX3lqLWJwS05oalcwa1JuanhiNG9BcFRJNW1kTDFBZjhXS1VUb2lNZmd3VXI2ajJJSWpmX0dacXlEZ0dYeVZyYUp1M1J6V1NGSUg2VjMxZm5obXZ2VnlZWnExQ1c3VHlzS3BOZjM1eUE?oc=5",
       "medio": "La FM",
       "fecha": "2026-10-30T01:04:00.000Z",
       "resumen": "La decisión fue votada por los 15 miembros del Consejo de Seguridad de Naciones Unidas.",
-      "imagen": "http://www.bing.com/th?id=ONUT.aKMKUFtaSJTZbKANbFptyQ&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.YPJsAn2HSukMvbo1js5ajg&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Celac pide que un latinoamericano asuma la Secretaría General de la ONU",
@@ -524,7 +556,7 @@
     },
     {
       "titulo": "Embajador Gaona: el Acuerdo de Paz sí es un modelo para el mundo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX282ZTFKSXh3WGI4VklhWFJ5cmJNQVRtS0xpU1FvMTZYODdFdW1oQ2k4YUdkV1hQNDRFOHkzdHNLQmw4ckxMYlBLV3RRRzlRRU1DcHBqcXprM3QyOVRMQWxXZ3phRVlsX216MjI5MzFGNDRBS1lxYkdqSlhYVndvczdyN2tNZzMyV0hSVnVKbl9wTUZYaEZWNm5uWHQyZzhBQ05uR0N1cllaa05ycXd0VdIBxAFBVV95cUxNZFFwc184eWZkVmVKZDRIaHRySDQ3YTA4SjVJOXU2QXA2NXJIUlZBLXpTMjQ1WVVGZ3VPczYzNDFDOWlCcFRxUFpfRkYtdVdKRHhkZ1YyekpnV2d4UmZYWlp5S0szSWJjVENoYzNXSEhDQTdoNTNlR3dOaUh1WWJSaUkzWDhjUlJ6LU1JdzRodFNBWWZFOVE2RXYwS29Hdnh1ekVvakRoUEYzTEx0SENRcXo2WmpSVE1MNDNXTXdrZjNqQzNu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZFFwc184eWZkVmVKZDRIaHRySDQ3YTA4SjVJOXU2QXA2NXJIUlZBLXpTMjQ1WVVGZ3VPczYzNDFDOWlCcFRxUFpfRkYtdVdKRHhkZ1YyekpnV2d4UmZYWlp5S0szSWJjVENoYzNXSEhDQTdoNTNlR3dOaUh1WWJSaUkzWDhjUlJ6LU1JdzRodFNBWWZFOVE2RXYwS29Hdnh1ekVvakRoUEYzTEx0SENRcXo2WmpSVE1MNDNXTXdrZjNqQzNu0gHEAUFVX3lxTE1kUXBzXzh5ZmRWZUpkNEhodHJINDdhMDhKNUk5dTZBcDY1ckhSVkEtelMyNDVZVUZndU9zNjM0MUM5aUJwVHFQWl9GRi11V0pEeGRnVjJ6SmdXZ3hSZlhaWnlLSzNJYmNUQ2hjM1dISENBN2g1M2VHd05pSHVZYlJpSTNYOGNSUnotTUl3NGh0U0FZZkU5UTZFdjBLb0d2eHV6RW9qRGhQRjNMTHRIQ1FxejZaalJUTUw0M1dNd2tmM2pDM24?oc=5",
       "medio": "El Espectador",
       "fecha": "2026-10-29T17:01:00.000Z",
       "resumen": "Editorial de El Espectador que le responde a las declaraciones de Mauricio Gaona, embajador de Colombia en la ONU, sobre el Acuerdo de Paz.",
@@ -539,9 +571,9 @@
       "imagen": ""
     },
     {
-      "titulo": "Oficialismo respalda postura de Gobierno De la Espriella ante la ONU sobre Acuerdo de Paz",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0RzZG1pS2tjd2lFbDZwZ3RfSE9YcVFvdWMxWDNhMVFCQVhIeURoQklrUTZGZF9EQmRuc2kxZDhZMV8xT19YRzNPWkU4RXoxelpXaEZmbTZrdmJUa1E0dmhUQVVpaXNXMnR0WHdHUWk1LXdfZnBxM3NuSHFhQTZqX2dHNmVxODI1SXFsYk1Xcml5QjRKLWROb19pVG1aUDFYNTgtQkJWQWJLc3FQQm5INlJ3Q2NBY2EzcjRid2N4clgzR1BaVFdN0gHbAUFVX3lxTE1IaVhqQU0tdVZSZko1cW9XTjZnRDZkeVBiejB2RkdTblhOU3JNTFMwby1wbmFyRG5odE9kRnpxckxwVnN5RmxNWkgxYTYzZlhLd2VCYmJIR3AxNmJGVGNtMndHQUhsbGd1TE1OaU05TkctVDZkVkZXUi1nY0tzRnRvQy1oU1Y5VnZUU3F3LThaSW93NlhJeFdFZlR1bTF2bkl1ZEJEbWJnNHZXaTFsXzNlMHhGYXI4eXp2S3Vza3Q4b0t3M2JGdzNIVmdVM0Z5RERUc0tuX0J4X1E4Zw?oc=5",
-      "medio": "El Espectador",
+      "titulo": "Oficialismo respalda postura de Gobierno de la Espriella ante la ONU sobre Acuerdo de Paz",
+      "url": "https://www.msn.com/es-co/noticias/other/oficialismo-respalda-postura-de-gobierno-de-la-espriella-ante-la-onu-sobre-acuerdo-de-paz/ar-AA2gxV10",
+      "medio": "El Espectador on MSN",
       "fecha": "2026-10-29T17:01:00.000Z",
       "resumen": "Varios sectores suscribieron las palabras del embajador Mauricio Gaona en el Consejo de Seguridad de la ONU. Esto dicen.",
       "imagen": "http://www.bing.com/th?id=ONUT.VWB5H8_upC6d1tjSMA80ZA&pid=News&w=640&h=360&c=7"
@@ -607,38 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOamN4dE1DbGhzZWRNSTk2U05tWEZxT3k0MW9mTEE3VHVQZEZyVVhjQ2FTdkNCZWxtbHlvMDI0Q1poN1c5cVZTUWVqelotM2lqeDdudzdWdXFiSmFtYzBsTzhNVXZmMGtJTEFPZmdVa3NYdXJidTVNd2xVUGNLLXNrUWc3WnVwMl9wQmpMblpoOVhkSnFiSFBQaW1wNkhYMFozLUo3TGFlLWlWaUgzNjVNYVp0dzEzQzNHRzhsbkNIV1FqWU8yVUVfNGNPOVJOQnJZejlqV1YxQmFDc3VSRnBHREFtYnVyajRTeVNVLWtVVmRQRWttQWxGTWtkMXJ6T3FYUzdvV3QzVng5SW1oTmFhT3pRMnVLdkZSeWlWMlJZZGQ1QdIBvAJBVV95cUxOelpYZnNxZkF5MW1JVUlBckVTOVNQbm5GZVdxbjl6QkpyVWtoRElpNTZvRFVzd0hCYl9oamlvX3JHbjk0NlhDbTJ1bUxoM1Y2X2xsbnczNjdCazNwV1pfOC1wOS1nRWhSMl9OVHgtZFhjeDUyMWRsYk9FY2QwMEVWeHBfVDNMTERJb1k0OVcyZEVYaEU0Q1BHdUZpaFlxdnRYTVBEVjE0Ynl4YUNyVkMzc2NpNE0xOWprMVdJQ2pqY2pNVkJreF9OcmZDd0dNdmd5T0FEMGNOb1JORlFxcXFsMkdoMGVQRDJveVZiTnR1R3RGbFpqTEJJa3VwQ29RMl9VUEEyV0NoMWxIaUFRUGxIU1pwOFBhTVY5WF94NWhjbThxTTNjbVFOZFF5dVBKSTJWR3JrSjhlOWlHUUtu?oc=5",
       "medio": "Infobae",
       "fecha": "2026-10-14T07:00:00.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Consejo de Seguridad ONU pide garantizar recursos para las sanciones de la JEP",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQS1SR0wwSHdMV1RGV0ljMEFnVXhuUUZKUFRkZHg4N3dldXpJX2xEOHdBNHBpVDVsa3RLRnIyLW15MXZiMy1mRl8zVGNiVlprVVZucFQyNUY3UUlSR0tOaUw4YmZTNzhiQjBXUnJVNE1GOHd3ZTFEZ1l3OHFQUmVUaDVOcWxqMlFyZFlrcklUTVMxZzl1ZFJLRC1NUXppcHJ3dGFqMmg3U1AwYVBiMG8teTlLRE10YjUzcG5XdW5LUEViMjRCX3Rzdmt0c9IBywFBVV95cUxPcWw3Y0laeHg1ZHREVnd0RjJ2MXZVYnFEemZvWVBVNTdySWo0YkNveld3LURwN2ZSYTJJQTZ3RkZUVXE1c0VzR0pZM09rNl9ZV01NN2dHSDNqQ2RiaC1qLUhuNkU0cVZfSk5kRE9kUDU0ZTdLbTFTRF9wbGthbWZrRDYyWTYtdzFwdjY0ZnZQZGdOc01DN29tNlVScWQ1dzIxU1hDMDlGQnlpOFNBWUNLeGh5RTNMbGUtc0RFVndUbW1hSEpJcmlTYUsxRQ?oc=5",
-      "medio": "Asuntos Legales",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Consejo de Seguridad de la ONU pide garantizar recursos para sanciones de la JEP",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUhOdmdacWhRNWRIN2I2bFdmN0k5NHBPdFR5RmRKOC1iNzltMGhFNnhxOVd0T1RocHlvV19jQWtxQWRHakV4NTNqZGVGal9nLWUzVUtiZXR2d1psRVBybWYzVFpMVDZaMmNwRnFsUDBYU3AwLXdBZ2ZtLVpYYVdRbEwtSHlQZDB5Y2pQYXBKcUw0UEFISzFXLXJMTDJBVDN0Zk9ibGZVMkUwc2M0NEI5MFJEWGJIZUQzUnpOX0Jyd3NRdw?oc=5",
-      "medio": "RADIO HOY",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Cumplimiento del Acuerdo es obligación constitucional: Santos sobre reforma rural y verificación ONU",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0cyaXJiZ0ZqcC1HN2tFdXZYR2FEUkptd3Q3dF9OUld6Q2xDby1lUDRHUkp4TFdqbnZjb292Q1RkblVsUXJyMlJnRnRDdVhYLWFZUzBGYVc5MElLTEtBS2NpRGZoYzNKZmJqN0V0ZUdRQlF5Q2xyVVB4ZVltSGRSa1FWTUxfWmZBdFgtWDBKZGF6WHQ4ZjAwSTBMTnpHTmZBYTR1djdKdmFuZWFsSGhJSUFrSDYzTzR3eUkzMlRIeGRiMkE4WEEwcDBoU2pZOWPSAeMBQVVfeXFMTS1aaGpmd3dWRndrb2lXMTY1dUh2VV81OWs3MXdiYkhnSU40b25WTEF4bW9FRGVRdE83UHVteFFWV1ZCbnV0NjFycFNKRmlfZzBMa0poT1RvUFo1R0FWRy03N1EwWE5nNFZ1cmdrZ1k3dGJueTJaTjhHMWpCWElYUlJtTW5XTDE3SWk5ZWVCcTlhWVJ6NzRlY3FNRExwSlFONUMwNVVVYmR1R1oyUzgxQU9uZUFwaUVnYkxCUEo2SnJ6TFZia0JPQVF2QXRuZWhERGlRNlRGbU5ZUklBSEJWYXl6LXM?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-13T07:00:00.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "En la ONU avanzan las negociaciones para renovar la misión de paz en Colombia, ¿qué cambiaría? | El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGpEX1hvUGlkRDRhZ1QxZHkyb1h4b2dKUDZnZ0dYMkktSWVaOVB6aXBES0dSLVZlVDNRcGNWendwQWNhOVhCeGRkRVE2ZDY2TVNLckRvZnJyTGQzaWp6TVpPdmZVR3FnNzg4a3daSS1STUIzcEh5dERFVnB6c1loSlBYbmcydEFUbjZJWkdVQVl0UzRLdXc0dEdvcmJFUzMxUkZYVVRlWWVtZ3FINlk0enBlNzPSAboBQVVfeXFMT09ZcW1JNVliYzlYNHhWaTEzNEpKanJnM3pNVDNZMldGY3FwWkUxSzFJZlFLN3J1TUhUd09hY20tR1ItSHNyUFFqQkdaWldtR0E2MEtrWm9xa0Z0YjJVR1RDX3BXdnkyTDRkTWZTLUlEWnk2TTRaWFNOa1MybEh5TVAyMmQtSE9fLTE5TlVUcnRvbUdEX1M0b1J6bFVabFo2VndNaHVJR0pVanlsTDExSnJxWUcxT295SDJ3?oc=5",
-      "medio": "El Colombiano",
-      "fecha": "2026-10-13T07:00:00.000Z",
       "resumen": "",
       "imagen": ""
     }
