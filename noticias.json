@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T03:19:41.251Z",
+  "actualizado": "2026-11-06T11:23:37.968Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "titulo": "Postura de Colombia en la ONU frente a Acuerdo de Paz deja hasta ecos gramaticales",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYU1vV3VwZ2ItaUh0MXF1dWJfT0JYQm05LTFHNVJ2ZjRnLWpzQjhWN283WkJjeUZjd2R0c1RmX1VPSHpyX1lzV2VZZDkzTC1lLWtzSmhWZ2tyTW51X21FcUhOTjJrYUpveURKTXoxY3BXdVMwa2UtN1R4Vm1kZUdVck1Penp1Y3NOd0Fvd3RiMll4RE9KTDRleThfSDfSAZwBQVVfeXFMUGFNb1d1cGdiLWlIdDFxdXViX09CWEJtOS0xRzVSdmY0Zy1qc0I4VjdvN1pCY3lGY3dkdHNUZl9VT0h6cl9Zc1dlWWQ5M0wtZS1rc0poVmdrck1udV9tRXFITk4ya2FKb3lESk16MWNwV3VTMGtlLTdUeFZtZGVHVXJNT3p6dWNzTndBb3d0YjJZeERPSkw0ZXk4X0g3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpEdmw5aVJFTTB6WGJOLUNqLVcyLWJFNnloYUhEMm16cUxXS0RxcVlmRWZTUU92YzFDY0RYWXdTZlJXNFNyWXVQUFlFOUFaNW5fa29jQ3VyS3paNWEwNHZXR2NGZ19EVzVteGp2QzBEQjIyTVhqRFgtRGI5dmVqQlp3d2YyeFJOa3g5dFNrSXVkRmg4VTFv0gGcAUFVX3lxTFBhTW9XdXBnYi1pSHQxcXV1Yl9PQlhCbTktMUc1UnZmNGctanNCOFY3bzdaQmN5RmN3ZHRzVGZfVU9IenJfWXNXZVlkOTNMLWUta3NKaFZna3JNbnVfbUVxSE5OMmthSm95REpNejFjcFd1UzBrZS03VHhWbWRlR1VyTU96enVjc053QW93dGIyWXhET0pMNGV5OF9INw?oc=5",
       "medio": "Pulzo",
       "fecha": "2026-11-03T13:57:02.000Z",
       "resumen": "",
@@ -152,7 +152,7 @@
       "medio": "Mi Punto de Vista",
       "fecha": "2026-11-03T08:15:00.000Z",
       "resumen": "Diez años después del acuerdo de paz, Colombia enfrenta nuevos desafíos de seguridad mientras Naciones Unidas redefine sus prioridades de verificación ...",
-      "imagen": ""
+      "imagen": "http://www.bing.com/th?id=ONUT.ciauVsdLz-jpqL79jJdBJA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Presidente De La Espriella destaca respaldo unánime del Consejo de Seguridad de la ONU a propuesta de Colombia",
@@ -424,7 +424,7 @@
       "medio": "Pulzo",
       "fecha": "2026-10-31T03:52:00.000Z",
       "resumen": "La ONU renueva hasta 2027 su misión en Colombia, reforzando el apoyo internacional a la reforma rural y la verificación del proceso de paz.",
-      "imagen": "http://www.bing.com/th?id=ONUT.Cj461jrai1uGbv-5hnrTlg&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.nmErcppKjE17c3ST7iSV7w&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Defensoría pidió reforzar vigilancia de la reforma rural tras quedar por fuera de la verificación de la ONU: “Debe continuar siendo una prioridad”",
@@ -459,6 +459,14 @@
       "imagen": ""
     },
     {
+      "titulo": "ONU renovó hasta 2027 la Misión de Verificación en Colombia y el embajador Mauricio Gaona afirmó: “La paz no la hacen quienes firman y aparecen en las fotos”",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQMk42UnNOdE1mN25pZ0xLa0dGRk1USy1aajNBTWtKblRIZVBLUlpSZHlVT2s0d0wtUW5tVlZaTUVQT1NGUVI1Uy1UQm9jdlN3a3JpaWI1Nl81NWQ2MEFqamo3RUNNUUVfQjZjMnZWLVE0WEZLSXR3VG4xUzlLSWdBT1YxbVJiRmEzRHdJNDdBblJQMmhfMlhRbHR5cHY1NTQ2QzRfTXNpRWpWTUZtdFI2UzJGMEs1MkhRRktsbmp4aVhpY2VBX1g3aUFtc3NQQ2luTjBRWGpwdnRpbzNhWG9nWV80S2I3QkFKRGZhWm1KVDRvSkFaZmZKeDJzWGUtZ0xnT055amJuWXBEOW9fNXRFXzdkdDI2LW5EM1NSWllPeEthb2FLZmfSAcACQVVfeXFMUDNQbVd6V1dFcUE1bmZrUTh6dzdBcERORXVYemp3TWIwRDN4LU41a3RRWlR3TFdIWExLM1NiWGVnVmRkcHRYbWxzMGlITkh6ZmlSaThtdTFkMEI2cmF6MEx1Y0NvVy1NSFEwLUNKN3FJNEpjSkJxTFpWd3J2UVdOYWtBSElQakJ2bE1qemZjS3EzWVpQUXRXbjVfUlNpcmxhX2ZHU2lpcHVVUjJuYS1oT1BYZy0tRlUxSVZ1TVBJWkE0Zy1Yd2JITHZaMVZJOGFkX1ljbFVDX18yRWR0YWNJNExMRUR4V3I0RjV4YzR2dEkwbmtBXzJMY2ZuOE45VDhlTEZNYTNtQlZPVUVfLTJvM1doMXBuOUFXSWRjYWprYVl4d1EwSVNPZjZUSGJub01DS3UwVHl6d2xPWW1zSS1CcVc?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-10-30T22:58:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Colombia en el Consejo de Seguridad de la ONU",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWRBR2swb2JfVVFlOG1fa3VJNWIza1RrclhVNDRRT21YUTRuTHBzRnhuaHplN1gzaFFVZHdSMlhUY0x2cUstMVdvSkgyQ0lTQXpublBaWk1DZlZPZUdndl9MaTdMT2NQQlc3ZWlZVHYyeXJ6QWtyTm5ubndFSjliY0h4V1luam9pMUs5RWh6M2E5d01tUkQ1dTB3?oc=5",
       "medio": "Infobae",
@@ -483,14 +491,6 @@
       "imagen": ""
     },
     {
-      "titulo": "¡Respaldo unánime! ONU renovó la Misión de Verificación en Colombia hasta 2027 con nuevo enfoque",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTk5ka3ZHSmJlSEk3ejNZQnYyUmZMSmVBdE9BMTZjYXlsTktCcFpXVHFlNnBkeXp6QlZSZnphdTVPdVN5SWlNQVZacU5ZWEMxdEFZYUlRN2d6dzREaE9GRjBtTEhwVTZUUVUzWW5HZUkyemFRUVFpTlQ2N05MOUVjU0ptcVpucXFRUG56ai10UDRBcXhuU2VUbUtnMURNWGdpekVsNVdQc0h1bWVmZ012Rjh3bDlrbmxyelJzLUdpS0RiRXVSU3Zj?oc=5",
-      "medio": "Minuto30",
-      "fecha": "2026-10-30T20:32:32.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
       "titulo": "ONU renueva misión de verificación del Acuerdo de Paz en Colombia y excluye veeduría sobre reforma rural",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFIzZzFqU1NIYk51eDNydjgzOXlOb0E5V1FXZkhPNU1hWmJiWFFFcjZ2ekh1SjJlYWRmUEVzV3F1bVdIaDBrM2ZMQlM3UEY5eWNBSTZ3SV9xLWJ3VlFmeWx1OFBlOUVrZkxSTEh0bnNuWDlxbGV3QnRyUDlraUNQSUowRDNtRnpHZ3dPVk02TjhTdUdpZkd4dmdjUHNObTVtTzd2WkJWRXB6NkdBS0doa0loTW95NVVBQlHSAb8BQVVfeXFMT3Z0a0xFZmhVQndnVmxPSFV6eWZsZTZwZ3YtZGk4SDJuaWh0eG04a19DWGJ6SEFWWTJTNEZ4MG1xc0RjY0RzYmNlTmN6TUhDcDZXMEhCNmktaU02Y2hoWFlEb2JfVlM2bUlzd0VlX1dodkNFRjNsZ1dpdFFBcDNqRmZQZHQwMDdobXl5eGJnams0UXBPTWF1OWpsM3BFMGtlUmJTNU5vd1JseEthOWZVeVJ1Zjd6Q0xHTkNQeG9XVWM?oc=5",
       "medio": "Pulzo",
@@ -511,6 +511,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFJrckRJRmVTcUdVMHpNaDJ1S1Y2SWdDaWRXS2w0MDlNNHRXcWdHUVhmZmhNdWU5cWdwM1BwU0FydkN4SXJhOEFKUkxZM2hHZVd5aGFNQnk4ZFpfWS0xc3U5ZGV1d0ppX3hYTlFSMTdzbnVPTEwzbXpvdURNR0VQUXRmU2NJa1FCTjA4dGxsSzhMUE5CSjdsZWlSUmxSTlJMbUdYeEJLRXFDbkVEeTllaTBsalc3QlRqOENiS1RB0gHDAUFVX3lxTFBxdGYySjg1Qm1qTG5PQTZhNUpObnByUlB5NWdpX19PYWs3UVRCcS10aWJlTWE0MUZiMFJGOE1HREJpQlR1bTluUjVDZjBuM1gzTlZUeldqcVk2VnBzQTBpQkxjX3RQWGRzZ19sVWp5dDNnV19CMTY5eTZVRjhLc05pcXR6bnBuempwRW4tanhNcWZHR2dQQjQ3NUlsOTh3RE1nTHZSNkx4QlZrUE5jcTM5Q3FUT0tWcjVCbVMxTEhEWExCdw?oc=5",
       "medio": "El Colombiano",
       "fecha": "2026-10-30T19:07:29.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "ONU respalda por unanimidad a Colombia y modifica verificación del Acuerdo de Paz con las Farc",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXc5M1g0aDJETUsyNlNEcnNZdEVNU2x5OFBjeFoxZ012ZzBfSlBYV2VyMXoyWmxpRkZCb0xBbFZxWmhYZ3k1amtBWDhwUjdkVWlJN0t4RUVtM2FTWU9HSk10S1IzbXdpMVRlcVE1QW1pdlpTNzhEU2tTY1pUYkZqOEhtQXlWZVFxOEplaTJtenJyWXJXLUtPR3N1MmVEODZZSmI4UmtzUS0yZXc3LUlXd2VNWlNuU3Q3cy1pVV9OUF9id3BjTmNQWlA2Sno2Ymc?oc=5",
+      "medio": "Agencia de Periodismo Investigativo",
+      "fecha": "2026-10-30T18:53:07.000Z",
       "resumen": "",
       "imagen": ""
     },
@@ -633,14 +641,6 @@
       "fecha": "2026-10-30T13:11:05.000Z",
       "resumen": "",
       "imagen": ""
-    },
-    {
-      "titulo": "La ONU renueva el mandato de la misión en Colombia con una reforma propuesta por su Gobierno",
-      "url": "https://efe.com/mundo/2026-10-30/onu-renueva-mision-colombia-reforma/",
-      "medio": "Agencia EFE",
-      "fecha": "2026-10-30T12:36:00.000Z",
-      "resumen": "La ONU acordó por unanimidad renovar el mandato de su Misión de Verificación en Colombia hasta el próximo 31 de octubre de 2027.",
-      "imagen": "http://www.bing.com/th?id=ONUT.ZLVA3q0LOXvq53Q4DDp66A&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
