@@ -1,14 +1,38 @@
 {
-  "actualizado": "2026-11-07T10:36:58.126Z",
+  "actualizado": "2026-11-07T16:47:36.213Z",
   "fuente": "robot",
   "noticias": [
+    {
+      "titulo": "ONU denuncia amenazas contra defensores de derechos humanos en el Magdalena Medio",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTk1CNC02TG1EU3IxNldFSWRvM3lteEtqa0ViRzNHbmJnY0ZiSGNLOER6b3pJU1Ytb0tBc2pjTjVlUlJ4bDVLN2NZc1BMUHVvS0l0cXRxR3ZqcFc3Z2ZWWmo1WFVKSFRHWGl5N1VuaW0ydkZua2dNaTh6V3E3ZkxBZnUyWE04czJTOGhXVkt6X3VTakFjRXFfeWhiNjZrZktNTmQ4N0poai0xZE5YVUhvM2Nn?oc=5",
+      "medio": "Zona Cero",
+      "fecha": "2026-11-07T13:50:30.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mercenarios colombianos en Sudán habrían sido contratados por empresa de seguridad vinculada a Emiratos Árabes Unidos",
+      "url": "https://www.infobae.com/colombia/2026/11/07/mercenarios-colombianos-en-sudan-habrian-sido-contratados-por-empresa-de-seguridad-vinculada-a-emiratos-arabes-unidos/",
+      "medio": "Infobae",
+      "fecha": "2026-11-07T08:42:00.000Z",
+      "resumen": "Según un informe de la ONU al que tuvo acceso el diario The New York Times, los colombianos recibieron entrenamiento en dos bases militares de Abu Dhabi antes de su despliegue en territorio sudanés, p ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.-dxnM3M1JwqsrEOfR5Z1pg&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Misión de ONU, aunque con alertas, reconoce voluntad del Gobierno para implementar Acuerdo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWZnSkxhM2VsMGxfWnNscjc0RVkxUnJOeW52VGEtNFA2b2Q5Rm5LekxzRURRX05JWW1ha2MxOGRKXzBBb1BSSFJ0Y3RTRV9ZRGd4Ty04Y193R0hDQ2ttZkdMVTJRY0JrcFRfRWxBblpCTWV5TVZ0elBUeS11Wk1EQXdVWktrWlQxWFlMeHlJSEFxNTJwaVhaUkVlaWE5UU5oXzNmVlJUNmFzaVNvZHlIbzFfUEdDX3RPOVRYUVdJc29mS2xTRFHSAdoBQVVfeXFMTkNkRDZLaUEzWVBCUFVVNldnSlJDdm5xWlNkU1pQOGhRRU9aaGtjVGo0N2xyZndJNldoa2d4My1odE9Celd3QlE5alk3aXQ4ZEpGd2FkWVVIdnBacmZWTmZFN3JTR21UN1lxU2xLU0FRdzNTX1JsT0JSV18yeFk1LV9WZ1RLZFNOWDR5V3JPSzVaYURHZGJLcHlTbUVFLTdvUUozREpiYlVyTUxYdWRJcXZaUHpuMG1YT0lmNGFPZ09EZEpCb1VBUjNtMi15RjBYcVNWdUVycEZOdGc?oc=5",
+      "medio": "El Espectador",
+      "fecha": "2026-11-07T05:00:00.000Z",
+      "resumen": "El jefe de esa instancia, Miroslav Jenča, habló sobre cómo está el relacionamiento de su equipo con la Casa de Nariño.",
+      "imagen": "http://www.bing.com/th?id=ONUT.ibg62VyPMScAXMxuopdc_w&pid=News&w=640&h=360&c=7"
+    },
     {
       "titulo": "Abelardo de la Espriella ha tomado acciones decisivas en seguridad: Miroslav Jenča, jefe de la Misión de Verificación de la ONU",
       "url": "https://www.msn.com/es-co/noticias/other/abelardo-de-la-espriella-ha-tomado-acciones-decisivas-en-seguridad-miroslav-jen%C4%8Da-jefe-de-la-misi%C3%B3n-de-verificaci%C3%B3n-de-la-onu/ar-AA2gWJ4y",
       "medio": "Semana on MSN",
-      "fecha": "2026-11-07T01:04:21.000Z",
+      "fecha": "2026-11-07T01:03:00.000Z",
       "resumen": "SEMANA: El Consejo de Seguridad de la ONU renovó el mandato de la Misión de Verificación por un año más. ¿Por qué es importante esa decisión? MIROSLAV JENA: Me parece que es muy importante, porque así ...",
-      "imagen": ""
+      "imagen": "http://www.bing.com/th?id=ONUT.4StmBRnvx4acIv7aJN997A&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "La ONU reivindica el «éxito» del acuerdo de paz en Colombia",
@@ -143,8 +167,8 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2RnV3NGbFVjbXJ1OWo1U3N6TFNhQXlOeDQzZGNDN2JYeWdqNVZZc3lQQjFkUTVWZUVoZHlUOE84Z2R3QkRJWmRoSUVoNk5yb1JpeThVR1VqZ1Bta1R0bGwybkJTWFNyekxjZ1dLNGI0TmxOeG5ac21NQ3cyS1RjR0ZsT3U2TUxyUjNzdzV3?oc=5",
       "medio": "Yahoo",
       "fecha": "2026-11-06T08:34:00.000Z",
-      "resumen": "Bogotá, 6 nov (EFE).- El jefe de la Misión de Verificación de la ONU en Colombia, Miroslav Jenca, aseguró este viernes que respeta las críticas del Gobierno al acuerdo de paz, pero subrayó que, pese a ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.VDodD6wPkZS9CBoZ5HG9NA&pid=News&w=640&h=360&c=7"
+      "resumen": "Bogotá, 6 nov (EFE).- El jefe de la Misión de Verificación de la ONU en Colombia, Miroslav Jenca, aseguró este viernes que respeta las críticas del Gobierno colombiano al acuerdo de paz, pero subrayó ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.wkWYaqUqiadguv4VI4SOyA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Jefe de Misión de Verificación de ONU en Colombia destaca éxito del Acuerdo de Paz a 10 años de su firma",
@@ -183,7 +207,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQkhUdEVwaWJkZXRBaEM1bV91aWtSTDRVUW1UV29fYm5JT3RoMmpBMHo1TmlDM0hCY2plSDhMRU9heVROOEMxSVlWRll6dGg0dXRfQVMzTmhneXdoSl9XSFVfMFJiZlNXLUZkRlBSVmtkcUxkeThxLWlMdlhwdXd0aHMtdmVFeXlaRmplUzZDdDFISG9PSzhfM3lsQlQ3dGtiOE9RYWxucnlnVkJqc3hvalZqYXVoRnFzYlVwV0lkMWZELVFjRDN5Z1ZIRmFtTlZFeEp3RjdiMDJCTWlneGNiSkNMUmRLX2dqR1liR0ZCVDVWX2xHaFNGRFYxMA?oc=5",
       "medio": "Revista Semana",
       "fecha": "2026-11-06T06:39:27.000Z",
-      "resumen": "Miroslav Jenča fijó su posición frente a las críticas del Gobierno al acuerdo firmado con las FARC en 2016 y defendió la imparcialidad del organismo internacional en medio del debate político que ha g ...",
+      "resumen": "La discusión sobre el alcance y los resultados del Acuerdo de Paz firmado entre el Estado colombiano y las antiguas FARC-EP en 2016 llegó nuevamente al Consejo de Seguridad de las Naciones Unidas. Est ...",
       "imagen": "http://www.bing.com/th?id=ONUT.CoDx6Ln7XW1d9F4_NDqV7Q&pid=News&w=640&h=360&c=7"
     },
     {
@@ -259,14 +283,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.LyVboLpr6uZZloZva0Hnwg&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Embajador Gaona pidió traslado de 5 diplomáticos, ¿no estaban preparados para sus funciones? | El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRE1SbDRIRWJiUVRaSXh0MWVRdEFLRFJpUVBvVzJJcjk4aHlKMnBoWUlBYzlUazhFUWxMNEFkZndxcmZ4Z2NzVFBfeWgwRU1QN05mWkp1OTRTY190VWljYmNRdzRBR0tBWGlVb0ZsVGhBNlV6czFNYURHRkxxNko2REpGTkZLem5fLXNvVjlGdUhnQWZEaEd6bXpZajAwNWxkQXUtQ0dTZV9MdWZqbFRJXzNvUWZRZFVsSFNjT3lB0gHDAUFVX3lxTFBJVjQwdzhxazZZMnpLc25jeXduWFNoZ19FckVyNWpNSXY1QmtqWjlXaFJFMmpXcXFzODBGSUNNb2V5aW4weEhZWWx0d0RkbFZQZVF3aG1zV1k2SVVZckxfT3QzangyRHRBU2NtcFYwZmxNbEZETEZOZVM3VEVyNTE3QXNOTFFGeDh4Wl9fU3NESlNnLWVWVlNUSEs2RDduTjBFVndkb3dlcmYtVHBPY0ZoSXNoMTA1WWw1UGh5dzVBbFdZdw?oc=5",
-      "medio": "El Colombiano",
-      "fecha": "2026-11-03T21:13:37.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
       "titulo": "Misión de Verificación: reacción de De la Espriella ante la ONU",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFFvTUlUTXA5Rlp1XzN0dHN2QTdmY0MyYlhkNTdxY2Zkd3RZRk53ODIxRE84STV3MjhSRE1qNkdJdEMzT2QzTW9qQllCUWJsT2w4YmhvSVpBU1ZVVGllZnhtOWVuOEc1RzN1U1ZkejhqMjdUcUFSRE1jTGNkdG96S0ln?oc=5",
       "medio": "Diario del Huila",
@@ -295,6 +311,14 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGVzaWdKdUVvTS1lZ3h6cnAza3FWOTBKbTI0M2JrNXVkY0NaZGdCY055WmJTNUhXTjdXSEk4UmQ2Mm1SM1I5WFZqZlVlUTlaWGpubmtnYUZIaWQwWnRrMXd6bUxvV1BXLXp5YUNPeEdJRU1JVEN5Sy1NRVZtVFBKc0lROEhkTlFWMTlreHRmdmtUajdCMUF5ODQ2OGZ5bnRGRlhjb0JWOXRob1RfUDljNldTUWdfbVFQcU9tOWRCRDNUUnJQTW1jbVN1TGx0QTZfWFlDXy1qYTJkMVpEcXVJRFlzTWZ1LUtQZjBlcGw3ZzZnRnpyZXZQLUl1WlAyQmlydHVsN0x0cjc?oc=5",
       "medio": "Revista el Congreso",
       "fecha": "2026-11-03T15:58:34.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Embajador Gaona pidió traslado de 5 diplomáticos, ¿no estaban preparados para sus funciones? | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRE1SbDRIRWJiUVRaSXh0MWVRdEFLRFJpUVBvVzJJcjk4aHlKMnBoWUlBYzlUazhFUWxMNEFkZndxcmZ4Z2NzVFBfeWgwRU1QN05mWkp1OTRTY190VWljYmNRdzRBR0tBWGlVb0ZsVGhBNlV6czFNYURHRkxxNko2REpGTkZLem5fLXNvVjlGdUhnQWZEaEd6bXpZajAwNWxkQXUtQ0dTZV9MdWZqbFRJXzNvUWZRZFVsSFNjT3lB0gHDAUFVX3lxTFBJVjQwdzhxazZZMnpLc25jeXduWFNoZ19FckVyNWpNSXY1QmtqWjlXaFJFMmpXcXFzODBGSUNNb2V5aW4weEhZWWx0d0RkbFZQZVF3aG1zV1k2SVVZckxfT3QzangyRHRBU2NtcFYwZmxNbEZETEZOZVM3VEVyNTE3QXNOTFFGeDh4Wl9fU3NESlNnLWVWVlNUSEs2RDduTjBFVndkb3dlcmYtVHBPY0ZoSXNoMTA1WWw1UGh5dzVBbFdZdw?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-03T15:43:44.000Z",
       "resumen": "",
       "imagen": ""
     },
@@ -617,30 +641,6 @@
       "fecha": "2026-10-31T06:30:40.000Z",
       "resumen": "",
       "imagen": ""
-    },
-    {
-      "titulo": "Consejo de Seguridad de ONU renueva misión en Colombia",
-      "url": "https://www.eldiario.net/portal/2026/10/31/consejo-de-seguridad-de-onu-renueva-mision-en-colombia/",
-      "medio": "El Diario",
-      "fecha": "2026-10-31T04:06:00.000Z",
-      "resumen": "El Consejo de Seguridad de las Naciones Unidas aprobó por unanimidad ayer, la renovación del mandato de la Misión de Verificación de la ONU en Colombia hasta el 31 de octubre de 2027. La resolución, r ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.JmxfWYxIcpz5qHu6FQTHtQ&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "ONU renueva mandato de su Misión de Verificación en Colombia hasta 2027 con nuevo enfoque en reforma rural",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkdsMU9wTjZWTERKTlgyZGV5ckgtWkJSeEtzNHEycHdrNUZEaEZzSDVKS2FaOWtSWjdqQmpIWkIzckxqM1lBTnV3aUFxbXowZ3BjOWVuR1dVZFpfbXlIdmZHSkhZVnF3b1dXUUJCMl8xZVluNnF1ZWVscElITUdnX1diTlpieG5MWlRhdDBYX2VzX2ZWTDRxbEU2MURDMEp3QnE3ekY1ZjR4V3Z5YnlvRVFEUUVJS19NQWxnQnlhZWxHVGhRbXFQMHhYQjlNdlBMLVlr0gHYAUFVX3lxTFBFeWhFclFmY1VxRmVGYkhuUlc2VkRFYkxXX1A3SmR0X1ZwY0hFZWVJcm0tWHVOcm9tdGJRemxhVHY2UWtMZmVDdzE4eUpLa1Q2UFN6VFN2dk5lSF9aX1JEV3NLT05VSlJVWEp1QkpKOWoxb2psdG4zWk5YQmZ5UGdwN0Q3akxsaFlfb3BaaHBwRGhSMkVCeE91aW10SE5kaXMtTk1MRjNIZzVrM19SUmpubTZSS2psX3huNEhmc1ZGVTNIR0VGN05qUHpxTVdxckhLbV9meTR6ag?oc=5",
-      "medio": "Pulzo",
-      "fecha": "2026-10-31T03:52:00.000Z",
-      "resumen": "La ONU renueva hasta 2027 su misión en Colombia, reforzando el apoyo internacional a la reforma rural y la verificación del proceso de paz.",
-      "imagen": "http://www.bing.com/th?id=ONUT.Cj461jrai1uGbv-5hnrTlg&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Defensoría pidió reforzar vigilancia de la reforma rural tras quedar por fuera de la verificación de la ONU: “Debe continuar siendo una prioridad”",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQzZ1Z2RoTjVTdVZUdFlJcDRJcUxNc1YzaWhGVlltcUxhc3l1TkdfWWtveGVBU3BwNE1zdmkwOV8yVFV1RzdyTmZ5YTF5RUhIejIxU0RGX1ZjMnl6QW9VWEtxeGZINUNEV3ZmNnFPSkJtb1dPWFZZazZ0OE1oTzM4OHU0amtVS1lDVUtPZndrdlQ4SzR1Q1JMWUI4TExma2NfeDhEWVdIXzdnQklPallfM2ZwMzJpQWc3bDlrd2N3dk1jYlhYdzBITTJzYnljR2tBYnREeXczLTNUaDRSeU9SLUJvdnZQY1NLYzE4RUFiOVVYMVNNeGlqaVJNNU5hZmFqV0tkN2FFWVJHMVZ6MHdRc3dwWng5NW_SAbICQVVfeXFMUDNFem5ISVpObkw5UmJLTHdGYnNnSmdUZ3dURGRPeVNRdGRoRms1SzZQQ2h1SnBoNzlnNVpHNEVpb2Y1U2NOSmpsVWlDTjBJVWtDUS1DOWJuSUZsRlpkVkEyTFdBSjdjNFJsckoxQU5GeHo3N0RTLTNna2VabGVUR1RSMWl2NW1jbUJ0OTB1LTlBWFc3elF6ODhiYVVjdGRVNkxZT2kzNEhjVEdhM0NBUVpCblJiTTRFVzhzeG1KX3kyT2ZLcExSWUN2cjRLWWdpVEhIWjdpSU1EZnQ3WGFDd3NwaGRxZVRvQ015TTRDOWdERF82LXpxV2FpX0FMcU9hX1Zvd2lmQml1NFh0bWNtZm1McGYxdGlTLXlqQXdWVFJTZzVYcnl2aFNZLTN4WnpEUXpn?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-31T02:35:00.000Z",
-      "resumen": "La entidad advirtió que la decisión del Consejo de Seguridad de Naciones Unidas traslada a las instituciones colombianas una mayor responsabilidad en la implementación del Acuerdo de Paz de 2016 ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.DrOWFOr-MDmLznrwW6da0g&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
