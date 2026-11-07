@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-06T23:25:30.711Z",
+  "actualizado": "2026-11-07T03:05:50.104Z",
   "fuente": "robot",
   "noticias": [
+    {
+      "titulo": "La ONU reivindica el «éxito» del acuerdo de paz en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFh5b1JUaVdkeDdod0w4cnFsOHdzcHZRelFnYlFVMXdwSEtYRExFQUJpS2c3aV9Xd1JVaDVPR19ISnozNXBBeFF5NnFZdVFGNEY2LUl4eUw1ZEtvOWpEd0tpTnRBdTV6QW0xVEhwVVVNWnc3Qm5FcUlPbkxGb1o5TDJEN2dJZ052TmpzQ0E5RTc2UmtyRVlVZnNKVFRYMElTblFCcFdfTjIwdWhhb3hmcg?oc=5",
+      "medio": "El Caribe",
+      "fecha": "2026-11-06T23:36:55.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
     {
       "titulo": "Guterres alerta sobre la parálisis del Consejo de Seguridad de la ONU y el impacto económico de los conflictos bélicos",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS05MWWNVMXNERkJpRDc0d0VNTURaX3c4dVZhNWVVTjJzRTNpaTNnNzJxbmlSSFNKLTlSNHRoeVFtVHlwMUo2LTlZWGJNVUdKNUI5NmdQNWd2eDRNNEJrOTdWMVVNMndaSWZSMEpOQ1NINUthVXRZeWRxejAwM1RzVVVfU2pMZ2dxTVA0Nlc4OWVVYVp1eGZZaUxXeklsV2JMTHVIVXRRZGM1S2pPS3NoRUVwLU1MbTRGWEVSM3V4T2FxZTBRNDBOYUhQTU9EenNfSzE0RE5MWjNMT0ttSjlpNVd1MUw3QUhPSFFTNDYtRUw?oc=5",
@@ -11,12 +19,28 @@
       "imagen": ""
     },
     {
+      "titulo": "Misión de Verificación de la ONU",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODg3Q3NOVDRMQTl2LW1pM2VyY0ZlQU8wU3d6X3h4NUhMemYzUkZNd0pfQkczSUstYUsyTVVNSmdHM005QS14cHhoNG5mMkVKa3hhUGpwd0l2a21jTHZjdTd0ZGVRZWJyUjNuamRqSlExaTk5ZFJmX1loblhIWkFTRlJ0OWNqem5L?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-06T17:20:00.000Z",
+      "resumen": "Miroslav Jenča expresó respeto por la posición presentada por el embajador Mauricio Gaona y aseguró que el organismo cumplirá el mandato definido por los gobiernos - crédito @JMauricioGaona/X ...",
+      "imagen": ""
+    },
+    {
       "titulo": "ONU pide mantener presupuesto y presencia en territorios",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2JaaXlWTmVmazJrOXd6YW9DeTRMQnZxSGNZVUFjLUZrYmZLQ1pERVNUQl9WRGgta2ZFTFZtdnptdl9VNGlJUHhWQ1d0LTFySGtBVENZWW45QThnUFpCRjExZVctRWYyVUVaSVBJN05xNm5NN3lqRVpZZjNIWkFWVVR5VWxYdmZrU0JrLVhReXV5b1BKN2NRN3V3?oc=5",
       "medio": "La Silla Vacía",
       "fecha": "2026-11-06T16:01:06.000Z",
       "resumen": "",
       "imagen": ""
+    },
+    {
+      "titulo": "El jefe de la Misión de Verificación de la ONU en Colombia respaldó la postura del Gobierno tras renovar el mandato por un año",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOalRYdG1QbUVZbFdaMW0tb2Vta204azhrcDJYX2JrVUR1N2VNWE5uZE9JUWJBejZON2EzemVteWFwenh1Unc1MTFFY2xQSHg4ZWVNZ1lCYTNURGFpYlVqZlBrZFl4NXFSVU1RckI3M2dza0h6eS0zdk85OHVDeGtsNnN0RThMVkx1dzZuRU1JRlI0VjhYMjc0cFExcTZROWxJSXdpR01fbnQ3X1JEcjBSWG15WklwQl9QM3FlZ0s0TW9rWHN0OWtIR0s1TW1MUzFNQnNoa2ROamxqbXlwdXdGWVVaU0lJV0NsUXNRSHpFU3lqWkxwdTgxSWRCNUtCOVBX0gGbAkFVX3lxTE94Qnl6dkZDbWtBVnFVaExmMENINWZ3NlplNnZkUWFqdk01eTZ2dHlmODhaY25TRTBCd1NmREdUNkZKb1NtME1od256TFRsMGNWX1J0RXI2ampCYk5mUUtDaTN0TkRNUmRHcWhkWUV4WDF3VEh3X2pNbFNVT2Z2eWNYSndxYzFFLXRleUZoSGd4aF9yeFEtRldic2lWdWZJemh4ZUtndlBzRGQzTHhDUkRfSzFyMkU1cUF2SW9NOEJfV0IzRmpWMGFUUlZSa19zX1BWQzRpaENzR0k2d2xULVd3R0RoczJ1OVBLRk02dG9FWVJpdkU2OXF1RC1vRmR4N1FTVnUyOXU1R0czNjQtVzVaT1BfWGwzRGo2SzQ?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-06T16:00:00.000Z",
+      "resumen": "El funcionario diplomático Miroslav Jenča felicitó al embajador de Colombia ante las Naciones Unidas, Mauricio Gaona, por sus postulados ante el Consejo de Seguridad ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.dwpDBUj2G5kqs2oPdR8mXA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Debate en la ONU tras postura de Colombia sobre el Acuerdo de Paz: Misión de Verificación reafirma su rol e imparcialidad",
@@ -43,14 +67,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.HnvYYL3w0vPIh0Go3o4bvw&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Jefe de misión de verificación ONU responde a críticas sobre el acuerdo del embajador Gaona",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTzBLSHJBOXFnWlNQanBpdzZ5clp3ZXh4ZmxrM2ZYS29vbDZsSlQtTGs3bDZkaE9XeGVkRkJNZTg3QXloUHBPb0F6RVV5WlotVllZRXdiNTMtczRvazFrc0pPUFY3MUpVd2JBX3hSbTlGQlJFY1RZVDdVeFZKd1Y1b3NEU0pjcmdXWWViYlZDekhfdnJfdVV5NF9DdXo1eWszWnplVVVrQm5ibDc0LVlnVjRvQ2tqckVqQlhBYXk1QjAtZXFsdFhlQ0wydTVrYnZTWmVZVUl0NVFWQm1uZnlBWnNQdU9uOXVpaVpxa2N0UDBmeWlOV2VwUjQ2NTRSTlppS0o2WFNnSHdGLVFKc3F5U1dWY9IBkwJBVV95cUxOTzBLSHJBOXFnWlNQanBpdzZ5clp3ZXh4ZmxrM2ZYS29vbDZsSlQtTGs3bDZkaE9XeGVkRkJNZTg3QXloUHBPb0F6RVV5WlotVllZRXdiNTMtczRvazFrc0pPUFY3MUpVd2JBX3hSbTlGQlJFY1RZVDdVeFZKd1Y1b3NEU0pjcmdXWWViYlZDekhfdnJfdVV5NF9DdXo1eWszWnplVVVrQm5ibDc0LVlnVjRvQ2tqckVqQlhBYXk1QjAtZXFsdFhlQ0wydTVrYnZTWmVZVUl0NVFWQm1uZnlBWnNQdU9uOXVpaVpxa2N0UDBmeWlOV2VwUjQ2NTRSTlppS0o2WFNnSHdGLVFKc3F5U1dWYw?oc=5",
-      "medio": "El Espectador",
-      "fecha": "2026-11-06T13:36:06.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
       "titulo": "La ONU reivindica como «exitoso» el acuerdo de paz en Colombia tras las críticas del Gobierno",
       "url": "https://mioriente.com/nacionales/onu-exito-acuerdo-de-paz-colombia/",
       "medio": "Mi Oriente",
@@ -64,12 +80,12 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-06T11:44:42.000Z",
       "resumen": "El jefe de la Misión, Miroslav Jenča, afirmó que el organismo internacional valora los avances de la paz pese a postura crítica del Gobierno.",
-      "imagen": "http://www.bing.com/th?id=ONUT.keOqk0RS1ukP7FxfJ5ZqhQ&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.5ZqRNTHm3w5qvTBZnOc2MQ&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "ONU: Nuevo mandato en Colombia, presupuesto y reforma rural",
-      "url": "https://estrelladigital.com.co/politica/mision-onu-mandato-reforma-rural/",
-      "medio": "estrelladigital.com.co",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1c05MdkcwUl9DUklHaURTLUpOVWVJdDdqMnE4UVoyZnc3bkZOdzAyTmZyYk91NGhpeWZELWhEZzBPNVlMeTJ5Vk5pQm15a3k2M3BHUC1SYUxFVTZGOXZlSDRqSTRnSlVzN2xhSEoxT3B2YTBfUzExeTFyZUFMZw?oc=5",
+      "medio": "Estrella Digital Colombia",
       "fecha": "2026-11-06T11:44:00.000Z",
       "resumen": "La Misión de Verificación de la ONU en Colombia ha iniciado un nuevo capítulo tras la reciente renovación de su mandato por parte del Consejo de Seguridad. Est ...",
       "imagen": "http://www.bing.com/th?id=ONUT.DB0T_d1B8mKMm0WuPAclmg&pid=News&w=640&h=360&c=7"
@@ -112,7 +128,7 @@
       "medio": "Yahoo",
       "fecha": "2026-11-06T08:34:00.000Z",
       "resumen": "Bogotá, 6 nov (EFE).- El jefe de la Misión de Verificación de la ONU en Colombia, Miroslav Jenca, aseguró este viernes que respeta las críticas del Gobierno al acuerdo de paz, pero subrayó que, pese a ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.ptAHXHRgVMJrWvllCenFAQ&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.VDodD6wPkZS9CBoZ5HG9NA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Jefe de Misión de Verificación de ONU en Colombia destaca éxito del Acuerdo de Paz a 10 años de su firma",
@@ -155,12 +171,28 @@
       "imagen": ""
     },
     {
+      "titulo": "Jefe de misión de verificación ONU responde a críticas sobre el acuerdo del embajador Gaona",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTzBLSHJBOXFnWlNQanBpdzZ5clp3ZXh4ZmxrM2ZYS29vbDZsSlQtTGs3bDZkaE9XeGVkRkJNZTg3QXloUHBPb0F6RVV5WlotVllZRXdiNTMtczRvazFrc0pPUFY3MUpVd2JBX3hSbTlGQlJFY1RZVDdVeFZKd1Y1b3NEU0pjcmdXWWViYlZDekhfdnJfdVV5NF9DdXo1eWszWnplVVVrQm5ibDc0LVlnVjRvQ2tqckVqQlhBYXk1QjAtZXFsdFhlQ0wydTVrYnZTWmVZVUl0NVFWQm1uZnlBWnNQdU9uOXVpaVpxa2N0UDBmeWlOV2VwUjQ2NTRSTlppS0o2WFNnSHdGLVFKc3F5U1dWY9IBkwJBVV95cUxOTzBLSHJBOXFnWlNQanBpdzZ5clp3ZXh4ZmxrM2ZYS29vbDZsSlQtTGs3bDZkaE9XeGVkRkJNZTg3QXloUHBPb0F6RVV5WlotVllZRXdiNTMtczRvazFrc0pPUFY3MUpVd2JBX3hSbTlGQlJFY1RZVDdVeFZKd1Y1b3NEU0pjcmdXWWViYlZDekhfdnJfdVV5NF9DdXo1eWszWnplVVVrQm5ibDc0LVlnVjRvQ2tqckVqQlhBYXk1QjAtZXFsdFhlQ0wydTVrYnZTWmVZVUl0NVFWQm1uZnlBWnNQdU9uOXVpaVpxa2N0UDBmeWlOV2VwUjQ2NTRSTlppS0o2WFNnSHdGLVFKc3F5U1dWYw?oc=5",
+      "medio": "El Espectador",
+      "fecha": "2026-11-06T05:36:07.000Z",
+      "resumen": "El jefe de la Misión de Verificación de la ONU para el Acuerdo de Paz, Miroslav Jenča, se refirió a las declaraciones del embajador Gaona.",
+      "imagen": "http://www.bing.com/th?id=ONUT.4JgVSzcNWenDBzzpWd0bQg&pid=News&w=640&h=360&c=7"
+    },
+    {
       "titulo": "Representante de ONU en Colombia remarcó importancia de reforma rural",
       "url": "https://www.prensa-latina.cu/2026/11/06/representante-de-onu-en-colombia-remarco-importancia-de-reforma-rural/",
       "medio": "Prensa Latina",
       "fecha": "2026-11-06T05:26:00.000Z",
       "resumen": "Bogotá, 6 nov (Prensa Latina) El representante especial del secretario general de la ONU en Colombia, Miroslav Jenča, ratificó hoy en esta capital que la reforma rural integral constituye un punto ese ...",
       "imagen": "http://www.bing.com/th?id=ONUT.O9bzzbbWlxEDIxguJAryGA&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Embajador de Colombia ante la ONU le respondió al jefe de la Misión: “El respeto es mutuo”",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkt4Y2ZvdkY3Qm05MnJOUG9yVTVGN1JsV3BWaU9pWmFzNXB2bHBXRDdPVVhJaTRtbjBDdnBkZlRGRXJRYTlIMDl6MVUyTlJqSWp5WE1UN3ZrY2FFdjd4NVYybkEydHdRNEpsMXF2b0hKc2lsZjJNb0swUmdsZ1UxTWlWd1pycDIydVNNOG13d0RhNXpnTTdjT0xsLUdhZFpMRHNlU0V3VlhzSkppX1otd0c0UFNkNk41UEhxRUQ0RnR3Sy04VXl6T3BGSmpxc1BWZk5fT1ZOQmRmN3B6dnZnZktBQ2JMcXNWU1lr0gHwAUFVX3lxTE5FTHRtLTNPcXE3Z1ZDUlNpSm82bTNncUYyVHhIVUROQnp6UUZtY3N3YmpUOGNsSk1OUDNyeExrOW9uTTFNUDUtcTZRRmxZNUstY21sV0xzSGF6U09OZVVPYmhnNVNOVXNaMEhiY2dsMTl0b3pFRmhGajBHS0hYMlcwMTg4Z29PYmtLZTdWTXB5dHJfRGk0WlhSalZhNV93N3l0cS1jS28tQzRzZ2JRNE9qZWhKemptNHJVMnlZY05pZHhIbFB4M1lvZlZMeUItTENheHNDbGg2ZmJoaTh6THhNMmRfTzRhTjd5MUVXdDgxbQ?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-05T16:00:00.000Z",
+      "resumen": "El embajador de Colombia ante las Naciones Unidas, Mauricio Gaona, resaltó la solidez del relacionamiento institucional entre el Gobierno Nacional y la Misión de Verificación de la Organización de las ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.ey_9byvcKlD07kdzR4O81Q&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Rosa Amalia Zuluaga será la embajadora de Colombia ante la ONU, en medio de críticas del Gobierno al organismo",
@@ -608,38 +640,6 @@
       "medio": "Diario del Huila",
       "fecha": "2026-10-30T20:00:00-05:00",
       "resumen": "Gaona defendió la modificación del mandato y calificó la renovación unánime como un logro de la delegación colombiana.",
-      "imagen": ""
-    },
-    {
-      "titulo": "Colombia celebra la renovación de mandato de la Misión de la ONU con su «enfoque original",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2RIeGZCd0UzcGt6VXdVUjR0TFJqMTBHSFItWHY0UGF4djRxLTM4WUpEM1RZYTR1bEhJUExiekdNOFNNSWkyMUhOc1p1cW9wd1lONlM2Z1YzTnRNVjRUam5DWVA3eDlZNVFMMFhaY3FUT3REaWVsanYxMnZGZVVTT3NIU2x6QkZSeXNsSzdYSEdsWGFobDQ5VFg3d0QzYW92WEFLSFJhekJ5aU8wdVNQVEhtZWFUZ1BhSmRKM1dPSQ?oc=5",
-      "medio": "Eje21",
-      "fecha": "2026-10-30T23:57:42.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "ONU renovó hasta 2027 la Misión de Verificación en Colombia y el embajador Mauricio Gaona afirmó: “La paz no la hacen quienes firman y aparecen en las fotos”",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQMk42UnNOdE1mN25pZ0xLa0dGRk1USy1aajNBTWtKblRIZVBLUlpSZHlVT2s0d0wtUW5tVlZaTUVQT1NGUVI1Uy1UQm9jdlN3a3JpaWI1Nl81NWQ2MEFqamo3RUNNUUVfQjZjMnZWLVE0WEZLSXR3VG4xUzlLSWdBT1YxbVJiRmEzRHdJNDdBblJQMmhfMlhRbHR5cHY1NTQ2QzRfTXNpRWpWTUZtdFI2UzJGMEs1MkhRRktsbmp4aVhpY2VBX1g3aUFtc3NQQ2luTjBRWGpwdnRpbzNhWG9nWV80S2I3QkFKRGZhWm1KVDRvSkFaZmZKeDJzWGUtZ0xnT055amJuWXBEOW9fNXRFXzdkdDI2LW5EM1NSWllPeEthb2FLZmfSAcACQVVfeXFMUDNQbVd6V1dFcUE1bmZrUTh6dzdBcERORXVYemp3TWIwRDN4LU41a3RRWlR3TFdIWExLM1NiWGVnVmRkcHRYbWxzMGlITkh6ZmlSaThtdTFkMEI2cmF6MEx1Y0NvVy1NSFEwLUNKN3FJNEpjSkJxTFpWd3J2UVdOYWtBSElQakJ2bE1qemZjS3EzWVpQUXRXbjVfUlNpcmxhX2ZHU2lpcHVVUjJuYS1oT1BYZy0tRlUxSVZ1TVBJWkE0Zy1Yd2JITHZaMVZJOGFkX1ljbFVDX18yRWR0YWNJNExMRUR4V3I0RjV4YzR2dEkwbmtBXzJMY2ZuOE45VDhlTEZNYTNtQlZPVUVfLTJvM1doMXBuOUFXSWRjYWprYVl4d1EwSVNPZjZUSGJub01DS3UwVHl6d2xPWW1zSS1CcVc?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-30T22:58:00.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Colombia en el Consejo de Seguridad de la ONU",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWRBR2swb2JfVVFlOG1fa3VJNWIza1RrclhVNDRRT21YUTRuTHBzRnhuaHplN1gzaFFVZHdSMlhUY0x2cUstMVdvSkgyQ0lTQXpublBaWk1DZlZPZUdndl9MaTdMT2NQQlc3ZWlZVHYyeXJ6QWtyTm5ubndFSjliY0h4V1luam9pMUs5RWh6M2E5d01tUkQ1dTB3?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-30T21:41:14.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Misión de la ONU seguirá verificando acuerdo, pero sin reforma rural",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXlNNFNKWUkyaTBzY0ZBSE42NzFXems5VVVocWpSTjhqcHZJWXZyai1IWFlhT1A1WF81ZWdTMlhFRXNQUnVTSGtoeE5YQlFkQ2tOSWpLWHVvVTZSOTdHQm02YmZuQmpDS2FWRTNIby1qU0xIWktib0twTzBqUXRMOEdBOVBnTjhpTnN6MHZyUWJOZ0htck9IQUl3Z0Ywdw?oc=5",
-      "medio": "La Opinión Cúcuta",
-      "fecha": "2026-10-30T21:38:44.000Z",
-      "resumen": "",
       "imagen": ""
     }
   ],
