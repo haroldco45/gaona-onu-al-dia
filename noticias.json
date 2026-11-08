@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T18:59:35.831Z",
+  "actualizado": "2026-11-08T22:49:00.274Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -9,6 +9,14 @@
       "fecha": "2026-11-08T02:31:00.000Z",
       "resumen": "El repentino traslado de seis trabajadores, cuatro de ellos de carrera, pone en la mira al abogado Mauricio Gaona, que niega las acusaciones ...",
       "imagen": "http://www.bing.com/th?id=ONUT.ywYmXozWU_x7gCKWY-tc8w&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Consejo de seguridad de la ONU llegó a Colombia",
+      "url": "https://seguimiento.co/consejo-de-seguridad",
+      "medio": "Seguimiento.co",
+      "fecha": "2026-11-07T22:15:00.000Z",
+      "resumen": "A 10:00 de la noche de ayer miércoles arribó a Colombia el Consejo de Seguridad de la ONU, que estará en el país estos ...",
+      "imagen": ""
     },
     {
       "titulo": "En Bogotá, el jefe de la misión de la ONU, Miroslav Jenca, calificó de “éxito” la implementación del acuerdo de paz de 2016, pese a las críticas del Gobierno y los 521 firmantes asesinados; la misión priorizará su reincorporación y seguridad. 🔗 Encuentre el li",
@@ -260,7 +268,7 @@
     },
     {
       "titulo": "Debate en la ONU tras postura de Colombia sobre el Acuerdo de Paz: Misión de Verificación reafirma su rol e imparcialidad",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0l4VU5KWW1YQUdZeF9rZ0pwdWthUFhwVGNYQjVxM25zM3Z6M0FGa1JnTnp2ZktTRU14Ql96OFZnSWJiaDkwckszMmtGNU1tRF9hUC1PQ09IQ0JXbHVRT2NxbklBZkRoWXBpVzdRV3NzeXg2VE1BODZuZEoxZlNkd2h0ZHRTNHlYekRWSENTYlJwNWRrMU5aS3p3TC1GRGFRTW5aRjBYME9UVi1yMFVyTWZ3c29mNzEwQkHSAb8BQVVfeXFMT3hodlBwRFNBYk1kQUVfMXFVUlNDWmNuQVlzV01QQjVhRlJycWd4MHpzVW92U1U1cTZheDRNeVcxdk1TcjdEeDVsZVdCVGNrRThfcFFxbWJkTmEyRjN4Ykg2WkJOZjI5T0RCZkoxbUZzWUJNT01RcDh1aFhBbUFLOXY4dVUwVlJ2eW9YeWQ3ZUJES0NTOHk3TjdOMjZMM0JpMUNuTmhpMU1FM3Rtd1VOZG5WazZEWWhwY28yX2lycjQ?oc=5",
+      "url": "https://www.pulzo.com/nacion/acuerdo-de-paz-en-colombia-onu-responde-a-criticas-y-renueva-mision-hasta-2027-PP5350497A",
       "medio": "Pulzo",
       "fecha": "2026-11-06T02:16:00.000Z",
       "resumen": "Declaraciones sobre el Acuerdo de Paz de Colombia reactivan el debate internacional y la función de la ONU en un contexto político polarizado.",
@@ -500,7 +508,7 @@
     },
     {
       "titulo": "Abelardo de la Espriella celebró decisión de la ONU sobre la Misión de Verificación en Colombia: “Reafirma la soberanía”",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTRKeEhwV2JKWnlkZkFhZkZRWDNMVVN5b1BrUkdfN1Bta0lqV1dqMElrRzFmQTYxb3c0eGdMd2VpdW9ieTlQRnFIdkFWZk9Ha1dxTTBMLVExZElrZ09ZNks0OGpSVnB4Y2xLZGU2ZUdVZDNNYzFodlRIQkNDb2JvVVRZTnNjOGpLYmp6MjVhU0w0ZXJaaEZ3QTFrUHE4SHpjNnNNRkROVFZuV3llc0pXSWlJcUM2bWEtYWhVMWhSMUVQRDd0b0g2dGlrUFRuNXJQdEF0X3ppQk5GOUdMNkpzdjEzN2JxcGZVM1dhZnhSZ0F3dXZV0gGPAkFVX3lxTE5mWHNDVXpBVXhBdDk3NTIzMS1MMWR2MzdyM0NndG9icTctMEpZQnQwS09tZjJySEljNlFySW45RVhORWlyMjFFaEJQSFltaVJTN3BYWUQ4OVJFNDc3Y2dmNGFNQ3pjbEoycXpZeXpnZHpLN0JwOF9tZE81QmNuUjRHWmNYRHIzeGpXajFCY0pwUjN4aC1lejZ1X0g5NlJpU042ZFZyUUFxSTUzTHFfOVdXWkxsUF9PdmN2cG1RRGlaN2h6cHBTcnJGT2l0X0VadTlYWEtubFVuV1hNemhLMUhYeldPbXlWSm5rQzd4LUZDdklUR1RwRkNDdnpMTTdqRGNsOURFYUJiQU42Um40TUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTRKeEhwV2JKWnlkZkFhZkZRWDNMVVN5b1BrUkdfN1Bta0lqV1dqMElrRzFmQTYxb3c0eGdMd2VpdW9ieTlQRnFIdkFWZk9Ha1dxTTBMLVExZElrZ09ZNks0OGpSVnB4Y2xLZGU2ZUdVZDNNYzFodlRIQkNDb2JvVVRZTnNjOGpLYmp6MjVhU0w0ZXJaaEZ3QTFrUHE4SHpjNnNNRkROVFZuV3llc0pXSWlJcUM2bWEtYWhVMWhSMUVQRDd0b0g2dGlrUFRuNXJQdEF0X3ppQk5GOUdMNkpzdjEzN2JxcGZVM1dhZnhSZ0F3dXZV?oc=5",
       "medio": "Infobae",
       "fecha": "2026-11-02T16:00:00.000Z",
       "resumen": "El mandatario afirmó que el cambio validó la petición de su administración y sostuvo que los mecanismos para cumplir el acuerdo deberán definirse dentro del marco constitucional y legal nacional ...",
@@ -631,14 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPcFBjTzd4ckhBTEc1OHl3bHk4VVpfODhqMzZLWjdKaENydExlcTFrWUVDOXR0S1BYTHJNT3lGU3M2VzVwb1RqbnZ3V3dLLTJucjhGS09mSDJmTHpiU0dSU2IxTDJJb2hWbzdtakZ0dXJqb0toaGJ6OGZPRUFjVWR5UVJYTmJrV2pwOHNhWENZeFFZeDhxVGliZjNzWUFMS05Td0IzZ2ljN3lwcHBaRmtIRGY2Zmc3a0thdl9tMnJyblN5T011d25pWjVhMFA2bHNfSWZBREJ4bjdISGtVNkpwQ1Q0bFJLVXR3WkY5Tm9GTEhfMHJJNmZQLThYd1BIQnB0ak9lN2dIUFY4MklIVTFZczFZRVdiVTJhUGQ1Y2o0bnhsUmpwNzdrZkF0VXdSYWpqb0pvYnhFdllKNTNZTnNSWnpqekpubWVncm5Bam0zdDVvaWkxbVZnR1NocmpQNXNYMnJ3WDRKNzczVU90Q0RuNWVXSjZsOHIwbW1j?oc=5",
       "medio": "Defensoría del Pueblo de Colombia",
       "fecha": "2026-10-31T22:56:06.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Defensoría pidió reforzar vigilancia de la reforma rural tras quedar por fuera de la verificación de la ONU: “Debe continuar siendo una prioridad”",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQzZ1Z2RoTjVTdVZUdFlJcDRJcUxNc1YzaWhGVlltcUxhc3l1TkdfWWtveGVBU3BwNE1zdmkwOV8yVFV1RzdyTmZ5YTF5RUhIejIxU0RGX1ZjMnl6QW9VWEtxeGZINUNEV3ZmNnFPSkJtb1dPWFZZazZ0OE1oTzM4OHU0amtVS1lDVUtPZndrdlQ4SzR1Q1JMWUI4TExma2NfeDhEWVdIXzdnQklPallfM2ZwMzJpQWc3bDlrd2N3dk1jYlhYdzBITTJzYnljR2tBYnREeXczLTNUaDRSeU9SLUJvdnZQY1NLYzE4RUFiOVVYMVNNeGlqaVJNNU5hZmFqV0tkN2FFWVJHMVZ6MHdRc3dwWng5NW_SAbICQVVfeXFMUDNFem5ISVpObkw5UmJLTHdGYnNnSmdUZ3dURGRPeVNRdGRoRms1SzZQQ2h1SnBoNzlnNVpHNEVpb2Y1U2NOSmpsVWlDTjBJVWtDUS1DOWJuSUZsRlpkVkEyTFdBSjdjNFJsckoxQU5GeHo3N0RTLTNna2VabGVUR1RSMWl2NW1jbUJ0OTB1LTlBWFc3elF6ODhiYVVjdGRVNkxZT2kzNEhjVEdhM0NBUVpCblJiTTRFVzhzeG1KX3kyT2ZLcExSWUN2cjRLWWdpVEhIWjdpSU1EZnQ3WGFDd3NwaGRxZVRvQ015TTRDOWdERF82LXpxV2FpX0FMcU9hX1Zvd2lmQml1NFh0bWNtZm1McGYxdGlTLXlqQXdWVFJTZzVYcnl2aFNZLTN4WnpEUXpn?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-31T21:35:00.000Z",
       "resumen": "",
       "imagen": ""
     }
