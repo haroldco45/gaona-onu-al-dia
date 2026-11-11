@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T07:38:35.765Z",
+  "actualizado": "2026-11-11T15:59:20.144Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -24,7 +24,7 @@
       "medio": "Pulzo",
       "fecha": "2026-11-10T09:59:00.000Z",
       "resumen": "La ONU reafirma su respaldo al Acuerdo de Paz en Colombia y pide revisar recursos para su implementación, tras una década del pacto.",
-      "imagen": "http://www.bing.com/th?id=ONUT.4gNtqninN640XchXvlwURg&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.6mfrU09aiju754sPzdNA1w&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Académicos a Mauricio Gaona: \"Su caracterización del Acuerdo de Paz es selectiva\"",
@@ -48,7 +48,7 @@
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-09T16:46:40.000Z",
       "resumen": "Un grupo de investigadores colombianos le pide a Mauricio Gaona reconocer tanto las fallas como los avances del pacto.",
-      "imagen": "http://www.bing.com/th?id=ONUT.GFo1G9QB0B5vXPxLM6jA9g&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.124wBuv182zV53l6YOvV2A&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Embajador Gaona, víctima de campaña de desprestigio",
@@ -88,7 +88,7 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-09T03:32:34.000Z",
       "resumen": "El representante aseguró que el traslado de cuatro funcionarios hace parte de \"un proceso natural en el que se necesitan nuevas experticias\".",
-      "imagen": "http://www.bing.com/th?id=ONUT.ujqNrVXAtuVC0trGTcOQWA&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.GoB3gfwFefBIqpJSbso5lA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Embajador Gaona defiende Acuerdo Paz y traslados Misión ONU",
@@ -96,6 +96,14 @@
       "medio": "Estrella Digital Colombia",
       "fecha": "2026-11-09T03:32:00.000Z",
       "resumen": "El Acuerdo de Paz, piedra angular para la transformación de Colombia, continúa siendo un tema central en la agenda internacional. En este contexto, Mauricio G ...",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rebeca Grynspan: ‘El Consejo de Seguridad ganaría mucha legitimidad si representara al mundo de hoy y no al de 1945’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN19VRS1LUmZwVGZBdy1VX3QxOFRLQ0hWbnF5ZS1OZlJpM3BKTXlHdXhzSFFBV2xXR3FGMnZSZC05QUppbEFKMml6aEtnVE1MTnZrZVAzWE4yeDBNaTktMlBHcFc0Nk9Da2ZRQTBfRnBzVHV5Nmp1RmNveXJnbHJYMTVfbVBoQ3pmWEowaWlyU1VvUTh5N2I5MHJIa0pnbWE4RXFDUXVMM0QybXZvNUhLVElDaw?oc=5",
+      "medio": "La Nación Costa Rica",
+      "fecha": "2026-11-09T01:19:53.000Z",
+      "resumen": "",
       "imagen": ""
     },
     {
@@ -156,8 +164,8 @@
     },
     {
       "titulo": "Rebeca Grynspan: 'Consejo de Seguridad de la ONU ganaría mucha legitimidad si representara al mundo de hoy y no al de 1945'",
-      "url": "https://www.msn.com/es-co/noticias/otras/rebeca-grynspan-consejo-de-seguridad-de-la-onu-ganar%C3%ADa-mucha-legitimidad-si-representara-al-mundo-de-hoy-y-no-al-de-1945/ar-AA2gZ2Iy",
-      "medio": "El Tiempo on MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONlVXUm4ydlYxYlNsd0NVNUpGZFhfalJmeFhMczVRSnRHb0h2SzJDeFBmdUNHUklCNGRva3RhM29mdGJId3l3ZGhFUEZjVGN4WFdRdUtQYk1ZMi1JTFplamJTS2ZicVpXQjdoakpkVDB5QUpIZmRJVUtfamVNY0d4SFpSdmtPbTAzVmtOOV95WWdlOC02LW5lUXBXME1pUV9RektXQllJUEo4Q0czTWhIS0xoRjdMYk9wV1VMLW1lYVNMYXlNVlFXdFZsZ3hjbl9tSnNSYkM1Zl9wdWhyZ1hmUERwOFBVeXpVRkE0N1BrTmg2bFhvdmRCOUlCMA?oc=5",
+      "medio": "El Tiempo",
       "fecha": "2026-11-07T19:30:00.000Z",
       "resumen": "La aspirante más opcionada a ocupar la Secretaría General habló en exclusiva con EL TIEMPO sobre sus aspiraciones y el impacto para Colombia.",
       "imagen": "http://www.bing.com/th?id=ONUT.jb7MrwdBMlZruPK5snayQQ&pid=News&w=640&h=360&c=7"
@@ -256,7 +264,7 @@
       "medio": "La Patria",
       "fecha": "2026-11-06T16:00:00.000Z",
       "resumen": "El jefe de la Misión de Verificación de la ONU en Colombia, Miroslav Jenca, aseguró el viernes (6 de noviembre) que respeta las críticas del Gobierno al acuerdo de paz, pero subrayó que, pese a los ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.7yMWWxUIC_ZLSRj-VKDc4A&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.OF6O1kwRNK8I5j_OOHYKrw&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "“Respeto y tomo nota\": la respuesta de la Misión de la ONU a las críticas del embajador Mauricio Gaona contra el acuerdo de paz",
@@ -376,7 +384,7 @@
       "medio": "Revista Semana",
       "fecha": "2026-11-06T06:39:27.000Z",
       "resumen": "Miroslav Jenča fijó su posición frente a las críticas del Gobierno al acuerdo firmado con las FARC en 2016 y defendió la imparcialidad del organismo internacional en medio del debate político que ha g ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.CoDx6Ln7XW1d9F4_NDqV7Q&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.FcH2eyTBf3__XaeRYb9G1Q&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Jefe de misión de verificación ONU responde a críticas sobre el acuerdo del embajador Gaona",
@@ -475,34 +483,10 @@
       "imagen": ""
     },
     {
-      "titulo": "La ONU seguirá verificando el Acuerdo de Paz en Colombia, pero ya no vigilará la reforma rural",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGdRT3NFcWlhZGdaRUl4RkFKNGtQaWxHOHVMQVo3Q3MzMnVlN0F0eFZ0TXMxUDNoNlZVc2FzLVo3Q1M2M2dwWjN2bG11MDBIVXJxeXgwNHJRZDFMRjBDbFljVDY4YjhKZGgyMS1WME5oOTdHQTZoNFA0a0lnbXd2aFNrQWxMQ2RqSlk1b0Q4NkNCVlhlUHBua2NxZ0EzOVB2ZTNTTnZRbGltN3lVUlpnZnRBQmU2YkswbjZDR25MMnhTM1RvRFYwSTh2dHY1RG1tRHl5LdIB4AFBVV95cUxQMEMxcWtuNUt1N3ZmSHhQS29hUGtnbXdFeUd5cWRQeTMtUzdQRXMzZ1Q4Q21fRTFmZktITk8tdm1abnpMOXR1Wmc1b2prM1JpLW5OSlZob1hqcUU1QkNCRTBVc19CS2ItTm84VVJmb00wc05LQU5Vczd6RTU4Y25WdlVhVXRvcnFOREtETWQyTHE2SFpUUnVEWThiMVl5MEpXZUdaSEF2QXl0dWtYZktIbWdhVVA2T3pYQTZpVjFISDI0cG5hLTh3UTEzc0lfeV9fSW11V0d5bkdWZTkzcDU2Rg?oc=5",
-      "medio": "Teleantioquia",
-      "fecha": "2026-11-03T17:06:08.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
       "titulo": "Victoria diplomática de Colombia: Consejo de Seguridad de la ONU aprueba por unanimidad ajuste al mandato de la Misión de Verificación",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGVzaWdKdUVvTS1lZ3h6cnAza3FWOTBKbTI0M2JrNXVkY0NaZGdCY055WmJTNUhXTjdXSEk4UmQ2Mm1SM1I5WFZqZlVlUTlaWGpubmtnYUZIaWQwWnRrMXd6bUxvV1BXLXp5YUNPeEdJRU1JVEN5Sy1NRVZtVFBKc0lROEhkTlFWMTlreHRmdmtUajdCMUF5ODQ2OGZ5bnRGRlhjb0JWOXRob1RfUDljNldTUWdfbVFQcU9tOWRCRDNUUnJQTW1jbVN1TGx0QTZfWFlDXy1qYTJkMVpEcXVJRFlzTWZ1LUtQZjBlcGw3ZzZnRnpyZXZQLUl1WlAyQmlydHVsN0x0cjc?oc=5",
       "medio": "Revista el Congreso",
       "fecha": "2026-11-03T15:58:34.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Embajador Gaona pidió traslado de 5 diplomáticos, ¿no estaban preparados para sus funciones? | El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRE1SbDRIRWJiUVRaSXh0MWVRdEFLRFJpUVBvVzJJcjk4aHlKMnBoWUlBYzlUazhFUWxMNEFkZndxcmZ4Z2NzVFBfeWgwRU1QN05mWkp1OTRTY190VWljYmNRdzRBR0tBWGlVb0ZsVGhBNlV6czFNYURHRkxxNko2REpGTkZLem5fLXNvVjlGdUhnQWZEaEd6bXpZajAwNWxkQXUtQ0dTZV9MdWZqbFRJXzNvUWZRZFVsSFNjT3lB0gHDAUFVX3lxTFBJVjQwdzhxazZZMnpLc25jeXduWFNoZ19FckVyNWpNSXY1QmtqWjlXaFJFMmpXcXFzODBGSUNNb2V5aW4weEhZWWx0d0RkbFZQZVF3aG1zV1k2SVVZckxfT3QzangyRHRBU2NtcFYwZmxNbEZETEZOZVM3VEVyNTE3QXNOTFFGeDh4Wl9fU3NESlNnLWVWVlNUSEs2RDduTjBFVndkb3dlcmYtVHBPY0ZoSXNoMTA1WWw1UGh5dzVBbFdZdw?oc=5",
-      "medio": "El Colombiano",
-      "fecha": "2026-11-03T15:43:44.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "Postura de Colombia en la ONU frente a Acuerdo de Paz deja hasta ecos gramaticales",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpEdmw5aVJFTTB6WGJOLUNqLVcyLWJFNnloYUhEMm16cUxXS0RxcVlmRWZTUU92YzFDY0RYWXdTZlJXNFNyWXVQUFlFOUFaNW5fa29jQ3VyS3paNWEwNHZXR2NGZ19EVzVteGp2QzBEQjIyTVhqRFgtRGI5dmVqQlp3d2YyeFJOa3g5dFNrSXVkRmg4VTFv0gGcAUFVX3lxTFBhTW9XdXBnYi1pSHQxcXV1Yl9PQlhCbTktMUc1UnZmNGctanNCOFY3bzdaQmN5RmN3ZHRzVGZfVU9IenJfWXNXZVlkOTNMLWUta3NKaFZna3JNbnVfbUVxSE5OMmthSm95REpNejFjcFd1UzBrZS03VHhWbWRlR1VyTU96enVjc053QW93dGIyWXhET0pMNGV5OF9INw?oc=5",
-      "medio": "Pulzo",
-      "fecha": "2026-11-03T13:57:02.000Z",
       "resumen": "",
       "imagen": ""
     },
@@ -531,14 +515,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Mauricio Gaona, embajador de Colombia en la ONU, pidió el traslado de cinco diplomáticos a varios consulados: quiénes son",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTFlZQ0NPTlpMWVBxRmJzWFhnU2VGM0k3dHoyaDVyWUpIQTBZN3ZZODcwZmlIRkNFTFJlbjBWOFNEY1RnVTNqQ0JtQU1NRE90cXQ0RDJVWUNZcVlzeHZjSk9hUXBIV3Vwb0tyRnRuZmZOOGpLT0dQOUhKeC1YaGpPaUFNTE9MSm5GTk5qclM0VU4tSzFUdm1HcGNPLW1IaGlQSF9BRmo3V2s1TG9PVjJlelhRc0RlVDFHa3F2OWhxSnZDd1NPNkJHTEJ5TFBBX3lvTE9kOWRyNEJhdlJUa1Q5NjUtVzVuQkhjUlU1T1FUN1ViMWUtWmfSAZACQVVfeXFMTUFKVDZiMHdTNExTbm9EblpMRTc3ZWZ4d2taLXZLRVM2cGt2c016QldkV1h2akdkaGFmT19iYktaM2RNMGNUdTdyQTVNTkNNUE80VVdrbmpRS0V2WC1MWjJiYjExQUdFXzQ0NDYxY05zbkU5V2dfM1drRWNTdUZDVTMxS1REQjhpRnNvemxtSEEyZGMwQzFGNXI5UkpQRXBFaFZTaGt1QVJtOXZWZjhNRmRfQk0td0VBYUFiR1BwTXNycGg0TEJEMWVjX3hsbUdOTFIxNl9LbHQwRjA1RGg5WjNkci1ZeU04TlVJZVQxZjNWVnZpZFZKYVdSeEQ1TDBORmtnS0R1OGNKX0dBZTRFc3k?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-03T10:18:00.000Z",
-      "resumen": "Unidiplo pidió una rectificación al embajador y cuestionó los cambios de sede de ministros consejeros, un ministro plenipotenciario y una segunda secretaria ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.fvPMqBEVJEiiqZj4zgge0w&pid=News&w=640&h=360&c=7"
-    },
-    {
       "titulo": "Álvaro Uribe reaccionó a postura del Gobierno de la Espriella en la ONU sobre la JEP y los acuerdos de paz: “Muy benigno”",
       "url": "https://www.msn.com/es-co/noticias/other/%C3%A1lvaro-uribe-reaccion%C3%B3-a-postura-del-gobierno-de-la-espriella-en-la-onu-sobre-la-jep-y-los-acuerdos-de-paz-muy-benigno/ar-AA2gFUFr",
       "medio": "Semana on MSN",
@@ -547,20 +523,52 @@
       "imagen": "http://www.bing.com/th?id=ONUT.V-0yay0_Kgqi1VPA0NX7Lw&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Estos son los seis diplomáticos que serán trasladados tras solicitud del embajador Mauricio Gaona",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHN2SFlmVGdGTDJLNy1pVEJxZlVSZkkyUUMyMVRJdDBHTWpXUDFGc1FIa0p5aFUzTmo5amx0M1QySUNPVEkxNkNKSFZOdmJiQXB1RVYyT2s5Nk9HOFRUSllIdHNSSUlONkJISlBZeHlTTU12UEV2TGgySXF5dWEybTBsd3EwTm5SeXBnYTI5d1ZqOEtGYklIZ3RRcF9XbWp5WE1wT0JFQS1uTWxYbUhJNUliWGotSkl4dlhTZzhmVjZJYUlsYWdTSEdxM191d9IB4gFBVV95cUxQRjd6MHBEQ2F6ZFhJcEFIS1ZZU3pZRi1uY09IU09lS2VFaGFfek9HWjUwdklwU2w3TWc0MlVKdmJFMUppLWUtYjMxcGZlR2N6SEEwdk5xUkFOVlJiZkZUakNFbUtkeVlDTjdQbVI3LWFNUlRHVjFpd0ExZHlmN2JlLXRZSVd5OGtXRmFTRkNvbFhxMTNxcGIzY3d6X1M0dTktUlBOMlFYTXFiV2xpZzlvX1dCZURFd2ViaThWeGozS05VUVdYVU5XWkhFS3hIdWtGRWd2bXFkclBjaG5wNlI2SGp3?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-03T08:30:00.000Z",
-      "resumen": "6AM W conoció las razones por las que el embajador de Colombia ante la ONU, Mauricio Gaona, pidió el traslado de los seis funcionarios.",
-      "imagen": "http://www.bing.com/th?id=ONUT.lkkWDmqU7GLoDLHtkhv-Dw&pid=News&w=640&h=360&c=7"
-    },
-    {
       "titulo": "De la Espriella celebra decisión unánime de la ONU sobre la paz en Colombia",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2V3TnF1aDJXXzh2dTQwc0g1cHExeTVnbnR1NEtkNkFmdl9LNHlLdWlwenJTSDJWZ0NGX25CWDk3eUpxT1ZzdDZPcENwNFNfMl9EX1pTQ0NyTFNVQUJoNUFwNGtDNXlYc3psUm9LNHdrbGJEem5PREdCZXhEQjcxQTVWNmk4LWRiamJ1eFVHZ3N4Q1NCcEQ3emdlQTZiR1VrLWhDMkE1WW1MOFB4ZVl3?oc=5",
       "medio": "Mi Punto de Vista",
       "fecha": "2026-11-03T08:15:00.000Z",
       "resumen": "Diez años después del acuerdo de paz, Colombia enfrenta nuevos desafíos de seguridad mientras Naciones Unidas redefine sus prioridades de verificación ...",
       "imagen": "http://www.bing.com/th?id=ONUT.ciauVsdLz-jpqL79jJdBJA&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "La ONU seguirá verificando el Acuerdo de Paz en Colombia, pero ya no vigilará la reforma rural",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGdRT3NFcWlhZGdaRUl4RkFKNGtQaWxHOHVMQVo3Q3MzMnVlN0F0eFZ0TXMxUDNoNlZVc2FzLVo3Q1M2M2dwWjN2bG11MDBIVXJxeXgwNHJRZDFMRjBDbFljVDY4YjhKZGgyMS1WME5oOTdHQTZoNFA0a0lnbXd2aFNrQWxMQ2RqSlk1b0Q4NkNCVlhlUHBua2NxZ0EzOVB2ZTNTTnZRbGltN3lVUlpnZnRBQmU2YkswbjZDR25MMnhTM1RvRFYwSTh2dHY1RG1tRHl5LdIB4AFBVV95cUxQMEMxcWtuNUt1N3ZmSHhQS29hUGtnbXdFeUd5cWRQeTMtUzdQRXMzZ1Q4Q21fRTFmZktITk8tdm1abnpMOXR1Wmc1b2prM1JpLW5OSlZob1hqcUU1QkNCRTBVc19CS2ItTm84VVJmb00wc05LQU5Vczd6RTU4Y25WdlVhVXRvcnFOREtETWQyTHE2SFpUUnVEWThiMVl5MEpXZUdaSEF2QXl0dWtYZktIbWdhVVA2T3pYQTZpVjFISDI0cG5hLTh3UTEzc0lfeV9fSW11V0d5bkdWZTkzcDU2Rg?oc=5",
+      "medio": "Teleantioquia",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Embajador Gaona pidió traslado de 5 diplomáticos, ¿no estaban preparados para sus funciones? | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRE1SbDRIRWJiUVRaSXh0MWVRdEFLRFJpUVBvVzJJcjk4aHlKMnBoWUlBYzlUazhFUWxMNEFkZndxcmZ4Z2NzVFBfeWgwRU1QN05mWkp1OTRTY190VWljYmNRdzRBR0tBWGlVb0ZsVGhBNlV6czFNYURHRkxxNko2REpGTkZLem5fLXNvVjlGdUhnQWZEaEd6bXpZajAwNWxkQXUtQ0dTZV9MdWZqbFRJXzNvUWZRZFVsSFNjT3lB0gHDAUFVX3lxTFBJVjQwdzhxazZZMnpLc25jeXduWFNoZ19FckVyNWpNSXY1QmtqWjlXaFJFMmpXcXFzODBGSUNNb2V5aW4weEhZWWx0d0RkbFZQZVF3aG1zV1k2SVVZckxfT3QzangyRHRBU2NtcFYwZmxNbEZETEZOZVM3VEVyNTE3QXNOTFFGeDh4Wl9fU3NESlNnLWVWVlNUSEs2RDduTjBFVndkb3dlcmYtVHBPY0ZoSXNoMTA1WWw1UGh5dzVBbFdZdw?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Postura de Colombia en la ONU frente a Acuerdo de Paz deja hasta ecos gramaticales",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpEdmw5aVJFTTB6WGJOLUNqLVcyLWJFNnloYUhEMm16cUxXS0RxcVlmRWZTUU92YzFDY0RYWXdTZlJXNFNyWXVQUFlFOUFaNW5fa29jQ3VyS3paNWEwNHZXR2NGZ19EVzVteGp2QzBEQjIyTVhqRFgtRGI5dmVqQlp3d2YyeFJOa3g5dFNrSXVkRmg4VTFv0gGcAUFVX3lxTFBhTW9XdXBnYi1pSHQxcXV1Yl9PQlhCbTktMUc1UnZmNGctanNCOFY3bzdaQmN5RmN3ZHRzVGZfVU9IenJfWXNXZVlkOTNMLWUta3NKaFZna3JNbnVfbUVxSE5OMmthSm95REpNejFjcFd1UzBrZS03VHhWbWRlR1VyTU96enVjc053QW93dGIyWXhET0pMNGV5OF9INw?oc=5",
+      "medio": "Pulzo",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mauricio Gaona, embajador de Colombia en la ONU, pidió el traslado de cinco diplomáticos a varios consulados: quiénes son",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTFlZQ0NPTlpMWVBxRmJzWFhnU2VGM0k3dHoyaDVyWUpIQTBZN3ZZODcwZmlIRkNFTFJlbjBWOFNEY1RnVTNqQ0JtQU1NRE90cXQ0RDJVWUNZcVlzeHZjSk9hUXBIV3Vwb0tyRnRuZmZOOGpLT0dQOUhKeC1YaGpPaUFNTE9MSm5GTk5qclM0VU4tSzFUdm1HcGNPLW1IaGlQSF9BRmo3V2s1TG9PVjJlelhRc0RlVDFHa3F2OWhxSnZDd1NPNkJHTEJ5TFBBX3lvTE9kOWRyNEJhdlJUa1Q5NjUtVzVuQkhjUlU1T1FUN1ViMWUtWmfSAZACQVVfeXFMTUFKVDZiMHdTNExTbm9EblpMRTc3ZWZ4d2taLXZLRVM2cGt2c016QldkV1h2akdkaGFmT19iYktaM2RNMGNUdTdyQTVNTkNNUE80VVdrbmpRS0V2WC1MWjJiYjExQUdFXzQ0NDYxY05zbkU5V2dfM1drRWNTdUZDVTMxS1REQjhpRnNvemxtSEEyZGMwQzFGNXI5UkpQRXBFaFZTaGt1QVJtOXZWZjhNRmRfQk0td0VBYUFiR1BwTXNycGg0TEJEMWVjX3hsbUdOTFIxNl9LbHQwRjA1RGg5WjNkci1ZeU04TlVJZVQxZjNWVnZpZFZKYVdSeEQ1TDBORmtnS0R1OGNKX0dBZTRFc3k?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "resumen": "Unidiplo pidió una rectificación al embajador y cuestionó los cambios de sede de ministros consejeros, un ministro plenipotenciario y una segunda secretaria ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.AqXbrhepoJs4AJe7j69acw&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Estos son los seis diplomáticos que serán trasladados tras solicitud del embajador Mauricio Gaona",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHN2SFlmVGdGTDJLNy1pVEJxZlVSZkkyUUMyMVRJdDBHTWpXUDFGc1FIa0p5aFUzTmo5amx0M1QySUNPVEkxNkNKSFZOdmJiQXB1RVYyT2s5Nk9HOFRUSllIdHNSSUlONkJISlBZeHlTTU12UEV2TGgySXF5dWEybTBsd3EwTm5SeXBnYTI5d1ZqOEtGYklIZ3RRcF9XbWp5WE1wT0JFQS1uTWxYbUhJNUliWGotSkl4dlhTZzhmVjZJYUlsYWdTSEdxM191d9IB4gFBVV95cUxQRjd6MHBEQ2F6ZFhJcEFIS1ZZU3pZRi1uY09IU09lS2VFaGFfek9HWjUwdklwU2w3TWc0MlVKdmJFMUppLWUtYjMxcGZlR2N6SEEwdk5xUkFOVlJiZkZUakNFbUtkeVlDTjdQbVI3LWFNUlRHVjFpd0ExZHlmN2JlLXRZSVd5OGtXRmFTRkNvbFhxMTNxcGIzY3d6X1M0dTktUlBOMlFYTXFiV2xpZzlvX1dCZURFd2ViaThWeGozS05VUVdYVU5XWkhFS3hIdWtGRWd2bXFkclBjaG5wNlI2SGp3?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "resumen": "6AM W conoció las razones por las que el embajador de Colombia ante la ONU, Mauricio Gaona, pidió el traslado de los seis funcionarios.",
+      "imagen": "http://www.bing.com/th?id=ONUT.lkkWDmqU7GLoDLHtkhv-Dw&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Presidente De La Espriella destaca respaldo unánime del Consejo de Seguridad de la ONU a propuesta de Colombia",
@@ -632,14 +640,6 @@
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-02T16:36:30.000Z",
       "resumen": "El presidente Abelardo de la Espriella respaldó al embajador Mauricio Gaona y reafirmó su discurso ante la ONU.",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presidente De La Espriella se pronuncia tras renovación del mandato de Misión de Verificación de ONU sin reforma rural integral: 'Reafirma soberanía'",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTDcwR1FoN05uUmZ4dkdXRFpmSW5kemJmczVoYS1kd1I2cE53VkRTRzh5WkZpbnFGMTFoZkVOYkxhNVJJSEliLTZEYTNGbl9YQ0ZpMHFNa0YtTWUtU2tyMzZkM0FaRTE4RUxFeC12b1JUMzBOdGhReVJJNmlQMG1tNkVYNUc2UUdyOTN2VFNJWG5oOGo0Z1FPUTA1enoyWlhjTW1KMGpOdmcwd1F2azZMREE5WFNieWwzLW54YVYtcVR6YzNHc0E4SHhBM3hxR29GLXlPVndRclZ4a3U3Wm5KYjVhV29yRU1PRUlNNnZJaTVEbXpCX3lvbGhkQXR2dUxnRnlqX3lEQjNHWUpnWUVkOXBEWGhIMXJVbFg0Z0NmbVh3UGZSMm42YVgza3hPLUnSAbQCQVVfeXFMTXB4ZmszcjFlLXQ0MU1rWng2RlVCNDltWnFNTWl4Ukk4YV9iTEZzNU5rVFJaUWNhWVNzamJ3M0hfdzY5VTllQnF5elpNRmNMQ0NmdEtHYlNGa3lVeXVlRzdBeUNSOUFNamxXWjA0ZEgyWklpbGltUWREOXAwdXFKamxXbWlZTHhEcXJwRENKQXlXODRZZ2JjV01WSUJOMnNpdHljalRXMmQzR1NrSXZ2QlZMbW4zbE8tSmwtdmI2S1QzMU5LX0pYVnNoOXJqbVNSZS1XM1R3REN4Q055bl9IQ1V4UE5vUlZTTWhXVGtsaDlKemVpSGNYdF9RbGRFaHZQQ3NVUU5sVldWV1BaUTN1cFpUV0JXTnFabFJnZTZIcV9XRmIyTllCM1NZVWZQSi1Fd2VXXy0?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-02T15:45:14.000Z",
-      "resumen": "Con 15 votos a favor, el Consejo de Seguridad de las Naciones Unidas aprobó la propuesta del Gobierno.",
       "imagen": ""
     }
   ],
