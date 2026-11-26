@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T00:10:48.327Z",
+  "actualizado": "2026-11-26T08:47:48.405Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "titulo": "Colombia votó en contra de resolución de la ONU que exige a Israel detener la explotación de recursos palestinos",
-      "url": "https://cambiocolombia.com/poder/articulo/2026/11/colombia-voto-en-contra-de-resolucion-de-la-onu-que-exige-a-israel-detener-la-explotacion-de-recursos-palestinos",
-      "medio": "Cambio Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX2FpOFVVcm9YYWpFUnZEVm1yNlJFNzBPYW5iTl90ZHZjUWEtZW0zc1VvNmhtLXhFYlZ4bElKUFR3bGpPa2cydzFzaGhtWl9XaTFFYmRiUDZuMVhRcmVFNG5iMGYyWWdySFkyZnA2VlZUS0E1RkM4eDFlZUVQSkxIZGk1djVJLVJ4VjUtV1FySzRxaXFFanAxR2ZzY2VvRVljdzBHd3BiRDlZYzh4TUpIT3pKclhoRUlZQkJyVktCdzlQNFAzSGRfV3hFQ3c4dFpPcjhlaGFqZEZpRnZSOC1xZ1pFb0c5Nm1XcTVMVG9xSFJGSVR6?oc=5",
+      "medio": "CAMBIO Colombia",
       "fecha": "2026-11-13T08:00:00.000Z",
       "resumen": "Colombia votó en la Segunda Comisión de la ONU contra la resolución que exige a Israel cesar la explotación de los recursos naturales en el Territorio Palestino Ocupado y el Golán sirio.",
       "imagen": "http://www.bing.com/th?id=ONUT.1tFZ-gW51RC_LKWR8pCyEA&pid=News&w=640&h=360&c=7"
@@ -587,6 +587,22 @@
       "imagen": ""
     },
     {
+      "titulo": "Embajador de Colombia ante la ONU le respondió al jefe de la Misión: “El respeto es mutuo”",
+      "url": "https://www.semana.com/confidenciales/articulo/embajador-de-colombia-ante-la-onu-respondio-a-las-palabras-del-jefe-de-la-mision-el-respeto-es-mutuo/202628/",
+      "medio": "Semana",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "resumen": "Mauricio Gaona ratificó el respeto mutuo y la disposición de seguir trabajando junto a la Misión de Verificación de la ONU. Siga los últimos detalles de la política en Discover, lo que solo acá puede ...",
+      "imagen": ""
+    },
+    {
+      "titulo": "Debate en la ONU tras postura de Colombia sobre el Acuerdo de Paz: Misión de Verificación reafirma su rol e imparcialidad",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0l4VU5KWW1YQUdZeF9rZ0pwdWthUFhwVGNYQjVxM25zM3Z6M0FGa1JnTnp2ZktTRU14Ql96OFZnSWJiaDkwckszMmtGNU1tRF9hUC1PQ09IQ0JXbHVRT2NxbklBZkRoWXBpVzdRV3NzeXg2VE1BODZuZEoxZlNkd2h0ZHRTNHlYekRWSENTYlJwNWRrMU5aS3p3TC1GRGFRTW5aRjBYME9UVi1yMFVyTWZ3c29mNzEwQkE?oc=5",
+      "medio": "Pulzo",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Jefe de Misión de Verificación de ONU en Colombia destaca éxito del Acuerdo de Paz a 10 años de su firma",
       "url": "https://spanish.news.cn/20261107/2be85daa21114258b925e6559706b141/c.html",
       "medio": "Xinhua Español",
@@ -625,22 +641,6 @@
       "fecha": "2026-11-06T06:39:27.000Z",
       "resumen": "Miroslav Jenča defendió la imparcialidad del organismo internacional en medio del debate político que ha generado la modificación de su mandato. Siga las noticias que marcan la agenda del país en ...",
       "imagen": "http://www.bing.com/th?id=ONUT.CoDx6Ln7XW1d9F4_NDqV7Q&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Jefe de misión de verificación ONU responde a críticas sobre el acuerdo del embajador Gaona",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTExhcUVkN2tpSTR0cUo2REVobDhiUHhNdXNkMWFpaHk4aUxnX1lTNDFET3dpR0Y3QUhDSE5kbmx0TFlneVlpS3QwTG1Udmg0QkdmR3c2a3ZHMFo4UEN5dDZrc3l4eUJ1dDBvejRUV3dRMkFIVHVkVlh3UjBEMi1halpfTTVzcS1aUGFJZGRDRUVQam5HRGJzOXR5SHkwMnFrUnQxTnhqZ2dzU2hMVUR0NEZwX1VabHZnTGNscWdRbFB4SXJoa2FzbWEtSTIydnJoZERZdE42UV9FV3Q4eFVQeXV2MllnQWhLUGNRWjZvVEhQdlN4NUtZaFNuUEMtbEnSAZMCQVVfeXFMTk8wS0hyQTlxZ1pTUGpwaXc2eXJad2V4eGZsazNmWEtvb2w2bEpULUxrN2w2ZGhPV3hlZEZCTWU4N0F5aFBwT29BekVVeVpaLVZZWUV3YjUzLXM0b2sxa3NKT1BWNzFKVXdiQV94Um05RkJSRWNUWVQ3VXhWSndWNW9zRFNKY3JnV1llYmJWQ3pIX3ZyX3VVeTRfQ3V6NXlrM1p6ZVVVa0JuYmw3NC1ZZ1Y0b0NranJFakJYQWF5NUIwLWVxbHRYZUNMMnU1a2J2U1plWVVJdDVRVkJtbmZ5QVpzUHVPbjl1aWlacWtjdFAwZnlpTldlcFI0NjU0Uk5aaUtKNlhTZ0h3Ri1RSnNxeVNXVmM?oc=5",
-      "medio": "El Espectador",
-      "fecha": "2026-11-06T05:36:07.000Z",
-      "resumen": "Este viernes 6 de noviembre, el jefe de la Misión de Verificación de la ONU para el Acuerdo de Paz firmado en 2016, Miroslav Jenča, se refirió a las declaraciones del embajador de Colombia ante esa ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.4JgVSzcNWenDBzzpWd0bQg&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Representante de ONU en Colombia remarcó importancia de reforma rural",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUdwSmNQLUJ0UmttQ0hqeThwV3pYc0VUTG1aaXBBVWlBM1BEVlh1b1JURXVJUDN0Ym9JYnRhbzlXaVVvRWVtM1VLbmQ4V3VRdC1NajBudFZCa01WQTdsN1Rka2ZRbV9LTkRha01Kb2cwbEh1SzZ3Y3E0STJ3ZG5ieDltbVU1UEczdkUybEtBdWJZOWRvc3FkaF9RUlJMSFlIMGlfN1R1Xy1OQXZsRVQ4?oc=5",
-      "medio": "Prensa Latina",
-      "fecha": "2026-11-06T05:26:00.000Z",
-      "resumen": "Bogotá, 6 nov (Prensa Latina) El representante especial del secretario general de la ONU en Colombia, Miroslav Jenča, ratificó hoy en esta capital que la reforma rural integral constituye un punto ese ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.O9bzzbbWlxEDIxguJAryGA&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
