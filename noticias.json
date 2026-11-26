@@ -1,14 +1,30 @@
 {
-  "actualizado": "2026-11-25T05:19:55.517Z",
+  "actualizado": "2026-11-26T00:10:48.327Z",
   "fuente": "robot",
   "noticias": [
+    {
+      "titulo": "ONU pide a Gobierno de Colombia mantener el acuerdo de paz",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rb0dxd1pKSTJzZHc5UFVnSG90TXJxb1dJMlNQcXFuXzRfQldWR01CblNlOXFmTkRNR21hRG1UVUxlUi1rTjRCbVE3bjVkZ09zLTNJeHhBeUp0SU1NV0JHRWx6cm5xVE5EYWRyTQ?oc=5",
+      "medio": "teleSUR",
+      "fecha": "2026-11-25T19:34:28.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mensaje del SRSG Miroslav Jenča en el Día Internacional de la Eliminación de la Violencia contra la Mujer 2026",
+      "url": "https://colombia.unmissions.org/es/news/mensaje-del-srsg-miroslav-jenca-en-el-dia-internacional-de-la-eliminacion-de-la",
+      "medio": "Misión de Verificación de la ONU en Colombia",
+      "fecha": "2026-11-24T15:59:00.000Z",
+      "resumen": "En el Día Internacional de la Eliminación de la Violencia contra las Mujeres y las Niñas, nos unimos desde la Misión de Verificación de las Naciones Unidas en Colombia para reconocer, ...",
+      "imagen": "http://www.bing.com/th?id=ONUT.RFr4iwr5oxp0trmxvYw01g&pid=News&w=640&h=360&c=7"
+    },
     {
       "titulo": "Guterres pide redoblar compromiso con acuerdo de paz en Colombia en el décimo aniversario",
       "url": "https://efe.com/mundo/2026-11-24/guterres-onu-compromiso-acuerdo-paz-colombia-aniversario/",
       "medio": "Agencia EFE",
       "fecha": "2026-11-24T11:11:00.000Z",
       "resumen": "El secretario general de la ONU, António Guterres, pidió redoblar el compromiso adquirido con la firma del Acuerdo Final de Paz entre el Gobierno de Colombia y las extintas FARC-EP, del que se cumplen ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.a690-r3UE_XDdd45APm_1w&pid=News&w=640&h=360&c=7"
+      "imagen": "http://www.bing.com/th?id=ONUT.1wQM4aH7_vv3Q4kRjHi86w&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Los extraños reclamos contra el embajador Mauricio Gaona",
@@ -131,20 +147,20 @@
       "imagen": "http://www.bing.com/th?id=ONUT.mXwn3nTkTFyN4D0jLeyXiw&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Colombia votó en contra de resolución de la ONU que exige a Israel detener la explotación de recursos palestinos",
-      "url": "https://cambiocolombia.com/poder/articulo/2026/11/colombia-voto-en-contra-de-resolucion-de-la-onu-que-exige-a-israel-detener-la-explotacion-de-recursos-palestinos",
-      "medio": "Cambio Colombia",
-      "fecha": "2026-11-13T15:30:00.000Z",
-      "resumen": "Colombia votó en la Segunda Comisión de la ONU contra la resolución que exige a Israel cesar la explotación de los recursos naturales en el Territorio Palestino Ocupado y el Golán sirio.",
-      "imagen": "http://www.bing.com/th?id=ONUT.1tFZ-gW51RC_LKWR8pCyEA&pid=News&w=640&h=360&c=7"
-    },
-    {
       "titulo": "Colombia, entre los siete países que votaron con Israel contra Palestina en la ONU",
       "url": "https://www.msn.com/es-co/noticias/other/colombia-entre-los-siete-pa%C3%ADses-que-votaron-con-israel-contra-palestina-en-la-onu/ar-AA2hoCJz",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-13T13:19:46.000Z",
       "resumen": "151 países votaron en la ONU a favor de la soberanía de Palestina sobre sus recursos naturales. Colombia votó en contra. La Argentina de Milei se abstuvo.",
       "imagen": "http://www.bing.com/th?id=ONUT.JG9TzBKht7r6sykiM2ZVCg&pid=News&w=640&h=360&c=7"
+    },
+    {
+      "titulo": "Colombia votó en contra de resolución de la ONU que exige a Israel detener la explotación de recursos palestinos",
+      "url": "https://cambiocolombia.com/poder/articulo/2026/11/colombia-voto-en-contra-de-resolucion-de-la-onu-que-exige-a-israel-detener-la-explotacion-de-recursos-palestinos",
+      "medio": "Cambio Colombia",
+      "fecha": "2026-11-13T08:00:00.000Z",
+      "resumen": "Colombia votó en la Segunda Comisión de la ONU contra la resolución que exige a Israel cesar la explotación de los recursos naturales en el Territorio Palestino Ocupado y el Golán sirio.",
+      "imagen": "http://www.bing.com/th?id=ONUT.1tFZ-gW51RC_LKWR8pCyEA&pid=News&w=640&h=360&c=7"
     },
     {
       "titulo": "Colombia votó en la ONU en contra de la soberanía palestina sobre sus recursos naturales",
@@ -299,6 +315,14 @@
       "imagen": ""
     },
     {
+      "titulo": "El Acuerdo de Paz en la ONU: entre la retórica, la lógica y la diplomacia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2FRMWlrZ0M5U3hKSk50RGVkMnNHUUdSNEhrZHRkbHhWeGVBUENDS0stYnJRTVFjWnE3NWJrWUN2aWRDWXFoeFA2MkxUelJlc1pSekcxUm5aSlRfNDE3YXRlNFpNZHlNakcwZkFlV0FoTlRkS3ZJU1ppc1J5dkRZZXBDU2tlTG4wRGxDODdiX1dFY05TSUxpNjZDeFpJQQ?oc=5",
+      "medio": "Razón Pública",
+      "fecha": "2026-11-09T02:41:11.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Académicos colombianos cuestionan a embajador ante la ONU por críticas al acuerdo de paz",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkV3cWpWekpWMzI4MjBkOUhKbUhIUmp6aXgxamk3RThjanJ6bjczR2dMdlVtQTVpeXVLZ3ZxS0VlNjNRY3pKc3F2aTVpQ2Noa211MUlNLVhyX2RNTjl1cVVoM0VPa29zeVVib1FTTmprS21EU0gxQkJmYVRiQVJ2RnFycDhUUFNsSlFXTW1ETkRLNlJhZTFJTDNDQTNHR3FwM1dnMC1ldFBoSml1bmxxbEtwSXp3Y1g5Ml9CMXUwaw?oc=5",
       "medio": "Eje21",
@@ -411,14 +435,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.tWI6oOf6KJJHZ9yn3OB6TA&pid=News&w=640&h=360&c=7"
     },
     {
-      "titulo": "Guterres alerta sobre la parálisis del Consejo de Seguridad de la ONU y el impacto económico de los conflictos bélicos",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS05MWWNVMXNERkJpRDc0d0VNTURaX3c4dVZhNWVVTjJzRTNpaTNnNzJxbmlSSFNKLTlSNHRoeVFtVHlwMUo2LTlZWGJNVUdKNUI5NmdQNWd2eDRNNEJrOTdWMVVNMndaSWZSMEpOQ1NINUthVXRZeWRxejAwM1RzVVVfU2pMZ2dxTVA0Nlc4OWVVYVp1eGZZaUxXeklsV2JMTHVIVXRRZGM1S2pPS3NoRUVwLU1MbTRGWEVSM3V4T2FxZTBRNDBOYUhQTU9EenNfSzE0RE5MWjNMT0ttSjlpNVd1MUw3QUhPSFFTNDYtRUw?oc=5",
-      "medio": "Forbes Colombia",
-      "fecha": "2026-11-06T19:18:16.000Z",
-      "resumen": "",
-      "imagen": ""
-    },
-    {
       "titulo": "Misión de Verificación archivos",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwUGZ4M3dfY3dPVTA0cnFOZHN4UVlTVGVOYzl6TFYzcHgxcWQ3UFdkTW5zUVc0M3JNN2p3a2hSbkJEUkZEZkdRdFJDNGdVbUFwclVDdl9yVm5YakJLVjNJV0ZWTm8?oc=5",
       "medio": "Boyacá 7 Días",
@@ -491,6 +507,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.uPulyoMg3FqQlvg76i73Kw&pid=News&w=640&h=360&c=7"
     },
     {
+      "titulo": "Guterres alerta sobre la parálisis del Consejo de Seguridad de la ONU y el impacto económico de los conflictos bélicos",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS05MWWNVMXNERkJpRDc0d0VNTURaX3c4dVZhNWVVTjJzRTNpaTNnNzJxbmlSSFNKLTlSNHRoeVFtVHlwMUo2LTlZWGJNVUdKNUI5NmdQNWd2eDRNNEJrOTdWMVVNMndaSWZSMEpOQ1NINUthVXRZeWRxejAwM1RzVVVfU2pMZ2dxTVA0Nlc4OWVVYVp1eGZZaUxXeklsV2JMTHVIVXRRZGM1S2pPS3NoRUVwLU1MbTRGWEVSM3V4T2FxZTBRNDBOYUhQTU9EenNfSzE0RE5MWjNMT0ttSjlpNVd1MUw3QUhPSFFTNDYtRUw?oc=5",
+      "medio": "Forbes Colombia",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Misión de Verificación de la ONU",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODg3Q3NOVDRMQTl2LW1pM2VyY0ZlQU8wU3d6X3h4NUhMemYzUkZNd0pfQkczSUstYUsyTVVNSmdHM005QS14cHhoNG5mMkVKa3hhUGpwd0l2a21jTHZjdTd0ZGVRZWJyUjNuamRqSlExaTk5ZFJmX1loblhIWkFTRlJ0OWNqem5L?oc=5",
       "medio": "Infobae",
@@ -555,6 +579,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.wkWYaqUqiadguv4VI4SOyA&pid=News&w=640&h=360&c=7"
     },
     {
+      "titulo": "Declaración a medios del SRSG Miroslav Jenča, sobre la renovación del mandato de la Misión de Verificación de la ONU",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHN3U2pWWGVMX2t2Z1ZfcmhnWkpHUjJleS1nbUhLVngxNTZWNnNMeEw0RlpLTlJLU3Q2U29KWGRWSjJHd1pMeTdwbFpfYTYyajdfYnVfeDU3Y015QVl5dzI4VDFIU1ZSVFdpdHF1b1JHdFRSYkFSNUpKS2d6VFc5WVM2OE5JaEtiYTRDU185ZU80NWFPZXRhbWZNR3ZfSzI5VlgzaDZES3VabHVxQTdEZ1hfd2R0STVSWnVEaE9JQQ?oc=5",
+      "medio": "unmissions.org",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Jefe de Misión de Verificación de ONU en Colombia destaca éxito del Acuerdo de Paz a 10 años de su firma",
       "url": "https://spanish.news.cn/20261107/2be85daa21114258b925e6559706b141/c.html",
       "medio": "Xinhua Español",
@@ -609,38 +641,6 @@
       "fecha": "2026-11-06T05:26:00.000Z",
       "resumen": "Bogotá, 6 nov (Prensa Latina) El representante especial del secretario general de la ONU en Colombia, Miroslav Jenča, ratificó hoy en esta capital que la reforma rural integral constituye un punto ese ...",
       "imagen": "http://www.bing.com/th?id=ONUT.O9bzzbbWlxEDIxguJAryGA&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Debate en la ONU tras postura de Colombia sobre el Acuerdo de Paz: Misión de Verificación reafirma su rol e imparcialidad",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0l4VU5KWW1YQUdZeF9rZ0pwdWthUFhwVGNYQjVxM25zM3Z6M0FGa1JnTnp2ZktTRU14Ql96OFZnSWJiaDkwckszMmtGNU1tRF9hUC1PQ09IQ0JXbHVRT2NxbklBZkRoWXBpVzdRV3NzeXg2VE1BODZuZEoxZlNkd2h0ZHRTNHlYekRWSENTYlJwNWRrMU5aS3p3TC1GRGFRTW5aRjBYME9UVi1yMFVyTWZ3c29mNzEwQkHSAb8BQVVfeXFMT3hodlBwRFNBYk1kQUVfMXFVUlNDWmNuQVlzV01QQjVhRlJycWd4MHpzVW92U1U1cTZheDRNeVcxdk1TcjdEeDVsZVdCVGNrRThfcFFxbWJkTmEyRjN4Ykg2WkJOZjI5T0RCZkoxbUZzWUJNT01RcDh1aFhBbUFLOXY4dVUwVlJ2eW9YeWQ3ZUJES0NTOHk3TjdOMjZMM0JpMUNuTmhpMU1FM3Rtd1VOZG5WazZEWWhwY28yX2lycjQ?oc=5",
-      "medio": "Pulzo",
-      "fecha": "2026-11-06T02:16:00.000Z",
-      "resumen": "Declaraciones sobre el Acuerdo de Paz de Colombia reactivan el debate internacional y la función de la ONU en un contexto político polarizado.",
-      "imagen": "http://www.bing.com/th?id=ONUT.LoU6zP1QCgCneZ96fhPdWg&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Embajador de Colombia ante la ONU le respondió al jefe de la Misión: “El respeto es mutuo”",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkt4Y2ZvdkY3Qm05MnJOUG9yVTVGN1JsV3BWaU9pWmFzNXB2bHBXRDdPVVhJaTRtbjBDdnBkZlRGRXJRYTlIMDl6MVUyTlJqSWp5WE1UN3ZrY2FFdjd4NVYybkEydHdRNEpsMXF2b0hKc2lsZjJNb0swUmdsZ1UxTWlWd1pycDIydVNNOG13d0RhNXpnTTdjT0xsLUdhZFpMRHNlU0V3VlhzSkppX1otd0c0UFNkNk41UEhxRUQ0RnR3Sy04VXl6T3BGSmpxc1BWZk5fT1ZOQmRmN3B6dnZnZktBQ2JMcXNWU1lr0gHwAUFVX3lxTE5FTHRtLTNPcXE3Z1ZDUlNpSm82bTNncUYyVHhIVUROQnp6UUZtY3N3YmpUOGNsSk1OUDNyeExrOW9uTTFNUDUtcTZRRmxZNUstY21sV0xzSGF6U09OZVVPYmhnNVNOVXNaMEhiY2dsMTl0b3pFRmhGajBHS0hYMlcwMTg4Z29PYmtLZTdWTXB5dHJfRGk0WlhSalZhNV93N3l0cS1jS28tQzRzZ2JRNE9qZWhKemptNHJVMnlZY05pZHhIbFB4M1lvZlZMeUItTENheHNDbGg2ZmJoaTh6THhNMmRfTzRhTjd5MUVXdDgxbQ?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-05T16:00:00.000Z",
-      "resumen": "Mauricio Gaona ratificó el respeto mutuo y la disposición de seguir trabajando junto a la Misión de Verificación de la ONU. Siga los últimos detalles de la política en Discover, lo que solo acá puede ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.ey_9byvcKlD07kdzR4O81Q&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Rosa Amalia Zuluaga será la embajadora de Colombia ante la ONU, en medio de críticas del Gobierno al organismo",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN0IxVDVyN0RWNExaSGVaMjlMODNkQ1pwLXNNS2k1Z2ZweC16U0xLOGRjd1dTR0dGOGJUOXB2bl9hcTB6WlBQaGFuNzBJR0xIY1N0R05ndWZoamRVVDVScnp6QldUVUI4Q1k5NGpldUtzVVNYdUdybm1BQVI1eS05TndTNmhXN0VLcEt0cE9EVTZ5RkRMOXE3ZTZEZ0lIbVY2TmdJUlJwX3ZfNVZXb2VNcmJhYmd6cXRaTjNHTjQtWDcxbm1qRjk0T3U2cjBpemJSeHlEb21DOFFheXRSODA3clN6amgyQ1Zsc25LV0lBWjM?oc=5",
-      "medio": "CAMBIO Colombia",
-      "fecha": "2026-11-05T07:38:00.000Z",
-      "resumen": "El gobierno De la Espriella designó a Rosa Amalia Zuluaga ante la ONU en Ginebra. Quién es y qué ha hecho Colombia en Naciones Unidas con Gaona y Restrepo.",
-      "imagen": "http://www.bing.com/th?id=ONUT.0DYlQ6ZDGHoxWWR8ruKGeA&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "Juan Manuel Santos cuestiona postura del gobierno de Abelardo de la Espriella sobre el Acuerdo de Paz ante la ONU",
-      "url": "https://www.pulzo.com/nacion/santos-critica-desde-barcelona-postura-de-colombia-ante-la-onu-sobre-el-acuerdo-de-paz-2016-PP5349582A",
-      "medio": "Pulzo",
-      "fecha": "2026-11-05T05:40:00.000Z",
-      "resumen": "El debate sobre el Acuerdo de Paz enfrenta posturas entre el gobierno, Juan Manuel Santos y la ONU, marcando impacto nacional e internacional.",
-      "imagen": "http://www.bing.com/th?id=ONUT.zRPfW3P7Ccf1nb1Sd8Z99w&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
@@ -653,7 +653,7 @@
     },
     {
       "id": "7ExvBwTPVFk",
-      "titulo": "Turning an AK-47 into a Guitar: Art, Healing, and Peace with César López",
+      "titulo": "From Weapon to Instrument: César López and the Escopetarra",
       "fecha": "2026-11-24T18:02:45.000Z",
       "canal": "United Nations",
       "descripcion": "UN News' Laura Quiñones sits down with Colombian musician and peace activist César López to reflect on the 20-year journey of the \"Escopetarra\" - an AK-47 assault rifle transformed into an electric guitar following the 2003 El Nogal attack in Bogotá. López discusses the power of art to process colle"
