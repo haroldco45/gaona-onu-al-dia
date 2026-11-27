@@ -27,4 +27,4 @@ jobs:
           git config user.name "robot-vibras"
           git config user.email "robot@vibraspositivashm.com"
           git add noticias.json
-          git diff --cached --quiet || (git commit -m "Robot: noticias $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia" && git push)
+          git diff --cached --quiet || (git commit -m "[skip netlify] Robot: noticias $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia" && git push)
