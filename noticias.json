@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T11:17:38.826Z",
+  "actualizado": "2026-11-27T20:12:04.810Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -31,6 +31,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFIyVkF2a2xWOFEyYzNoRE9jOG94RllMOXpIMUpHNlhpdm90Mk5fY2tGdEtMVC1GUjlqdFV2cUlGWC0yanZzQ2g3czFuQzc4UlJ4LW1pM2dLRVZESTZEbjBtanRtQUc1WDNGLXhDeVZScFliekZXZDM0RDVRSEJYQld0bXNHcFo5c0NUWG9qb0lnbEVvU0VuUkg0eHNVNTBQbnFhS1lVZW5WZw?oc=5",
       "medio": "La Linterna Azul",
       "fecha": "2026-11-24T05:20:46.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "Francia pide una reunión urgente del Consejo de Seguridad de la ONU tras los ataques rusos contra embajadas en Kiev",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdnN1dXM4ZzIzd3lRYmFmVWM1aG9mMjNzUURFcmI1WEsyck9EN0xGMThxSjRrQ1g4X282aDg4a29mSDFYTFNKeHZpd1VWdmhOWjFJMmFkT1UxNlY0b3ZGNFRRNURXendLdW9VREQ5N3VaQmE5dndzbF9LcjVoQXRpbnJxNnl3Zko2aG1MWjRnNnpuMS0tTnY4cTcweHhnLTc3VUlIeVpRV19NVlZjZi11al93ZGI4YkVVUjVTMDZpVW1UdnhHQlhySk5JRVZNTWVGNUNpcnpwTW84R2J3M3l1NEdsZWIwSXc5ZUlBalg2QnhsRUUtZGVCUg?oc=5",
+      "medio": "France 24",
+      "fecha": "2026-11-20T12:48:17.000Z",
       "resumen": "",
       "imagen": ""
     },
@@ -633,14 +641,6 @@
       "fecha": "2026-11-06T07:19:00.000Z",
       "resumen": "El exmandatario se refirió a la intervención del embajador de Colombia ante la ONU, Mauricio Gaona, en el consejo de seguridad de naciones unidas ...",
       "imagen": "http://www.bing.com/th?id=ONUT.KpesMftIoXdSL5_iChepDQ&pid=News&w=640&h=360&c=7"
-    },
-    {
-      "titulo": "“Sí es un éxito”: Miroslav Jenča de la ONU responde a la polémica por el acuerdo de paz con las Farc",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGlPZ0FtQTE5TGJKMVFIODRrRjVTWUQxYXRKRUhHLVBQY1pzRFdfLTVJS2laTkRTSDZDeEtUYmZvbmRhR1ZveGQxaXAwSUExRWNwRVdrUEV6TUpjSFVJZ3dqZjZiNFoyS1ZBSnE3MGxJR2VWa1JXNDBhU2xKTjJPclRDcWRLeU0yZlFyYjNHdFVDVy01SUlwdnJrVjNTV1FULXV0WlJWTVlZamtKWXo5NGt6NnlLZ0dndVB2SzIyQUZtVUFrX3c1UEVzSFBnWWdqbDMwcHl6anFDM0Uz?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-06T07:12:34.000Z",
-      "resumen": "El jefe de la Misión de Verificación de las Naciones Unidas en Colombia, Miroslav Jenča, se pronunció sobre la controversia que desataron las declaraciones del embajador colombiano ante ese organismo, ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.ra-04ulz3cbzmzJqqHBAQA&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
