@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T20:12:04.810Z",
+  "actualizado": "2026-11-28T02:54:31.032Z",
   "fuente": "robot",
   "noticias": [
     {
@@ -443,6 +443,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.tWI6oOf6KJJHZ9yn3OB6TA&pid=News&w=640&h=360&c=7"
     },
     {
+      "titulo": "Representante de ONU en Colombia remarcó importancia de reforma rural",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUdwSmNQLUJ0UmttQ0hqeThwV3pYc0VUTG1aaXBBVWlBM1BEVlh1b1JURXVJUDN0Ym9JYnRhbzlXaVVvRWVtM1VLbmQ4V3VRdC1NajBudFZCa01WQTdsN1Rka2ZRbV9LTkRha01Kb2cwbEh1SzZ3Y3E0STJ3ZG5ieDltbVU1UEczdkUybEtBdWJZOWRvc3FkaF9RUlJMSFlIMGlfN1R1Xy1OQXZsRVQ4?oc=5",
+      "medio": "Prensa Latina",
+      "fecha": "2026-11-06T18:26:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Misión de Verificación archivos",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwUGZ4M3dfY3dPVTA0cnFOZHN4UVlTVGVOYzl6TFYzcHgxcWQ3UFdkTW5zUVc0M3JNN2p3a2hSbkJEUkZEZkdRdFJDNGdVbUFwclVDdl9yVm5YakJLVjNJV0ZWTm8?oc=5",
       "medio": "Boyacá 7 Días",
@@ -619,28 +627,20 @@
       "imagen": ""
     },
     {
+      "titulo": "“Sí es un éxito”: Miroslav Jenča de la ONU responde a la polémica por el acuerdo de paz con las Farc",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGlPZ0FtQTE5TGJKMVFIODRrRjVTWUQxYXRKRUhHLVBQY1pzRFdfLTVJS2laTkRTSDZDeEtUYmZvbmRhR1ZveGQxaXAwSUExRWNwRVdrUEV6TUpjSFVJZ3dqZjZiNFoyS1ZBSnE3MGxJR2VWa1JXNDBhU2xKTjJPclRDcWRLeU0yZlFyYjNHdFVDVy01SUlwdnJrVjNTV1FULXV0WlJWTVlZamtKWXo5NGt6NnlLZ0dndVB2SzIyQUZtVUFrX3c1UEVzSFBnWWdqbDMwcHl6anFDM0Uz?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "resumen": "",
+      "imagen": ""
+    },
+    {
       "titulo": "Jefe de Misión de Verificación de ONU en Colombia destaca éxito del Acuerdo de Paz a 10 años de su firma",
       "url": "https://spanish.news.cn/20261107/2be85daa21114258b925e6559706b141/c.html",
       "medio": "Xinhua Español",
       "fecha": "2026-11-06T07:50:00.000Z",
       "resumen": "BOGOTÁ, 6 nov (Xinhua) -- El Acuerdo de Paz entre el Gobierno y las Fuerzas Armadas Revolucionarias de Colombia (FARC), firmado hace 10 años, ha sido un éxito y la Organización de las Naciones Unidas ...",
       "imagen": ""
-    },
-    {
-      "titulo": "Jefe de la Misión de Verificación de la ONU en Colombia se refirió a las declaraciones del embajador Gaona en Nueva York",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQkhUdEVwaWJkZXRBaEM1bV91aWtSTDRVUW1UV29fYm5JT3RoMmpBMHo1TmlDM0hCY2plSDhMRU9heVROOEMxSVlWRll6dGg0dXRfQVMzTmhneXdoSl9XSFVfMFJiZlNXLUZkRlBSVmtkcUxkeThxLWlMdlhwdXd0aHMtdmVFeXlaRmplUzZDdDFISG9PSzhfM3lsQlQ3dGtiOE9RYWxucnlnVkJqc3hvalZqYXVoRnFzYlVwV0lkMWZELVFjRDN5Z1ZIRmFtTlZFeEp3RjdiMDJCTWlneGNiSkNMUmRLX2dqR1liR0ZCVDVWX2xHaFNGRFYxMA?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-06T07:29:00.000Z",
-      "resumen": "Miroslav Jenča defendió la imparcialidad del organismo internacional en medio del debate político que ha generado la modificación de su mandato. Siga las noticias que marcan la agenda del país en ...",
-      "imagen": ""
-    },
-    {
-      "titulo": "\"Tratan de reescribir la historia y deslegitimar el acuerdo de paz\": Santos sobre el actual Gobierno",
-      "url": "https://www.bluradio.com/politica/tratan-de-reescribir-la-historia-y-deslegitimar-el-acuerdo-de-paz-santos-sobre-el-actual-gobierno-rg10",
-      "medio": "Blu Radio",
-      "fecha": "2026-11-06T07:19:00.000Z",
-      "resumen": "El exmandatario se refirió a la intervención del embajador de Colombia ante la ONU, Mauricio Gaona, en el consejo de seguridad de naciones unidas ...",
-      "imagen": "http://www.bing.com/th?id=ONUT.KpesMftIoXdSL5_iChepDQ&pid=News&w=640&h=360&c=7"
     }
   ],
   "videos": [
